@@ -41,14 +41,14 @@ class Crawler:
     _field_container_component = edit_form.find(id="field_container_component").string
     _vcard = edit_form.find_all(class_="vcard")[0].find_all("a")[0].get("href")[24:]
     time_trs = edit_form.find_all("td", id="bz_show_bug_column_2")[0].find_all("tr")
-    _reported_time = time_trs[0].find_all("td")[0].text
-    _modified_time = time_trs[1].find_all("td")[0].text.replace("(History)", "")
+    _reported_time = time_trs[0].find_all("td")[0].text[:16]
+    _modified_time = time_trs[1].find_all("td")[0].text[:16]
     # print(_description)
     return {
       "stack_id": stack_id,
       "component": _field_container_component,
-      "reported_time": _reported_time[:16],
-      "modified_time": _modified_time[:16],
+      "reported_time": _reported_time,
+      "modified_time": _modified_time,
       "stack_arr": self.convert_to_json(frames)
     }
 
