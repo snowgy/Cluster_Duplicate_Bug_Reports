@@ -12,6 +12,8 @@ F = f0, f1, ..., fn, f0 represents the last function that is executed before the
 
 **Approach Overview**
 
+![Screen Shot 2018-12-08 at 10.32.48 PM](https://ws3.sinaimg.cn/large/006tNbRwgy1fy0y0h6djzj30vg0f3n2x.jpg)
+
 1. Creating bug report groups
 
    * They divide the bug reports into groups where each group contains a master bug report and its duplicates.
@@ -33,8 +35,9 @@ F = f0, f1, ..., fn, f0 represents the last function that is executed before the
 
    The behavior of each bug report can be represented as a discrete sequence of function calls.
 
-   A sequence of function calls (Fi) of a bug report group is mapped to an
-   observation sequence (O).
+   A sequence of function calls (Fi) of a bug report group is mapped to an observation sequence (O).
+
+   ![Screen Shot 2018-12-09 at 2.00.22 AM](https://ws1.sinaimg.cn/large/006tNbRwgy1fy0y1f3c09j31i40ikmzg.jpg)
 
    Practically, training a well-fit HMM using a discrete sequence of
    observation 𝒪-(𝒪0,𝒪1,...,𝒪𝑇−1), means maximizing the likelihood,
