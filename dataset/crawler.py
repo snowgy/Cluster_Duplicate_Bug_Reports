@@ -46,6 +46,9 @@ class Crawler:
     # print(_description)
     return {
       "stack_id": stack_id,
+      "component": _field_container_component,
+      "reported_time": _reported_time[:16],
+      "modified_time": _modified_time[:16],
       "stack_arr": self.convert_to_json(frames)
     }
 
