@@ -24,35 +24,38 @@ class Crawler:
                 "line": _line
             })
         return array
+      
+  def fetch_data(self, stack_id):
+    url = "https://bugs.eclipse.org/bugs/show_bug.cgi?id="
+    response = requests.get(url + str(stack_id))
+    # print(response.content)
+    soup = BeautifulSoup(response.content, 'html.parser')
+    _description = soup.find(id="c0", class_="bz_first_comment").find("pre").text
+    frames = self.stackTraceExtractor.find_stack_traces(_description)
+    # print(frames)
+    if len(frames) is 0:
+      return None
+    edit_form = soup.find("table", class_="edit_form")
+    # print(edit_form)
+    _static_bug_status = edit_form.find(id="static_bug_status").string
+    _field_container_product = edit_form.find(id="field_container_product").string
+    _field_container_component = edit_form.find(id="field_container_component").text.replace("(show other bugs)", "").strip()
+    _vcard = edit_form.find_all(class_="vcard")[0].find_all("a")[0].get("href")[24:]
+    left_edit_form = edit_form.find_all("td", id="bz_show_bug_column_1")[0].find_all("tr")
+    _importance = left_edit_form[10].find_all("td")[0].text.replace("(vote)", "").replace("\n", "").replace("       ", " ").strip()
 
-    def fetch_data(self, stack_id):
-        url = "https://bugs.eclipse.org/bugs/show_bug.cgi?id="
-        response = requests.get(url + str(stack_id))
-        # print(response.content)
-        soup = BeautifulSoup(response.content, 'html.parser')
-        _description = soup.find(id="c0", class_="bz_first_comment").find("pre").text
-        frames = self.stackTraceExtractor.find_stack_traces(_description)
-        # print(frames)
-        if len(frames) is 0:
-            return None
-        edit_form = soup.find("table", class_="edit_form")
-        # print(edit_form)
-        _static_bug_status = edit_form.find(id="static_bug_status").string
-        _field_container_product = edit_form.find(id="field_container_product").string
-        _field_container_component = edit_form.find(id="field_container_component").string
-        _vcard = edit_form.find_all(class_="vcard")[0].find_all("a")[0].get("href")[24:]
-        time_trs = edit_form.find_all("td", id="bz_show_bug_column_2")[0].find_all("tr")
-        _reported_time = time_trs[0].find_all("td")[0].text[:16]
-        _modified_time = time_trs[1].find_all("td")[0].text[:16]
-        # print(_description)
-        return {
-            "stack_id": stack_id,
-            "component": _field_container_component,
-            "reported_time": _reported_time,
-            "modified_time": _modified_time,
-            "stack_arr": self.convert_to_json(frames)
-        }
-
+    time_trs = edit_form.find_all("td", id="bz_show_bug_column_2")[0].find_all("tr")
+    _reported_time = time_trs[0].find_all("td")[0].text[:16]
+    _modified_time = time_trs[1].find_all("td")[0].text[:16]
+    # print(_description)
+    return {
+      "stack_id": stack_id,
+      "component": _field_container_component,
+      "importance": _importance,
+      "reported_time": _reported_time,
+      "modified_time": _modified_time,
+      "stack_arr": self.convert_to_json(frames)
+    }
 
 # crawler = Crawler()
 # result = crawler.fetch_data(450440)
