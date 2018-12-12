@@ -1,29 +1,29 @@
 # 爬取同时会执行数据解析，判断是否含有 stack trace，如果有，则解析保存，否则跳过
 
 from bs4 import BeautifulSoup
-from dataset.stack_trace_to_package_extractor import StackTraceExtractor
+from stack_trace_to_package_extractor import StackTraceExtractor
 import requests
 import json
 
 
 class Crawler:
-    def __init__(self):
-        self.stackTraceExtractor = StackTraceExtractor()
+  def __init__(self):
+    self.stackTraceExtractor = StackTraceExtractor()
 
-    def convert_to_json(self, frames):
-        array = []
-        for frame in frames:
-            # print(frame[1])
-            _symbol = frame[0]
-            _other = frame[1].split(":")
-            _file = _other[0] + ".java"
-            _line = int(_other[1])
-            array.append({
-                "symbol": _symbol,
-                "file": _file,
-                "line": _line
-            })
-        return array
+  def convert_to_json(self, frames):
+    array = []
+    for frame in frames:
+        # print(frame[1])
+        _symbol = frame[0]
+        _other = frame[1].split(":")
+        _file = _other[0] + ".java"
+        _line = int(_other[1])
+        array.append({
+            "symbol": _symbol,
+            "file": _file,
+            "line": _line
+        })
+    return array
       
   def fetch_data(self, stack_id):
     url = "https://bugs.eclipse.org/bugs/show_bug.cgi?id="
@@ -66,12 +66,12 @@ class Crawler:
 crawler = Crawler()
 result_list = []
 for id in range(450439, 450450):
-    try:
-        result = crawler.fetch_data(450440)
-        if result is not None:
-            result_list.append(result)
-    except:
-        pass
+  try:
+    result = crawler.fetch_data(450440)
+    if result is not None:
+        result_list.append(result)
+  except:
+    pass
 
 with open('stack_data.json', 'w') as outfile:
-    json.dump(result_list, outfile)
+  json.dump(result_list, outfile)
