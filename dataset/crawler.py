@@ -19,9 +19,9 @@ class Crawler:
       _file = _other[0] + ".java"
       _line = int(_other[1])
       array.append({
-          "symbol": _symbol,
-          "file": _file,
-          "line": _line
+        "symbol": _symbol,
+        "file": _file,
+        "line": _line
       })
     return array
       
