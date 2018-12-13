@@ -13,16 +13,16 @@ class Crawler:
   def convert_to_json(self, frames):
     array = []
     for frame in frames:
-        # print(frame[1])
-        _symbol = frame[0]
-        _other = frame[1].split(":")
-        _file = _other[0] + ".java"
-        _line = int(_other[1])
-        array.append({
-            "symbol": _symbol,
-            "file": _file,
-            "line": _line
-        })
+      # print(frame[1])
+      _symbol = frame[0]
+      _other = frame[1].split(":")
+      _file = _other[0] + ".java"
+      _line = int(_other[1])
+      array.append({
+          "symbol": _symbol,
+          "file": _file,
+          "line": _line
+      })
     return array
       
   def fetch_data(self, stack_id):
@@ -69,7 +69,7 @@ for id in range(450439, 450450):
   try:
     result = crawler.fetch_data(450440)
     if result is not None:
-        result_list.append(result)
+      result_list.append(result)
   except:
     pass
 
