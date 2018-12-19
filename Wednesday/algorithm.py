@@ -24,11 +24,15 @@ def dung(stack_1, stack_2):
 
 
 def diff(report_set):
-    for stack_0 in report_set[0]["stack_arr"]:
-        for stack_1 in report_set[1]["stack_arr"]:
-            if dung(stack_0, stack_1):
-                return True
-    return False
+    try:
+        for stack_0 in report_set[0]["stack_arr"]:
+            for stack_1 in report_set[1]["stack_arr"]:
+                if dung(stack_0, stack_1):
+                    return True
+        return False
+    except:
+        # print(report_set[0]["stack_id"])
+        return False
 
 
 def main():
@@ -40,7 +44,8 @@ def main():
     for report_set in reports:
         val = str(report_set[0]["stack_id"]) + " " + str(report_set[1]["stack_id"])
         result.setdefault(val, diff(report_set))
-        id_result.setdefault(report_set[0]["stack_id"], report_set[0]["duplicated_stack_id"])
+        aaa = report_set[1]["stack_id"] in report_set[0]["duplicated_stack_id"]
+        id_result.setdefault(val, aaa)
 
     print(result)
     print(id_result)
