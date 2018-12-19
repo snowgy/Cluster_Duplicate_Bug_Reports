@@ -38,8 +38,19 @@ def diff(report_set):
 def to_list(dict_):
     list_ = []
     for v in dict_.values():
-        list_.append(1 if v else 0)
+        list_.append('TRUE' if v else 'FALSE')
     return list_
+
+# （辅助函数）打印两个数组不同处
+def show_diff(list1, list2):
+    if len(list1) != len(list2):
+        return
+    index = 0
+    for i in range(0, len(list1)):
+        if list1[i] == 'TRUE' or list2[i] == 'TRUE':
+            print(index, list1[i], list2[i])
+            pass
+        i += 1
 
 def main():
     f = open('../dataset/stack_data.json', 'r')
@@ -50,7 +61,7 @@ def main():
     for report_set in reports:
         val = str(report_set[0]["stack_id"]) + " " + str(report_set[1]["stack_id"])
         result.setdefault(val, diff(report_set))
-        aaa = report_set[1]["stack_id"] in report_set[0]["duplicated_stack_id"]
+        aaa = str(report_set[1]["stack_id"]) in report_set[0]["duplicated_stack_id"]
         id_result.setdefault(val, aaa)
 
     print(len(result))
@@ -58,11 +69,5 @@ def main():
     y_true = to_list(id_result)
     y_pred = to_list(result)
     print(classification_report(y_true, y_pred))
-
-
-
-
-
-
 
 main()
