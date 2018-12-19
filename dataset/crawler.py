@@ -30,13 +30,25 @@ class Crawler:
     response = requests.get(url + str(stack_id))
     # print(response.content)
     soup = BeautifulSoup(response.content, 'html.parser')
-    _description = soup.find(id="c0", class_="bz_first_comment").find("pre").text
+    if not soup:
+      return None
+    comments = soup.find(id="c0", class_="bz_first_comment")
+    if not comments:
+      return None
+    _description = comments.find("pre").text
     frames = self.stackTraceExtractor.find_stack_traces(_description)
     # print(frames)
     if len(frames) is 0:
       return None
     edit_form = soup.find("table", class_="edit_form")
     # print(edit_form)
+    duplicates_span = edit_form.find("span", id="duplicates")
+    _duplicates = []
+    if duplicates_span:
+      duplicates = duplicates_span.find_all("a")
+      for i in range(0, len(duplicates)):
+        _duplicates.append(duplicates[i].text)
+      # print(_duplicates)
     _static_bug_status = edit_form.find(id="static_bug_status").string
     _field_container_product = edit_form.find(id="field_container_product").string
     _field_container_component = edit_form.find(id="field_container_component").text.replace("(show other bugs)", "").strip()
@@ -55,7 +67,8 @@ class Crawler:
       "reported_time": _reported_time,
       "modified_time": _modified_time,
       # "stack_arr": self.convert_to_json(frames)
-      "stack_arr": frames
+      "stack_arr": frames,
+      "duplicated_stack_id": _duplicates
     }
 
 # crawler = Crawler()
@@ -66,13 +79,13 @@ class Crawler:
 # 示例：爬取 id 在区间 [450439, 450440] 的数据：
 crawler = Crawler()
 result_list = []
-for id in range(450439, 450441):
-  # try:
+for id in range(450439, 450451):
+  try:
     result = crawler.fetch_data(id)
     if result is not None:
       result_list.append(result)
-  # except:
-  #   pass
+  except:
+    pass
 
 with open('dataset/stack_data.json', 'w') as outfile:
   json.dump(result_list, outfile)
