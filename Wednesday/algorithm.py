@@ -1,32 +1,54 @@
 import json
+from itertools import combinations
 
 
 def dung(stack_1, stack_2):
     global i_2, i_1
-    if stack_1.exception != stack_2.exception:
+    if stack_1["exception"] != stack_2['exception']:
         return False
 
-    package_name = stack_1.traces[0].package
-    for i_1 in range(len(stack_1.traces)):
-        if stack_1.traces[i_1].package != package_name:
+    package_name = stack_1["calls"][0]["package"]
+    for i_1 in range(len(stack_1["calls"])):
+        if stack_1["calls"][i_1]["package"] != package_name:
             break
 
-    for i_2 in range(len(stack_2.traces)):
-        if stack_2.traces[i_2].package != package_name:
+    for i_2 in range(len(stack_2["calls"])):
+        if stack_2["calls"][i_2]["package"] != package_name:
             break
 
-    if stack_1.traces[i_1 - 1] == stack_2.traces[i_2 - 1]:
-        if stack_1.traces[i_1] == stack_2.traces[i_2]:
+    if stack_1["calls"][i_1 - 1] == stack_2["calls"][i_2 - 1]:
+        if stack_1["calls"][i_1] == stack_2["calls"][i_2]:
             return True
 
+    return False
+
+
+def diff(report_set):
+    for stack_0 in report_set[0]["stack_arr"]:
+        for stack_1 in report_set[1]["stack_arr"]:
+            if dung(stack_0, stack_1):
+                return True
     return False
 
 
 def main():
     f = open('../dataset/stack_data.json', 'r')
     data = json.load(f)
+    reports = list(combinations(data, 2))
+    result = {}
+    id_result = {}
+    for report_set in reports:
+        val = str(report_set[0]["stack_id"]) + " " + str(report_set[1]["stack_id"])
+        result.setdefault(val, diff(report_set))
+        id_result.setdefault(report_set[0]["stack_id"], report_set[0]["duplicated_stack_id"])
 
-    for report in data:
-        for i in range(len(report.stack)-1):
-            for j in range(i+1, len(report.stack)):
-                print(report.id + i + j + dung(report.stack[i], report.stack[j]))
+    print(result)
+    print(id_result)
+
+
+
+
+
+
+
+main()
