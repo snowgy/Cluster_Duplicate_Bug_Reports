@@ -1,5 +1,6 @@
 import json
 from itertools import combinations
+from sklearn.metrics import classification_report
 
 
 def dung(stack_1, stack_2):
@@ -34,6 +35,11 @@ def diff(report_set):
         # print(report_set[0]["stack_id"])
         return False
 
+def to_list(dict_):
+    list_ = []
+    for v in dict_.values():
+        list_.append(1 if v else 0)
+    return list_
 
 def main():
     f = open('../dataset/stack_data.json', 'r')
@@ -47,8 +53,11 @@ def main():
         aaa = report_set[1]["stack_id"] in report_set[0]["duplicated_stack_id"]
         id_result.setdefault(val, aaa)
 
-    print(result)
-    print(id_result)
+    print(len(result))
+    print(len(id_result))
+    y_true = to_list(id_result)
+    y_pred = to_list(result)
+    print(classification_report(y_true, y_pred))
 
 
 

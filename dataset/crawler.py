@@ -77,15 +77,27 @@ class Crawler:
 
 
 # 示例：爬取 id 在区间 [450439, 450440] 的数据：
+# crawler = Crawler()
+# result_list = []
+# for id in range(450439, 450451):
+#   try:
+#     result = crawler.fetch_data(id)
+#     if result is not None:
+#       result_list.append(result)
+#   except:
+#     pass
+
+# with open('dataset/stack_data.json', 'w') as outfile:
+#   json.dump(result_list, outfile)
+
 crawler = Crawler()
-result_list = []
 for id in range(450439, 450451):
   try:
     result = crawler.fetch_data(id)
     if result is not None:
-      result_list.append(result)
+      with open('dataset/jsons/stack_data-' + str(id) + '.json', 'w') as outfile:
+        json.dump(result, outfile)
   except:
     pass
 
-with open('dataset/stack_data.json', 'w') as outfile:
-  json.dump(result_list, outfile)
+
