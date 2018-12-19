@@ -1,7 +1,7 @@
 # 爬取同时会执行数据解析，判断是否含有 stack trace，如果有，则解析保存，否则跳过
 
 from bs4 import BeautifulSoup
-from stack_trace_to_package_extractor import StackTraceExtractor
+from stack_trace_extractor import StackTraceExtractor
 import requests
 import json
 
@@ -54,7 +54,8 @@ class Crawler:
       "importance": _importance,
       "reported_time": _reported_time,
       "modified_time": _modified_time,
-      "stack_arr": self.convert_to_json(frames)
+      # "stack_arr": self.convert_to_json(frames)
+      "stack_arr": frames
     }
 
 # crawler = Crawler()
@@ -65,13 +66,13 @@ class Crawler:
 # 示例：爬取 id 在区间 [450439, 450440] 的数据：
 crawler = Crawler()
 result_list = []
-for id in range(450439, 450450):
-  try:
-    result = crawler.fetch_data(450440)
+for id in range(450440, 450441):
+  # try:
+    result = crawler.fetch_data(id)
     if result is not None:
       result_list.append(result)
-  except:
-    pass
+  # except:
+  #   pass
 
-with open('stack_data.json', 'w') as outfile:
+with open('dataset/stack_data.json', 'w') as outfile:
   json.dump(result_list, outfile)
