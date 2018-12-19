@@ -66,7 +66,7 @@ class Crawler:
 # 示例：爬取 id 在区间 [450439, 450440] 的数据：
 crawler = Crawler()
 result_list = []
-for id in range(450440, 450441):
+for id in range(450439, 450441):
   # try:
     result = crawler.fetch_data(id)
     if result is not None:

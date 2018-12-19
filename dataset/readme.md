@@ -25,19 +25,42 @@
     "modified_time": "2015-09-15 15:01",
     "stack_arr": [
       {
-        "symbol": "main",
-        "file": "main.java",
-        "line": 100
+        "exception": "org.osgi.framework.BundleException",
+        "calls": [
+          {
+            "package": "org.eclipse.osgi.internal.framework",
+            "class": "BundleContextImpl.",
+            "method": "start",
+            "filename": "BundleContextImpl",
+            "line": "711"
+          },
+          {
+            "package": "org.eclipse.osgi.internal.framework",
+            "class": "EquinoxBundle.",
+            "method": "startWorker0",
+            "filename": "EquinoxBundle",
+            "line": "941"
+          }
+        ]
       },
       {
-        "symbol": "Sort.quick_sort",
-        "file": "Sort.java",
-        "line": 123
-      },
-      {
-        "symbol": "Sort.print_result",
-        "file": "Sort.java"
-        "line": 111
+        "exception": "java.lang.ClassNotFoundException",
+        "calls": [
+          {
+            "package": "org.eclipse.osgi.internal.hooks",
+            "class": "EclipseLazyStarter.",
+            "method": "postFindLocalClass",
+            "filename": "EclipseLazyStarter",
+            "line": "116"
+          },
+          {
+            "package": "org.eclipse.osgi.internal.loader.classpath",
+            "class": "ClasspathManager.",
+            "method": "findLocalClass",
+            "filename": "ClasspathManager",
+            "line": "531"
+          }
+        ]
       }
     ],
     "duplicated_stack_id": -1
