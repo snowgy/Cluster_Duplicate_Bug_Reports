@@ -186,9 +186,9 @@ def main():
 
     # 启动代码：
     print('配置：')
-    start = 101
-    end = 110
-    fliter = False
+    start = 10
+    end = 20
+    fliter = True
     showdiff = False
     print('开始角标：', start)
     print('结束角标：', end)
