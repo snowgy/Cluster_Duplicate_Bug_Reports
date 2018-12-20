@@ -159,8 +159,8 @@ def main():
         results = []
         index = 0
         ids = fileUtils.load_id_from_dir(JSON_DIR)
+        print('总共将要比对的 report 数量：', len(ids))
         print('==================== 开始计算！====================')
-        print('总共需要对比的 report 数量：', len(ids))
         for report_id in ids:  # 遍历文件夹
             index += 1
             if index <= shift: continue
