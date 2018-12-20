@@ -1,0 +1,27 @@
+配置：
+开始角标： 10
+结束角标： 20
+需要计算的 stack 数据量： 10
+是否过滤可能人工未标注的结果： True
+是否打印预测不一致结果： True
+总共将要比对的 report 数量： 24119
+==================== 开始计算！====================
+进度：10.000%   current stack_id: 463257
+进度：20.000%   current stack_id: 388977
+进度：30.000%   current stack_id: 456119
+进度：40.000%   current stack_id: 460882
+进度：50.000%   current stack_id: 451326
+进度：60.000%   current stack_id: 431927
+进度：70.000%   current stack_id: 445735
+进度：80.000%   current stack_id: 382880
+进度：90.000%   current stack_id: 169706
+进度：100.000%  current stack_id: 475383
+F1-Score 结果：
+              precision    recall  f1-score   support
+
+       False       1.00      1.00      1.00    240969
+        True       1.00      1.00      1.00         1
+
+   micro avg       1.00      1.00      1.00    240970
+   macro avg       1.00      1.00      1.00    240970
+weighted avg       1.00      1.00      1.00    240970

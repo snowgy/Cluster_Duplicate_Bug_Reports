@@ -1,0 +1,239 @@
+配置：
+开始角标： 10
+结束角标： 20
+需要计算的 stack 数据量： 10
+是否过滤可能人工未标注的结果： False
+是否打印预测不一致结果： True
+总共将要比对的 report 数量： 24119
+==================== 开始计算！====================
+进度：10.000%   current stack_id: 463257
+进度：20.000%   current stack_id: 388977
+进度：30.000%   current stack_id: 456119
+进度：40.000%   current stack_id: 460882
+进度：50.000%   current stack_id: 451326
+         451326 446973 False True
+         451326 462775 False True
+         451326 449632 False True
+         451326 445938 False True
+         451326 449218 False True
+         451326 451022 False True
+         451326 451171 False True
+         451326 473186 False True
+         451326 449613 False True
+         451326 454060 False True
+         451326 466376 False True
+         451326 450229 False True
+         451326 470735 False True
+         451326 444417 False True
+         451326 479017 False True
+         451326 446723 False True
+         451326 446037 False True
+         451326 466244 False True
+         451326 450635 False True
+         451326 462046 False True
+         451326 444436 False True
+         451326 443557 False True
+         451326 447144 False True
+         451326 445728 False True
+         451326 447611 False True
+         451326 456097 False True
+         451326 459175 False True
+         451326 469388 False True
+         451326 448969 False True
+         451326 451318 False True
+         451326 449929 False True
+         451326 450925 False True
+         451326 471557 False True
+         451326 463751 False True
+         451326 444418 False True
+         451326 476928 False True
+         451326 466375 False True
+         451326 454245 False True
+         451326 467460 False True
+         451326 446311 False True
+         451326 452169 False True
+         451326 448257 False True
+         451326 470005 False True
+         451326 444425 False True
+         451326 482217 False True
+         451326 450112 False True
+         451326 467298 False True
+         451326 450597 False True
+         451326 467871 False True
+         451326 449889 False True
+         451326 448670 False True
+         451326 450305 False True
+         451326 469086 False True
+         451326 467870 False True
+         451326 449888 False True
+         451326 444490 False True
+         451326 449148 False True
+         451326 450099 False True
+进度：60.000%   current stack_id: 431927
+进度：70.000%   current stack_id: 445735
+         445735 446949 False True
+         445735 447572 False True
+         445735 447270 False True
+         445735 448756 False True
+         445735 449405 False True
+         445735 451936 False True
+         445735 485051 False True
+         445735 445826 False True
+         445735 449278 False True
+         445735 446498 False True
+         445735 449151 False True
+         445735 447568 False True
+         445735 447246 False True
+         445735 446768 False True
+         445735 445406 False True
+         445735 447591 False True
+         445735 447505 False True
+         445735 451202 False True
+         445735 447552 False True
+         445735 447401 False True
+         445735 451869 False True
+         445735 445257 False True
+         445735 450405 False True
+         445735 448872 False True
+         445735 446495 False True
+         445735 445939 False True
+         445735 445485 False True
+         445735 446303 False True
+         445735 447400 False True
+         445735 451868 False True
+         445735 451891 False True
+         445735 445493 False True
+         445735 447590 False True
+         445735 445779 False True
+         445735 445827 False True
+         445735 447676 False True
+         445735 448757 False True
+         445735 446948 False True
+         445735 447898 False True
+         445735 447581 False True
+         445735 446543 False True
+         445735 446502 False True
+         445735 446369 False True
+         445735 451879 False True
+         445735 449399 False True
+         445735 447368 False True
+         445735 447391 False True
+         445735 450004 False True
+         445735 446754 False True
+         445735 446304 False True
+         445735 447283 False True
+         445735 446373 False True
+         445735 450618 False True
+         445735 447427 False True
+         445735 447276 False True
+         445735 451988 False True
+         445735 447364 False True
+         445735 445420 False True
+         445735 451875 False True
+         445735 446165 False True
+         445735 449382 False True
+         445735 446098 False True
+         445735 451874 False True
+         445735 447365 False True
+         445735 452327 False True
+         445735 447426 False True
+         445735 447778 False True
+         445735 446305 False True
+         445735 447390 False True
+         445735 451881 False True
+         445735 447369 False True
+         445735 446256 False True
+         445735 447312 False True
+         445735 451946 False True
+         445735 448419 False True
+         445735 445417 False True
+         445735 446306 False True
+         445735 445479 False True
+         445735 447346 False True
+         445735 449837 False True
+         445735 447254 False True
+         445735 445793 False True
+         445735 447311 False True
+         445735 446296 False True
+         445735 446541 False True
+         445735 447370 False True
+         445735 447366 False True
+         445735 447761 False True
+         445735 445859 False True
+         445735 445623 False True
+         445735 447425 False True
+         445735 450026 False True
+         445735 450027 False True
+         445735 447832 False True
+         445735 447865 False True
+         445735 445858 False True
+         445735 447035 False True
+         445735 447367 False True
+         445735 447371 False True
+         445735 446022 False True
+         445735 489542 False True
+         445735 445950 False True
+         445735 449836 False True
+         445735 446043 False True
+         445735 446215 False True
+         445735 447392 False True
+         445735 446307 False True
+         445735 447771 False True
+         445735 445259 False True
+         445735 448129 False True
+         445735 448754 False True
+         445735 449283 False True
+         445735 449581 False True
+         445735 447423 False True
+         445735 450759 False True
+         445735 448410 False True
+         445735 447287 False True
+         445735 446496 False True
+         445735 447507 False True
+         445735 448758 False True
+         445735 446290 False True
+         445735 450647 False True
+         445735 467867 False True
+         445735 447497 False True
+         445735 446951 False True
+         445735 451328 False True
+         445735 449574 False True
+         445735 467077 False True
+         445735 446950 False True
+         445735 447896 False True
+         445735 446784 False True
+         445735 447506 False True
+         445735 447382 False True
+         445735 447402 False True
+         445735 449735 False True
+         445735 450001 False True
+         445735 447286 False True
+         445735 446497 False True
+         445735 446028 False True
+         445735 449277 False True
+         445735 452591 False True
+         445735 447269 False True
+         445735 448411 False True
+         445735 446771 False True
+         445735 446858 False True
+         445735 448779 False True
+         445735 447967 False True
+         445735 450670 False True
+         445735 450762 False True
+         445735 446589 False True
+         445735 452319 False True
+         445735 450631 False True
+进度：80.000%   current stack_id: 382880
+进度：90.000%   current stack_id: 169706
+进度：100.000%  current stack_id: 475383
+F1-Score 结果：
+              precision    recall  f1-score   support
+
+       False       1.00      1.00      1.00    241179
+        True       0.00      1.00      0.01         1
+
+   micro avg       1.00      1.00      1.00    241180
+   macro avg       0.50      1.00      0.50    241180
+weighted avg       1.00      1.00      1.00    241180
+
+

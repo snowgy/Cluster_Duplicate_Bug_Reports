@@ -189,7 +189,7 @@ def main():
     start = 10
     end = 20
     fliter = True
-    showdiff = False
+    showdiff = True
     print('开始角标：', start)
     print('结束角标：', end)
     print('需要计算的 stack 数据量：', end - start)
