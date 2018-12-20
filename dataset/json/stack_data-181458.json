@@ -1,0 +1,1 @@
+{"stack_id": 181458, "component": "RSE", "importance": "P3 normal      with      1       vote", "reported_time": "2007-04-06 15:29", "modified_time": "2011-10-17 16:48", "stack_arr": [{"exception": "org.eclipse.swt.SWTException", "calls": []}], "duplicated_stack_id": []}

@@ -1,0 +1,1 @@
+{"stack_id": 407655, "component": "Plugins", "importance": "P3 critical", "reported_time": "2013-05-09 10:29", "modified_time": "2013-05-10 16:03", "stack_arr": [{"exception": "java.lang.LinkageError", "calls": []}], "duplicated_stack_id": []}

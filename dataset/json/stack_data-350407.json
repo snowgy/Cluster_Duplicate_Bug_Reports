@@ -1,0 +1,1 @@
+{"stack_id": 350407, "component": "tooling", "importance": "P3 normal", "reported_time": "2011-06-27 04:08", "modified_time": "2013-01-28 10:22", "stack_arr": [{"exception": "org.springframework.beans.factory.BeanDefinitionStoreException", "calls": []}, {"exception": "com.sun.xml.internal.bind.v2.runtime.IllegalAnnotationsException", "calls": []}], "duplicated_stack_id": []}

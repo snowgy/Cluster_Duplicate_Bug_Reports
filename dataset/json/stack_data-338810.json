@@ -1,0 +1,1 @@
+{"stack_id": 338810, "component": "providers", "importance": "P3 normal", "reported_time": "2011-03-03 08:37", "modified_time": "2011-03-06 04:50", "stack_arr": [{"exception": "java.io.IOException", "calls": []}, {"exception": "java.io.IOException", "calls": []}, {"exception": "org.eclipse.jgit.errors.MissingObjectException", "calls": []}], "duplicated_stack_id": []}

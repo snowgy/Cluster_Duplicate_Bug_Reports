@@ -1,0 +1,1 @@
+{"stack_id": 344640, "component": "documentation", "importance": "P3 enhancement", "reported_time": "2011-05-03 16:58", "modified_time": "2011-07-25 06:18", "stack_arr": [{"exception": "org.eclipse.virgo.kernel.osgi.framework.UnableToSatisfyBundleDependenciesException", "calls": []}], "duplicated_stack_id": []}

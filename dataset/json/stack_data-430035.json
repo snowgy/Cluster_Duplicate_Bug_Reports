@@ -1,0 +1,1 @@
+{"stack_id": 430035, "component": "Core", "importance": "P3 normal", "reported_time": "2014-03-10 14:20", "modified_time": "2014-04-07 01:44", "stack_arr": [{"exception": "java.lang.AbstractMethodError", "calls": [{"package": "LambdaWithBridge.main", "class": "LambdaWithBridge", "method": "main", "filename": "LambdaWithBridge", "line": "13"}]}], "duplicated_stack_id": []}

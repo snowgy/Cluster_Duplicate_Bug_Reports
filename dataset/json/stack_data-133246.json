@@ -1,0 +1,1 @@
+{"stack_id": 133246, "component": "Report Designer", "importance": "P3 blocker", "reported_time": "2006-03-25 01:12", "modified_time": "2006-03-26 20:58", "stack_arr": [{"exception": "org.eclipse.core.runtime.CoreException", "calls": []}], "duplicated_stack_id": []}

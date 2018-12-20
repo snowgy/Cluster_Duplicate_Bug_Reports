@@ -1,0 +1,1 @@
+{"stack_id": 445237, "component": "CI-Jenkins", "importance": "P3 normal", "reported_time": "2014-09-26 18:58", "modified_time": "2014-10-03 11:47", "stack_arr": [{"exception": "Error", "calls": [{"package": "java.lang", "class": "ProcessBuilder", "method": "start", "filename": "ProcessBuilder", "line": "1042"}]}], "duplicated_stack_id": []}

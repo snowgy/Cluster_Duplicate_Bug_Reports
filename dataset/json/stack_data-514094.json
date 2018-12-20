@@ -1,0 +1,1 @@
+{"stack_id": 514094, "component": "jdt", "importance": "P3 minor", "reported_time": "2017-03-22 20:03", "modified_time": "2018-05-01 07:37", "stack_arr": [{"exception": "java.lang.NoSuchMethodError", "calls": [{"package": "testMultipleVersions", "class": "Main", "method": "main", "filename": "Main", "line": "8"}]}], "duplicated_stack_id": []}

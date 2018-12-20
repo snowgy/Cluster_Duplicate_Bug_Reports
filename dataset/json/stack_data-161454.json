@@ -1,0 +1,1 @@
+{"stack_id": 161454, "component": "OHF", "importance": "P3 major", "reported_time": "2006-10-18 14:48", "modified_time": "2012-01-05 13:32", "stack_arr": [{"exception": "java.lang.NoSuchMethodError", "calls": [{"package": "org.eclipse.ohf.ihe.xds.consumer", "class": "Consumer", "method": "query", "filename": "Consumer", "line": "221"}]}], "duplicated_stack_id": []}

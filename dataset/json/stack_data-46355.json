@@ -1,0 +1,1 @@
+{"stack_id": 46355, "component": "UI", "importance": "P2 normal", "reported_time": "2003-11-10 12:26", "modified_time": "2005-05-06 10:51", "stack_arr": [{"exception": "java.lang.ArrayIndexOutOfBoundsException", "calls": [{"package": "org.eclipse.debug.ui", "class": "DebugUITools$2", "method": "run", "filename": "DebugUITools", "line": "487"}]}], "duplicated_stack_id": []}

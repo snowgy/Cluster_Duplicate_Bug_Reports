@@ -1,0 +1,1 @@
+{"stack_id": 515250, "component": "UI", "importance": "P3 normal", "reported_time": "2017-04-13 09:10", "modified_time": "2017-04-13 09:50", "stack_arr": [{"exception": "SWTException", "calls": []}], "duplicated_stack_id": []}

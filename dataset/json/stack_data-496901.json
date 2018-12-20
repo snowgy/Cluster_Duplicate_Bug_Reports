@@ -1,0 +1,1 @@
+{"stack_id": 496901, "component": "Core", "importance": "P3 critical", "reported_time": "2016-06-28 04:50", "modified_time": "2016-06-29 03:20", "stack_arr": [{"exception": "org.eclipse.jubula.tools.internal.exception.JBException", "calls": []}], "duplicated_stack_id": []}

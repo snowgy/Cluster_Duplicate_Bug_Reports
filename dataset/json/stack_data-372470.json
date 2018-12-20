@@ -1,0 +1,1 @@
+{"stack_id": 372470, "component": "Core", "importance": "P3 minor      with      2       votes", "reported_time": "2012-02-24 07:12", "modified_time": "2012-02-24 07:12", "stack_arr": [{"exception": "java.lang.ArrayIndexOutOfBoundsException", "calls": []}], "duplicated_stack_id": []}

@@ -1,0 +1,1 @@
+{"stack_id": 292428, "component": "Core", "importance": "P3 normal", "reported_time": "2009-10-15 12:38", "modified_time": "2009-10-27 07:41", "stack_arr": [{"exception": "error", "calls": [{"package": "org.eclipse.jdt.internal.compiler.ast", "class": "CastExpression", "method": "checkUnsafeCast", "filename": "CastExpression", "line": "333"}]}], "duplicated_stack_id": []}

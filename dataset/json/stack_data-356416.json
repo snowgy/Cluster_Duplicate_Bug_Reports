@@ -1,0 +1,1 @@
+{"stack_id": 356416, "component": "Core", "importance": "P3 normal", "reported_time": "2011-08-31 17:28", "modified_time": "2011-09-05 20:17", "stack_arr": [{"exception": "java.lang.ClassCastException", "calls": [{"package": "org.eclipse.emf.oda.ecore.impl", "class": "ResultSet", "method": "getDate", "filename": "ResultSet", "line": "398"}]}], "duplicated_stack_id": []}

@@ -1,0 +1,1 @@
+{"stack_id": 395103, "component": "Core", "importance": "P3 normal", "reported_time": "2012-11-26 14:18", "modified_time": "2013-07-10 11:25", "stack_arr": [{"exception": "java.lang.NoClassDefFoundError", "calls": [{"package": "org.eclipse.emf.ecore.plugin", "class": "EcorePlugin", "method": "<clinit>", "filename": "EcorePlugin", "line": "62"}]}], "duplicated_stack_id": []}

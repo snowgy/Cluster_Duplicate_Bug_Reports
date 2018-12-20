@@ -1,0 +1,1 @@
+{"stack_id": 450424, "component": "CI-Jenkins", "importance": "P3 normal", "reported_time": "2014-11-07 02:25", "modified_time": "2014-11-10 04:34", "stack_arr": [{"exception": "hudson.plugins.git.GitException", "calls": []}], "duplicated_stack_id": []}

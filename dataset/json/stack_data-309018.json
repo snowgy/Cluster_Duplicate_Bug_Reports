@@ -1,0 +1,1 @@
+{"stack_id": 309018, "component": "JPA", "importance": "P3 minor", "reported_time": "2010-04-13 11:39", "modified_time": "2015-03-06 09:19", "stack_arr": [{"exception": "java.lang.OutOfMemoryError", "calls": []}], "duplicated_stack_id": []}

@@ -1,0 +1,1 @@
+{"stack_id": 530934, "component": "IDE", "importance": "P3 normal", "reported_time": "2018-02-09 06:33", "modified_time": "2018-02-09 06:33", "stack_arr": [{"exception": "exception", "calls": [{"package": "org.eclipse.jface.text", "class": "TreeLineTracker", "method": "fail", "filename": "TreeLineTracker", "line": "1051"}]}], "duplicated_stack_id": []}

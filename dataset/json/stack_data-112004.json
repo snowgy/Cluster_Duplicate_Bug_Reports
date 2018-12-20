@@ -1,0 +1,1 @@
+{"stack_id": 112004, "component": "Core", "importance": "P3 normal", "reported_time": "2005-10-07 18:13", "modified_time": "2005-10-07 20:51", "stack_arr": [{"exception": "java.lang.Error", "calls": [{"package": "ProcessBuilderEclipse.main", "class": "ProcessBuilderEclipse", "method": "main", "filename": "ProcessBuilderEclipse", "line": "9"}]}], "duplicated_stack_id": []}

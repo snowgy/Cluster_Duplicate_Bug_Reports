@@ -1,0 +1,1 @@
+{"stack_id": 28779, "component": "Ant", "importance": "P3 normal", "reported_time": "2002-12-20 18:10", "modified_time": "2003-01-21 11:09", "stack_arr": [{"exception": "java.lang.ClassFormatError", "calls": []}], "duplicated_stack_id": []}

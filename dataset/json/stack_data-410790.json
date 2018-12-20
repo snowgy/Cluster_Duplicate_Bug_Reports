@@ -1,0 +1,1 @@
+{"stack_id": 410790, "component": "Xtext", "importance": "P3 normal", "reported_time": "2013-06-14 05:10", "modified_time": "2013-06-14 05:59", "stack_arr": [{"exception": "java.lang.ClassNotFoundException", "calls": []}], "duplicated_stack_id": []}

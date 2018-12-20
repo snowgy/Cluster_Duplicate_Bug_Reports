@@ -1,0 +1,1 @@
+{"stack_id": 372921, "component": "Mylyn", "importance": "P1 blocker", "reported_time": "2012-02-29 17:12", "modified_time": "2012-02-29 20:36", "stack_arr": [{"exception": "java.io.IOException", "calls": []}], "duplicated_stack_id": []}

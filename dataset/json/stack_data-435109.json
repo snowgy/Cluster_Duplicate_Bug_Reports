@@ -1,0 +1,1 @@
+{"stack_id": 435109, "component": "OTJ", "importance": "P3 normal", "reported_time": "2014-05-16 20:04", "modified_time": "2018-06-05 16:23", "stack_arr": [{"exception": "error", "calls": [{"package": "org.eclipse.jdt.internal.compiler.codegen", "class": "StackMapFrame", "method": "addStackItem", "filename": "StackMapFrame", "line": "84"}]}], "duplicated_stack_id": []}

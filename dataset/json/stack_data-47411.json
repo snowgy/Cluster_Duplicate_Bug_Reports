@@ -1,0 +1,1 @@
+{"stack_id": 47411, "component": "UI", "importance": "P3 normal", "reported_time": "2003-11-25 07:20", "modified_time": "2004-04-20 10:36", "stack_arr": [{"exception": "java.lang.NoClassDefFoundError", "calls": [{"package": "org.eclipse.ajdt.ui", "class": "AspectJPlugin", "method": "<init>", "filename": "AspectJPlugin", "line": "405"}]}], "duplicated_stack_id": []}

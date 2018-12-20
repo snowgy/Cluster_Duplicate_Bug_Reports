@@ -1,0 +1,1 @@
+{"stack_id": 326640, "component": "Core", "importance": "P3 normal", "reported_time": "2010-09-30 03:53", "modified_time": "2013-04-15 02:49", "stack_arr": [{"exception": "JGitInternalException", "calls": []}, {"exception": "CheckoutConflictException", "calls": []}], "duplicated_stack_id": []}

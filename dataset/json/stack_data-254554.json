@@ -1,0 +1,1 @@
+{"stack_id": 254554, "component": "eSWT", "importance": "P3 normal", "reported_time": "2008-11-06 22:51", "modified_time": "2009-01-11 22:49", "stack_arr": [{"exception": "junit.framework.AssertionFailedError", "calls": []}], "duplicated_stack_id": []}

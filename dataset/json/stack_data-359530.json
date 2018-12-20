@@ -1,0 +1,1 @@
+{"stack_id": 359530, "component": "Core", "importance": "P3 normal", "reported_time": "2011-09-30 04:23", "modified_time": "2011-09-30 11:04", "stack_arr": [{"exception": "org.eclipse.jgit.api.errors.JGitInternalException", "calls": []}, {"exception": "org.eclipse.jgit.api.errors.JGitInternalException", "calls": []}], "duplicated_stack_id": []}

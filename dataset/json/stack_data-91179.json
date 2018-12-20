@@ -1,0 +1,1 @@
+{"stack_id": 91179, "component": "CVS", "importance": "P3 normal", "reported_time": "2005-04-12 14:23", "modified_time": "2005-05-10 10:40", "stack_arr": [{"exception": "java.lang.NoClassDefFoundError", "calls": []}, {"exception": "exception", "calls": [{"package": "java.lang", "class": "Thread", "method": "run", "filename": "Thread", "line": "534"}]}], "duplicated_stack_id": []}

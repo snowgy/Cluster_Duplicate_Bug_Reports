@@ -1,0 +1,1 @@
+{"stack_id": 372641, "component": "CI-Jenkins", "importance": "P3 normal", "reported_time": "2012-02-27 07:41", "modified_time": "2012-02-29 12:05", "stack_arr": [{"exception": "hudson.AbortException", "calls": []}], "duplicated_stack_id": []}

@@ -1,0 +1,1 @@
+{"stack_id": 36129, "component": "Docs", "importance": "P4 enhancement", "reported_time": "2003-04-07 09:38", "modified_time": "2005-08-17 13:53", "stack_arr": [{"exception": "java.lang.NoClassDefFoundError", "calls": [{"package": "hello", "class": "HelloWorld", "method": "main", "filename": "HelloWorld", "line": "13"}]}], "duplicated_stack_id": []}

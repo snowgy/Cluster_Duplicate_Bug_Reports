@@ -1,0 +1,1 @@
+{"stack_id": 466450, "component": "Smarthome", "importance": "P3 normal", "reported_time": "2015-05-05 11:03", "modified_time": "2016-05-19 15:41", "stack_arr": [{"exception": "java.util.Listjava.lang.ClassCastException", "calls": []}], "duplicated_stack_id": []}

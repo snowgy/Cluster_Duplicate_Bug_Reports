@@ -1,0 +1,1 @@
+{"stack_id": 69214, "component": "cdt-core", "importance": "P3 normal", "reported_time": "2004-07-02 12:30", "modified_time": "2009-01-09 15:20", "stack_arr": [{"exception": "error", "calls": [{"package": "org.eclipse.core.runtime", "class": "Platform", "method": "run", "filename": "Platform", "line": "747"}]}], "duplicated_stack_id": []}

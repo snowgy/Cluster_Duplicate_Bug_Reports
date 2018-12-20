@@ -1,0 +1,1 @@
+{"stack_id": 195765, "component": "Server-Side", "importance": "P3 normal      with      1       vote", "reported_time": "2007-07-08 10:41", "modified_time": "2008-10-08 04:40", "stack_arr": [{"exception": "org.apache.commons.logging.LogConfigurationException", "calls": []}, {"exception": "java.lang.NoClassDefFoundError", "calls": []}], "duplicated_stack_id": []}

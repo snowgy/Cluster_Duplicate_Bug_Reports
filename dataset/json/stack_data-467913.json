@@ -1,0 +1,1 @@
+{"stack_id": 467913, "component": "OTEquinox", "importance": "P3 major", "reported_time": "2015-05-21 15:47", "modified_time": "2016-05-28 08:25", "stack_arr": [{"exception": "VerifyError", "calls": [{"package": "org.eclipse.jdt.internal.core", "class": "JavaModelManager$8", "method": "optionsChanged", "filename": "JavaModelManager", "line": "1703"}]}], "duplicated_stack_id": []}

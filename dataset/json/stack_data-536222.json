@@ -1,0 +1,1 @@
+{"stack_id": 536222, "component": "Core", "importance": "P3 normal", "reported_time": "2018-06-24 20:40", "modified_time": "2018-07-31 22:53", "stack_arr": [{"exception": "error", "calls": [{"package": "org.eclipse.jdt.internal.compiler.lookup", "class": "PolyTypeBinding", "method": "constantPoolName", "filename": "PolyTypeBinding", "line": "29"}]}], "duplicated_stack_id": []}

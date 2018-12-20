@@ -1,0 +1,1 @@
+{"stack_id": 116370, "component": "Search", "importance": "P3 critical", "reported_time": "2005-11-15 00:06", "modified_time": "2009-08-19 05:42", "stack_arr": [{"exception": "java.lang.ClassNotFoundException", "calls": []}, {"exception": "exception", "calls": []}], "duplicated_stack_id": []}

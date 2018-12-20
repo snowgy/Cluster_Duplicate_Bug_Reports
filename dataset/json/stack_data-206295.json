@@ -1,0 +1,1 @@
+{"stack_id": 206295, "component": "Core", "importance": "P3 major", "reported_time": "2007-10-15 05:21", "modified_time": "2007-10-15 09:41", "stack_arr": [{"exception": "org.eclipse.emf.ecore.xmi.IllegalValueException", "calls": []}], "duplicated_stack_id": []}

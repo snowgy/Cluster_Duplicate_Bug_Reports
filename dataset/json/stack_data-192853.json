@@ -1,0 +1,1 @@
+{"stack_id": 192853, "component": "Chart", "importance": "P3 major", "reported_time": "2007-06-15 08:22", "modified_time": "2009-07-09 21:00", "stack_arr": [{"exception": "org.eclipse.birt.report.service.api.ReportServiceException", "calls": []}, {"exception": "java.lang.ClassCastException", "calls": []}], "duplicated_stack_id": []}

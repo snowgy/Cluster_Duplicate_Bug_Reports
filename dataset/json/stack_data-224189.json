@@ -1,0 +1,1 @@
+{"stack_id": 224189, "component": "Hibachi", "importance": "P3 critical", "reported_time": "2008-03-26 16:02", "modified_time": "2011-01-21 14:39", "stack_arr": [{"exception": "java.lang.UnsatisfiedLinkError", "calls": [{"package": "org.eclipse.hibachi.core.spawner", "class": "Spawner$Reaper", "method": "run", "filename": "Spawner", "line": "346"}]}], "duplicated_stack_id": []}

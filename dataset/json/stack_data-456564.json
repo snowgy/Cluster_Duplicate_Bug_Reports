@@ -1,0 +1,1 @@
+{"stack_id": 456564, "component": "Core", "importance": "P3 major", "reported_time": "2015-01-02 22:04", "modified_time": "2015-02-14 22:36", "stack_arr": [{"exception": "error", "calls": []}, {"exception": "Error", "calls": []}], "duplicated_stack_id": []}

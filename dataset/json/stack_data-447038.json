@@ -1,0 +1,1 @@
+{"stack_id": 447038, "component": "CI-Jenkins", "importance": "P3 normal", "reported_time": "2014-10-14 05:04", "modified_time": "2014-10-15 08:11", "stack_arr": [{"exception": "java.net.ConnectException", "calls": []}], "duplicated_stack_id": []}

@@ -1,0 +1,1 @@
+{"stack_id": 94652, "component": "UI", "importance": "P3 normal", "reported_time": "2005-05-11 06:49", "modified_time": "2005-05-13 04:54", "stack_arr": [{"exception": "exception", "calls": [{"package": "org.eclipse.jdt.ui", "class": "JavaUI", "method": "setProjectJavadocLocation", "filename": "JavaUI", "line": "770"}]}], "duplicated_stack_id": []}

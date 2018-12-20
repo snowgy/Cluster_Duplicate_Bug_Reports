@@ -1,0 +1,1 @@
+{"stack_id": 300659, "component": "cdo.hibernate", "importance": "P3 normal", "reported_time": "2010-01-25 07:49", "modified_time": "2010-06-29 04:35", "stack_arr": [{"exception": "Exception", "calls": []}, {"exception": "org.hibernate.MappingException", "calls": []}], "duplicated_stack_id": []}

@@ -1,0 +1,1 @@
+{"stack_id": 337226, "component": "Framework", "importance": "P3 normal", "reported_time": "2011-02-15 11:01", "modified_time": "2011-02-15 11:12", "stack_arr": [{"exception": "org.osgi.framework.BundleException", "calls": [{"package": "java.lang", "class": "ClassLoader", "method": "loadClass", "filename": "ClassLoader", "line": "609"}]}], "duplicated_stack_id": []}

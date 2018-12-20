@@ -1,0 +1,1 @@
+{"stack_id": 153982, "component": "Core", "importance": "P3 blocker", "reported_time": "2006-08-15 16:08", "modified_time": "2006-08-18 14:11", "stack_arr": [{"exception": "java.lang.Error", "calls": [{"package": "pwx", "class": "TesteGeneric", "method": "main", "filename": "TesteGeneric", "line": "14"}]}], "duplicated_stack_id": []}

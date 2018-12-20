@@ -1,0 +1,1 @@
+{"stack_id": 495333, "component": "Framework", "importance": "P3 major", "reported_time": "2016-06-02 13:09", "modified_time": "2016-06-04 00:00", "stack_arr": [{"exception": "<param>javax.xml.ws.WebServiceException", "calls": []}, {"exception": "java.lang.Error", "calls": []}], "duplicated_stack_id": []}

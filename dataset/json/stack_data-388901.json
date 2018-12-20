@@ -1,0 +1,1 @@
+{"stack_id": 388901, "component": "EPUB", "importance": "P3 normal", "reported_time": "2012-09-05 23:24", "modified_time": "2015-05-27 09:52", "stack_arr": [{"exception": "org.apache.maven.lifecycle.LifecycleExecutionException", "calls": []}], "duplicated_stack_id": []}

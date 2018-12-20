@@ -1,0 +1,1 @@
+{"stack_id": 420577, "component": "JPA", "importance": "P3 normal      with      1       vote", "reported_time": "2013-10-28 21:48", "modified_time": "2013-10-28 21:48", "stack_arr": [{"exception": "StackOverflowException", "calls": []}], "duplicated_stack_id": []}

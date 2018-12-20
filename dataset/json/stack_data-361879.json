@@ -1,0 +1,1 @@
+{"stack_id": 361879, "component": "EDT", "importance": "P3 normal", "reported_time": "2011-10-24 23:09", "modified_time": "2017-02-23 14:16", "stack_arr": [{"exception": "java.sql.SQLNonTransientConnectionException", "calls": [{"package": "eglx.persistence.sql", "class": "SQLDataSource", "method": "commit", "filename": "SQLDataSource", "line": "91"}]}], "duplicated_stack_id": []}

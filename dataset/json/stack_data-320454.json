@@ -1,0 +1,1 @@
+{"stack_id": 320454, "component": "Framework", "importance": "P3 normal", "reported_time": "2010-07-20 20:49", "modified_time": "2010-08-19 11:06", "stack_arr": [{"exception": "NoClassDefFoundException", "calls": []}], "duplicated_stack_id": []}

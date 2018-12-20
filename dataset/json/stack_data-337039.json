@@ -1,0 +1,1 @@
+{"stack_id": 337039, "component": "Photran.Editor & Outline View", "importance": "P3 normal", "reported_time": "2011-02-12 12:58", "modified_time": "2011-03-17 10:07", "stack_arr": [{"exception": "SyntaxException", "calls": []}], "duplicated_stack_id": []}

@@ -1,0 +1,1 @@
+{"stack_id": 354490, "component": "UI", "importance": "P3 normal", "reported_time": "2011-08-11 09:18", "modified_time": "2011-08-19 05:55", "stack_arr": [{"exception": "org.osgi.framework.BundleException", "calls": []}, {"exception": "org.eclipse.swt.SWTException", "calls": []}], "duplicated_stack_id": []}

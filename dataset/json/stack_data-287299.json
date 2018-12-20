@@ -1,0 +1,1 @@
+{"stack_id": 287299, "component": "JPA", "importance": "P3 normal", "reported_time": "2009-08-21 09:51", "modified_time": "2009-08-26 10:08", "stack_arr": [{"exception": "exception", "calls": [{"package": "org.eclipse.persistence.jpa", "class": "JpaHelper", "method": "getEntityManagerFactory", "filename": "JpaHelper", "line": "154"}]}], "duplicated_stack_id": []}

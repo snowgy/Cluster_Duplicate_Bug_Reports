@@ -1,0 +1,1 @@
+{"stack_id": 473354, "component": "JPA", "importance": "P3 normal      with      1       vote", "reported_time": "2015-07-23 03:57", "modified_time": "2015-07-27 02:18", "stack_arr": [{"exception": "java.lang.ArrayIndexOutOfBoundsException", "calls": []}], "duplicated_stack_id": []}

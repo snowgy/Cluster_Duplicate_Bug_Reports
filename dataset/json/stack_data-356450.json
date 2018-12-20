@@ -1,0 +1,1 @@
+{"stack_id": 356450, "component": "Core", "importance": "P3 major      with      18       votes", "reported_time": "2011-09-01 07:06", "modified_time": "2018-02-19 11:10", "stack_arr": [{"exception": "java.lang.NoClassDefFoundError", "calls": []}], "duplicated_stack_id": []}

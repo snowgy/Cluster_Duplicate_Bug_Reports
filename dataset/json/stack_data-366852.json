@@ -1,0 +1,1 @@
+{"stack_id": 366852, "component": "JPA", "importance": "P2 major      with      1       vote", "reported_time": "2011-12-15 13:10", "modified_time": "2015-03-06 08:30", "stack_arr": [{"exception": "Exception", "calls": []}, {"exception": "Exception", "calls": []}], "duplicated_stack_id": []}

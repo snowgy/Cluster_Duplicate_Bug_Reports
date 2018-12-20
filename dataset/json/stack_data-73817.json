@@ -1,0 +1,1 @@
+{"stack_id": 73817, "component": "SWT", "importance": "P3 normal      with      1       vote", "reported_time": "2004-09-13 18:07", "modified_time": "2004-12-02 16:14", "stack_arr": [{"exception": "java.lang.IllegalAccessError", "calls": []}], "duplicated_stack_id": []}

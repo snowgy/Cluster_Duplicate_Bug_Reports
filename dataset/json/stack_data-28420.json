@@ -1,0 +1,1 @@
+{"stack_id": 28420, "component": "Debug", "importance": "P1 major", "reported_time": "2002-12-16 14:32", "modified_time": "2002-12-16 15:17", "stack_arr": [{"exception": "java.lang.IllegalArgumentException", "calls": [{"package": "org.eclipse.jface.resource", "class": "ImageRegistry", "method": "put", "filename": "ImageRegistry", "line": "123"}]}], "duplicated_stack_id": []}

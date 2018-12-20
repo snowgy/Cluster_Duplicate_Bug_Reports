@@ -1,0 +1,1 @@
+{"stack_id": 427567, "component": "Core", "importance": "P3 normal", "reported_time": "2014-02-06 09:25", "modified_time": "2014-02-08 16:23", "stack_arr": [{"exception": "error", "calls": [{"package": "org.eclipse.jdt.internal.compiler.lookup", "class": "InferenceContext18", "method": "varArgTypes", "filename": "InferenceContext18", "line": "1076"}]}], "duplicated_stack_id": []}

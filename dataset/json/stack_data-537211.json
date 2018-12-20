@@ -1,0 +1,1 @@
+{"stack_id": 537211, "component": "cdt-build-managed", "importance": "P3 normal", "reported_time": "2018-07-20 01:46", "modified_time": "2018-07-20 09:07", "stack_arr": [{"exception": "org.eclipse.core.internal.resources.ResourceException", "calls": []}], "duplicated_stack_id": []}

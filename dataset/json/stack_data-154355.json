@@ -1,0 +1,1 @@
+{"stack_id": 154355, "component": "wst.wsdl", "importance": "P3 major", "reported_time": "2006-08-18 10:03", "modified_time": "2006-11-28 15:51", "stack_arr": [{"exception": "org.xml.sax.SAXParseException", "calls": [{"package": "org.eclipse.xsd.util", "class": "XSDResourceImpl", "method": "getDocument", "filename": "XSDResourceImpl", "line": "327"}]}], "duplicated_stack_id": []}

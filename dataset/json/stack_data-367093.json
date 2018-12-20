@@ -1,0 +1,1 @@
+{"stack_id": 367093, "component": "Server", "importance": "P3 normal", "reported_time": "2011-12-19 11:02", "modified_time": "2011-12-19 14:19", "stack_arr": [{"exception": "org.apache.solr.common.SolrException", "calls": []}], "duplicated_stack_id": []}

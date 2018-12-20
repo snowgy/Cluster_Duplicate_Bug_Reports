@@ -1,0 +1,1 @@
+{"stack_id": 362350, "component": "SDO", "importance": "P3 normal", "reported_time": "2011-10-28 13:53", "modified_time": "2012-03-06 12:33", "stack_arr": [{"exception": "javax.ejb.EJBException", "calls": []}, {"exception": "java.lang.ClassCastException", "calls": []}], "duplicated_stack_id": []}

@@ -1,0 +1,1 @@
+{"stack_id": 394591, "component": "Core", "importance": "P3 normal", "reported_time": "2012-11-19 14:34", "modified_time": "2012-11-20 13:46", "stack_arr": [{"exception": "error", "calls": [{"package": "org.eclipse.gemini.blueprint.test.platform", "class": "EquinoxPlatform", "method": "start", "filename": "EquinoxPlatform", "line": "71"}]}], "duplicated_stack_id": []}

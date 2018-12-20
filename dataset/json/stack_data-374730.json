@@ -1,0 +1,1 @@
+{"stack_id": 374730, "component": "JPA", "importance": "P3 normal", "reported_time": "2012-03-20 04:27", "modified_time": "2012-04-05 08:58", "stack_arr": [{"exception": "java.lang.NoClassDefFoundError", "calls": []}], "duplicated_stack_id": []}

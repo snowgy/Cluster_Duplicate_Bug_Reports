@@ -1,0 +1,1 @@
+{"stack_id": 514332, "component": "Core", "importance": "P3 blocker", "reported_time": "2017-03-28 10:00", "modified_time": "2017-06-19 08:20", "stack_arr": [{"exception": "org.osgi.service.resolver.ResolutionException", "calls": []}], "duplicated_stack_id": []}

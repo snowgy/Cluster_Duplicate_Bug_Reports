@@ -1,0 +1,1 @@
+{"stack_id": 98651, "component": "Core", "importance": "P3 normal", "reported_time": "2005-06-07 07:19", "modified_time": "2005-06-07 09:30", "stack_arr": [{"exception": "exception", "calls": [{"package": "org.eclipse.core.internal.resources", "class": "Workspace", "method": "run", "filename": "Workspace", "line": "1673"}]}], "duplicated_stack_id": []}

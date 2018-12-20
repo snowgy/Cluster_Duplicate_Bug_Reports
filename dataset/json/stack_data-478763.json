@@ -1,0 +1,1 @@
+{"stack_id": 478763, "component": "JPA", "importance": "P3 blocker", "reported_time": "2015-09-30 16:36", "modified_time": "2015-10-16 13:54", "stack_arr": [{"exception": "org.apache.maven.lifecycle.LifecycleExecutionException", "calls": []}], "duplicated_stack_id": []}

@@ -1,0 +1,1 @@
+{"stack_id": 422367, "component": "Maven 3", "importance": "P3 blocker      with      1       vote", "reported_time": "2013-11-22 14:17", "modified_time": "2016-01-15 10:59", "stack_arr": [{"exception": "hudson.AbortException", "calls": []}], "duplicated_stack_id": []}

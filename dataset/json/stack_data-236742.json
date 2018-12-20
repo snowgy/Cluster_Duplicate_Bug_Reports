@@ -1,0 +1,1 @@
+{"stack_id": 236742, "component": "Report Engine", "importance": "P3 normal", "reported_time": "2008-06-11 17:02", "modified_time": "2010-03-25 02:54", "stack_arr": [{"exception": "org.eclipse.birt.report.service.api.ReportServiceException", "calls": []}], "duplicated_stack_id": []}

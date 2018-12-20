@@ -1,0 +1,1 @@
+{"stack_id": 30910, "component": "UI", "importance": "P3 major", "reported_time": "2003-02-04 16:25", "modified_time": "2005-06-23 15:17", "stack_arr": [{"exception": "java.lang.RuntimeException", "calls": [{"package": "org.eclipse.core.boot", "class": "BootLoader", "method": "run", "filename": "BootLoader", "line": "462"}]}], "duplicated_stack_id": []}

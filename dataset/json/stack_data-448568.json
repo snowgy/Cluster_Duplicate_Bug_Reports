@@ -1,0 +1,1 @@
+{"stack_id": 448568, "component": "Dynamic Working Sets", "importance": "P3 normal", "reported_time": "2014-10-24 01:53", "modified_time": "2014-11-08 05:53", "stack_arr": [{"exception": "exception", "calls": []}, {"exception": "MalformedURLException", "calls": []}], "duplicated_stack_id": []}

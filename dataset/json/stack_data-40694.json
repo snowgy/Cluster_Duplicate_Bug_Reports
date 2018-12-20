@@ -1,0 +1,1 @@
+{"stack_id": 40694, "component": "Debug", "importance": "P3 major", "reported_time": "2003-07-24 02:45", "modified_time": "2009-08-30 02:13", "stack_arr": [{"exception": "com.sun.jdi.InternalException", "calls": [{"package": "org.eclipse.jdi.internal", "class": "StackFrameImpl", "method": "thisObject", "filename": "StackFrameImpl", "line": "209"}]}], "duplicated_stack_id": []}

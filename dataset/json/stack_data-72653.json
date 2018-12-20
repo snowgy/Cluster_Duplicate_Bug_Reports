@@ -1,0 +1,1 @@
+{"stack_id": 72653, "component": "Runtime", "importance": "P3 normal", "reported_time": "2004-08-25 20:44", "modified_time": "2004-08-30 12:11", "stack_arr": [{"exception": "org.osgi.framework.BundleException", "calls": []}, {"exception": "exception", "calls": []}], "duplicated_stack_id": []}

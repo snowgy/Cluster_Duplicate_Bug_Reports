@@ -1,0 +1,1 @@
+{"stack_id": 28978, "component": "Compiler", "importance": "P3 minor", "reported_time": "2003-01-03 13:35", "modified_time": "2003-01-07 16:11", "stack_arr": [{"exception": "NoSuchMethodException", "calls": []}], "duplicated_stack_id": []}

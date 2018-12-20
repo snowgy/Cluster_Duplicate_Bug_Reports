@@ -1,0 +1,1 @@
+{"stack_id": 501475, "component": "JGit", "importance": "P3 enhancement", "reported_time": "2016-09-15 04:19", "modified_time": "2016-09-15 04:20", "stack_arr": [{"exception": "CheckoutConflictException", "calls": []}], "duplicated_stack_id": []}

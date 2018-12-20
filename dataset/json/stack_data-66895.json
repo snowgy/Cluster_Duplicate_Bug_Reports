@@ -1,0 +1,1 @@
+{"stack_id": 66895, "component": "UI", "importance": "P3 critical", "reported_time": "2004-06-14 05:59", "modified_time": "2004-07-06 09:32", "stack_arr": [{"exception": "SWTException", "calls": []}], "duplicated_stack_id": []}

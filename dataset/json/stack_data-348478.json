@@ -1,0 +1,1 @@
+{"stack_id": 348478, "component": "Core", "importance": "P3 normal", "reported_time": "2011-06-06 17:38", "modified_time": "2015-05-27 08:57", "stack_arr": [{"exception": "org.eclipse.acceleo.engine.AcceleoEvaluationException", "calls": []}], "duplicated_stack_id": []}

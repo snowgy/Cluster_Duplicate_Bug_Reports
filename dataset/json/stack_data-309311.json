@@ -1,0 +1,1 @@
+{"stack_id": 309311, "component": "Build", "importance": "P3 normal", "reported_time": "2010-04-15 09:55", "modified_time": "2010-04-19 14:07", "stack_arr": [{"exception": "org.eclipse.equinox.p2.core.ProvisionException", "calls": []}], "duplicated_stack_id": []}

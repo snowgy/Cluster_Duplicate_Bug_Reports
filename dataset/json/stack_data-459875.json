@@ -1,0 +1,1 @@
+{"stack_id": 459875, "component": "JPA", "importance": "P3 major      with      24       votes", "reported_time": "2015-02-13 06:07", "modified_time": "2018-09-27 10:15", "stack_arr": [{"exception": "weblogic.transaction.RollbackException", "calls": []}, {"exception": "Exception", "calls": []}], "duplicated_stack_id": []}

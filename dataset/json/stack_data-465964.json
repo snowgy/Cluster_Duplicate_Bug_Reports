@@ -1,0 +1,1 @@
+{"stack_id": 465964, "component": "JPA", "importance": "P3 blocker", "reported_time": "2015-04-30 12:17", "modified_time": "2015-05-17 19:12", "stack_arr": [{"exception": "java.net.URISyntaxException", "calls": []}], "duplicated_stack_id": []}

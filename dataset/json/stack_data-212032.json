@@ -1,0 +1,1 @@
+{"stack_id": 212032, "component": "Foundation", "importance": "P3 normal", "reported_time": "2007-12-05 12:00", "modified_time": "2009-09-15 10:55", "stack_arr": [{"exception": "java.rmi.UnmarshalException", "calls": []}], "duplicated_stack_id": []}

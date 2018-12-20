@@ -1,0 +1,1 @@
+{"stack_id": 85699, "component": "SWT", "importance": "P3 normal      with      1       vote", "reported_time": "2005-02-17 09:19", "modified_time": "2007-11-21 16:46", "stack_arr": [{"exception": "java.lang.UnsatisfiedLinkError", "calls": []}], "duplicated_stack_id": ["109395", "113115", "133398", "201986"]}

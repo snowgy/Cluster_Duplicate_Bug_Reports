@@ -1,0 +1,1 @@
+{"stack_id": 219149, "component": "Cosmos", "importance": "P3 blocker", "reported_time": "2008-02-15 14:27", "modified_time": "2012-01-03 13:54", "stack_arr": [{"exception": "Exception", "calls": [{"package": "org.eclipse.cosmos.dc.mdr.client", "class": "MdrClient", "method": "invokeRemoteOperation", "filename": "MdrClient", "line": "77"}]}], "duplicated_stack_id": []}

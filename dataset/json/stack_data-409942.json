@@ -1,0 +1,1 @@
+{"stack_id": 409942, "component": "p2", "importance": "P3 normal", "reported_time": "2013-06-05 06:07", "modified_time": "2014-05-05 10:21", "stack_arr": [{"exception": "error", "calls": [{"package": "org.sat4j.pb.tools", "class": "DependencyHelper", "method": "getIntValue", "filename": "DependencyHelper", "line": "222"}]}], "duplicated_stack_id": []}

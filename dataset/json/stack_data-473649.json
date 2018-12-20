@@ -1,0 +1,1 @@
+{"stack_id": 473649, "component": "Core", "importance": "P3 critical", "reported_time": "2015-07-27 08:15", "modified_time": "2015-07-27 18:59", "stack_arr": [{"exception": "java.lang.NoClassDefFoundError", "calls": []}, {"exception": "java.lang.NoClassDefFoundError", "calls": []}, {"exception": "java.lang.NoClassDefFoundError", "calls": []}], "duplicated_stack_id": []}

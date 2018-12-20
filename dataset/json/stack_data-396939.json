@@ -1,0 +1,1 @@
+{"stack_id": 396939, "component": "Plugins", "importance": "P3 major", "reported_time": "2012-12-19 10:49", "modified_time": "2013-09-16 19:42", "stack_arr": [{"exception": "java.lang.NoClassDefFoundError", "calls": [{"package": "java.lang", "class": "J9VMInternals", "method": "initialize", "filename": "J9VMInternals", "line": "140"}]}], "duplicated_stack_id": []}

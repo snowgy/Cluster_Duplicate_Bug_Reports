@@ -1,0 +1,1 @@
+{"stack_id": 319927, "component": "SQL Query Builder", "importance": "P3 normal", "reported_time": "2010-07-14 17:56", "modified_time": "2010-07-27 16:32", "stack_arr": [{"exception": "error", "calls": []}, {"exception": "org.eclipse.birt.report.data.oda.jdbc.JDBCException", "calls": []}], "duplicated_stack_id": []}

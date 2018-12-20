@@ -1,0 +1,1 @@
+{"stack_id": 528822, "component": "Sonar", "importance": "P3 major", "reported_time": "2017-12-15 04:41", "modified_time": "2017-12-19 08:04", "stack_arr": [{"exception": "java.sql.SQLException", "calls": [{"package": "com.mysql.jdbc", "class": "SQLError", "method": "createSQLException", "filename": "SQLError", "line": "1078"}]}], "duplicated_stack_id": []}

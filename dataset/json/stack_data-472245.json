@@ -1,0 +1,1 @@
+{"stack_id": 472245, "component": "CI-Jenkins", "importance": "P3 normal", "reported_time": "2015-07-09 02:25", "modified_time": "2015-07-09 03:12", "stack_arr": [{"exception": "error", "calls": []}, {"exception": "com.jcraft.jsch.JSchException", "calls": []}], "duplicated_stack_id": []}

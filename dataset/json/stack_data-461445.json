@@ -1,0 +1,1 @@
+{"stack_id": 461445, "component": "emftvm", "importance": "P3 normal", "reported_time": "2015-03-04 16:14", "modified_time": "2015-03-26 10:41", "stack_arr": [{"exception": "org.eclipse.m2m.atl.emftvm.util.VMException", "calls": []}], "duplicated_stack_id": []}

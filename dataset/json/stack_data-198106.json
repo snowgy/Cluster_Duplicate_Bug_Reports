@@ -1,0 +1,1 @@
+{"stack_id": 198106, "component": "SWT", "importance": "P3 blocker", "reported_time": "2007-07-27 10:28", "modified_time": "2007-07-31 09:37", "stack_arr": [{"exception": "java.lang.UnsatisfiedLinkError", "calls": [{"package": "org.eclipse.swt.browser", "class": "Mozilla", "method": "create", "filename": "Mozilla", "line": "244"}]}], "duplicated_stack_id": []}

@@ -1,0 +1,1 @@
+{"stack_id": 445573, "component": "Xtext", "importance": "P3 normal", "reported_time": "2014-10-01 02:58", "modified_time": "2015-12-11 09:33", "stack_arr": [{"exception": "org.apache.maven.lifecycle.LifecycleExecutionException", "calls": []}], "duplicated_stack_id": []}

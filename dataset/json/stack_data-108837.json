@@ -1,0 +1,1 @@
+{"stack_id": 108837, "component": "jst.j2ee", "importance": "P2 major", "reported_time": "2005-09-06 11:00", "modified_time": "2006-09-25 02:56", "stack_arr": [{"exception": "org.w3c.dom.DOMException", "calls": []}, {"exception": "org.eclipse.emf.ecore.xmi.DanglingHREFException", "calls": []}], "duplicated_stack_id": ["115830", "115900"]}

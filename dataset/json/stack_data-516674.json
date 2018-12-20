@@ -1,0 +1,1 @@
+{"stack_id": 516674, "component": "SWT", "importance": "P3 normal", "reported_time": "2017-05-15 13:36", "modified_time": "2018-04-13 16:35", "stack_arr": [{"exception": "org.eclipse.swtbot.swt.finder.widgets.TimeoutException", "calls": []}], "duplicated_stack_id": []}

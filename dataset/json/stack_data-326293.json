@@ -1,0 +1,1 @@
+{"stack_id": 326293, "component": "General UI", "importance": "P1 major      with      2       votes", "reported_time": "2010-09-27 08:11", "modified_time": "2010-10-14 08:59", "stack_arr": [{"exception": "java.lang.IllegalArgumentException", "calls": []}], "duplicated_stack_id": ["326757"]}

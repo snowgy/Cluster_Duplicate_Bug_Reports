@@ -1,0 +1,1 @@
+{"stack_id": 429659, "component": "cdo.core", "importance": "P3 normal", "reported_time": "2014-03-05 07:59", "modified_time": "2015-01-13 04:34", "stack_arr": [{"exception": "DanglingIntegrityException", "calls": []}], "duplicated_stack_id": ["299362", "453770"]}

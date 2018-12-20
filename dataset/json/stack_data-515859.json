@@ -1,0 +1,1 @@
+{"stack_id": 515859, "component": "Core", "importance": "P3 major      with      3       votes", "reported_time": "2017-04-26 14:17", "modified_time": "2017-10-20 10:56", "stack_arr": [{"exception": "ArtifactResolutionException", "calls": []}], "duplicated_stack_id": ["517113", "517791", "520149"]}

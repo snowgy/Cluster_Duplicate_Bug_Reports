@@ -1,0 +1,1 @@
+{"stack_id": 464096, "component": "JPA", "importance": "P3 major", "reported_time": "2015-04-07 23:00", "modified_time": "2015-05-07 05:41", "stack_arr": [{"exception": "java.lang.UnsupportedClassVersionError", "calls": []}], "duplicated_stack_id": []}

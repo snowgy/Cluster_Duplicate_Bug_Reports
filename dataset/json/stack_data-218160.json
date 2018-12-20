@@ -1,0 +1,1 @@
+{"stack_id": 218160, "component": "Report", "importance": "P3 major", "reported_time": "2008-02-07 07:20", "modified_time": "2016-01-15 12:17", "stack_arr": [{"exception": "exception", "calls": [{"package": "org.eclipse.birt.report.engine.emitter.wpml", "class": "WordUtil", "method": "<clinit>", "filename": "WordUtil", "line": "19"}]}], "duplicated_stack_id": []}

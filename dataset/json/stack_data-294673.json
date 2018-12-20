@@ -1,0 +1,1 @@
+{"stack_id": 294673, "component": "p2", "importance": "P3 normal", "reported_time": "2009-11-09 16:47", "modified_time": "2009-11-09 16:52", "stack_arr": [{"exception": "java.net.URISyntaxException", "calls": [{"package": "org.eclipse.equinox.internal.p2.core", "class": "Activator", "method": "start", "filename": "Activator", "line": "160"}]}], "duplicated_stack_id": []}

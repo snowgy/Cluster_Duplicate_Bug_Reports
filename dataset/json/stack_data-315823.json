@@ -1,0 +1,1 @@
+{"stack_id": 315823, "component": "JGit", "importance": "P3 normal", "reported_time": "2010-06-04 15:34", "modified_time": "2010-06-07 10:27", "stack_arr": [{"exception": "java.util.MissingResourceException", "calls": []}], "duplicated_stack_id": []}

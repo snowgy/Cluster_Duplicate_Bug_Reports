@@ -1,0 +1,1 @@
+{"stack_id": 100053, "component": "SWT", "importance": "P3 enhancement", "reported_time": "2005-06-14 15:10", "modified_time": "2017-07-11 09:45", "stack_arr": [{"exception": "java.lang.UnsatisfiedLinkError", "calls": []}], "duplicated_stack_id": []}

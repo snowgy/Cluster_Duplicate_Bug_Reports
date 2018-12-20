@@ -1,0 +1,1 @@
+{"stack_id": 428552, "component": "Core", "importance": "P3 normal", "reported_time": "2014-02-19 09:23", "modified_time": "2014-02-23 23:18", "stack_arr": [{"exception": "java.io.NotSerializableException", "calls": []}], "duplicated_stack_id": []}

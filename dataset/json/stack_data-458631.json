@@ -1,0 +1,1 @@
+{"stack_id": 458631, "component": "RC", "importance": "P3 blocker", "reported_time": "2015-01-28 07:05", "modified_time": "2015-03-11 07:03", "stack_arr": [{"exception": "Error", "calls": [{"package": "org.eclipse.jubula.rc.javafx.tester", "class": "TableTester$6", "method": "call", "filename": "TableTester", "line": "322"}]}], "duplicated_stack_id": []}

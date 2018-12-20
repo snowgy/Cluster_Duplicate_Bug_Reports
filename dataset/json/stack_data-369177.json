@@ -1,0 +1,1 @@
+{"stack_id": 369177, "component": "Resources", "importance": "P3 critical", "reported_time": "2012-01-20 02:20", "modified_time": "2012-03-01 08:52", "stack_arr": [{"exception": "exception", "calls": [{"package": "org.eclipse.jdt.core", "class": "JavaCore", "method": "start", "filename": "JavaCore", "line": "5144"}]}], "duplicated_stack_id": ["369239"]}

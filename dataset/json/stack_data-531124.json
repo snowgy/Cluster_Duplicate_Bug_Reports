@@ -1,0 +1,1 @@
+{"stack_id": 531124, "component": "Core", "importance": "P3 critical", "reported_time": "2018-02-13 16:20", "modified_time": "2018-03-08 10:32", "stack_arr": [{"exception": "error", "calls": [{"package": "org.eclipse.jdt.internal.compiler.lookup", "class": "Scope", "method": "isInsideDeprecatedCode", "filename": "Scope", "line": "3657"}]}], "duplicated_stack_id": []}

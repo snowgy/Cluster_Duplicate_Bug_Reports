@@ -1,0 +1,1 @@
+{"stack_id": 421307, "component": "Compiler", "importance": "P3 normal", "reported_time": "2013-11-08 03:50", "modified_time": "2014-06-21 23:37", "stack_arr": [{"exception": "org.springframework.beans.factory.BeanCreationException", "calls": []}, {"exception": "org.springframework.beans.factory.BeanCreationException", "calls": []}], "duplicated_stack_id": []}

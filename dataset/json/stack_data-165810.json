@@ -1,0 +1,1 @@
+{"stack_id": 165810, "component": "Compiler", "importance": "P5 normal", "reported_time": "2006-11-24 13:46", "modified_time": "2007-10-26 03:58", "stack_arr": [{"exception": "org.aspectj.lang.NoAspectBoundException", "calls": []}], "duplicated_stack_id": []}

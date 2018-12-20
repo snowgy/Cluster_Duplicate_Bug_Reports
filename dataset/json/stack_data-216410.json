@@ -1,0 +1,1 @@
+{"stack_id": 216410, "component": "CVS", "importance": "P5 normal", "reported_time": "2008-01-24 05:29", "modified_time": "2008-07-21 05:54", "stack_arr": [{"exception": "org.eclipse.team.internal.ccvs.core.connection.CVSCommunicationException", "calls": []}], "duplicated_stack_id": []}

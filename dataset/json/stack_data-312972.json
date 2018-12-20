@@ -1,0 +1,1 @@
+{"stack_id": 312972, "component": "Build", "importance": "P3 normal", "reported_time": "2010-05-14 15:28", "modified_time": "2010-05-14 16:00", "stack_arr": [{"exception": "java.net.ConnectException", "calls": []}], "duplicated_stack_id": []}

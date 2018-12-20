@@ -1,0 +1,1 @@
+{"stack_id": 94440, "component": "Debug", "importance": "P2 normal", "reported_time": "2005-05-10 13:37", "modified_time": "2005-05-17 17:43", "stack_arr": [{"exception": "exception", "calls": [{"package": "org.eclipse.debug.core.model", "class": "Breakpoint", "method": "run", "filename": "Breakpoint", "line": "337"}]}], "duplicated_stack_id": []}

@@ -1,0 +1,1 @@
+{"stack_id": 186438, "component": "Core", "importance": "P3 normal", "reported_time": "2007-05-10 15:02", "modified_time": "2007-05-11 10:30", "stack_arr": [{"exception": "error", "calls": []}, {"exception": "java.lang.NoSuchMethodError", "calls": [{"package": "test", "class": "MyClass", "method": "main", "filename": "MyClass", "line": "6"}]}], "duplicated_stack_id": []}

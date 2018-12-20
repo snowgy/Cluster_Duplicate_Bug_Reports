@@ -1,0 +1,1 @@
+{"stack_id": 494696, "component": "unknown", "importance": "P3 normal", "reported_time": "2016-05-26 16:03", "modified_time": "2016-06-02 04:27", "stack_arr": [{"exception": "org.eclipse.virgo.kernel.osgi.framework.ExtendedClassNotFoundException", "calls": []}], "duplicated_stack_id": []}

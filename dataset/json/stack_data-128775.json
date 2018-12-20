@@ -1,0 +1,1 @@
+{"stack_id": 128775, "component": "Team", "importance": "P3 normal", "reported_time": "2006-02-21 05:48", "modified_time": "2006-02-21 06:22", "stack_arr": [{"exception": "IllegalArgumentException", "calls": []}], "duplicated_stack_id": []}

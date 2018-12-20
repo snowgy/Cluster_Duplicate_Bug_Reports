@@ -1,0 +1,1 @@
+{"stack_id": 388823, "component": "jetty", "importance": "P1 enhancement", "reported_time": "2012-09-05 04:16", "modified_time": "2012-11-27 14:42", "stack_arr": [{"exception": "java.security.AccessControlException", "calls": []}], "duplicated_stack_id": []}

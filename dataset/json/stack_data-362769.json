@@ -1,0 +1,1 @@
+{"stack_id": 362769, "component": "Mylyn", "importance": "P3 minor", "reported_time": "2011-11-03 04:53", "modified_time": "2011-11-04 09:21", "stack_arr": [{"exception": "com.google.gson.stream.MalformedJsonException", "calls": []}], "duplicated_stack_id": []}

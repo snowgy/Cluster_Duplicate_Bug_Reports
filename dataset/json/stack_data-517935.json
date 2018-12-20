@@ -1,0 +1,1 @@
+{"stack_id": 517935, "component": "Cross-Project", "importance": "P3 major      with      2       votes", "reported_time": "2017-06-07 06:38", "modified_time": "2017-09-21 07:47", "stack_arr": [{"exception": "ClassCastException", "calls": []}], "duplicated_stack_id": ["509363", "520074"]}

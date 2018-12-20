@@ -1,0 +1,1 @@
+{"stack_id": 169910, "component": "ALF", "importance": "P3 normal", "reported_time": "2007-01-08 18:06", "modified_time": "2010-11-23 14:33", "stack_arr": [{"exception": "org.eclipse.alf.exception.InvalidApplicationNameException", "calls": []}], "duplicated_stack_id": []}

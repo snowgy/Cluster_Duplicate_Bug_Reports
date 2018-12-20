@@ -1,0 +1,1 @@
+{"stack_id": 526619, "component": "CI-Jenkins", "importance": "P3 major", "reported_time": "2017-10-30 03:54", "modified_time": "2017-10-30 05:28", "stack_arr": [{"exception": "com.sun.jersey.api.client.ClientHandlerException", "calls": []}, {"exception": "com.sun.jersey.api.client.ClientHandlerException", "calls": []}], "duplicated_stack_id": []}

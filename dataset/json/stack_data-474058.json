@@ -1,0 +1,1 @@
+{"stack_id": 474058, "component": "Maven 3", "importance": "P3 normal", "reported_time": "2015-07-31 13:26", "modified_time": "2015-07-31 20:22", "stack_arr": [{"exception": "hudson.remoting.RequestAbortedException", "calls": []}], "duplicated_stack_id": []}

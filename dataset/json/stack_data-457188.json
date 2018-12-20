@@ -1,0 +1,1 @@
+{"stack_id": 457188, "component": "Scout", "importance": "P3 enhancement", "reported_time": "2015-01-10 09:37", "modified_time": "2015-01-10 09:37", "stack_arr": [{"exception": "org.postgresql.util.PSQLException", "calls": []}], "duplicated_stack_id": []}

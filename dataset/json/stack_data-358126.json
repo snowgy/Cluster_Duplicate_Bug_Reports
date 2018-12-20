@@ -1,0 +1,1 @@
+{"stack_id": 358126, "component": "Editor", "importance": "P3 critical", "reported_time": "2011-09-19 10:46", "modified_time": "2011-09-23 14:37", "stack_arr": [{"exception": "error", "calls": []}, {"exception": "TypeError", "calls": []}], "duplicated_stack_id": []}

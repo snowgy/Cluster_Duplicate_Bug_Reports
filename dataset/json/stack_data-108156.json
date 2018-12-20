@@ -1,0 +1,1 @@
+{"stack_id": 108156, "component": "jst.ws", "importance": "P3 major", "reported_time": "2005-08-26 13:50", "modified_time": "2005-11-22 10:25", "stack_arr": [{"exception": "java.lang.NoClassDefFoundError", "calls": []}], "duplicated_stack_id": []}

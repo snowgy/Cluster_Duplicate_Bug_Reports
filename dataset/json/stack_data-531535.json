@@ -1,0 +1,1 @@
+{"stack_id": 531535, "component": "Core", "importance": "P3 normal", "reported_time": "2018-02-22 07:15", "modified_time": "2018-03-09 09:58", "stack_arr": [{"exception": "exception", "calls": [{"package": "org.eclipse.osgi.internal.framework", "class": "BundleContextImpl", "method": "getService", "filename": "BundleContextImpl", "line": "619"}]}], "duplicated_stack_id": []}

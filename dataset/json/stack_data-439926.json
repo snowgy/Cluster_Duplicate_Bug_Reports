@@ -1,0 +1,1 @@
+{"stack_id": 439926, "component": "cdt-debug-dsf-gdb", "importance": "P3 normal", "reported_time": "2014-07-18 16:04", "modified_time": "2014-07-29 01:00", "stack_arr": [{"exception": "junit.framework.AssertionFailedError", "calls": [{"package": "junit.framework", "class": "Assert", "method": "fail", "filename": "Assert", "line": "57"}]}], "duplicated_stack_id": []}

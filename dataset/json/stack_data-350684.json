@@ -1,0 +1,1 @@
+{"stack_id": 350684, "component": "UI", "importance": "P3 normal", "reported_time": "2011-06-29 07:01", "modified_time": "2011-07-04 07:26", "stack_arr": [{"exception": "java.lang.Error", "calls": [{"package": "synchronize.bank", "class": "SynchBankTest", "method": "main", "filename": "SynchBankTest", "line": "8"}]}], "duplicated_stack_id": []}

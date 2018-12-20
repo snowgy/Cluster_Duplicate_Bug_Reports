@@ -1,0 +1,1 @@
+{"stack_id": 215886, "component": "PDE support", "importance": "P3 major", "reported_time": "2008-01-19 09:46", "modified_time": "2008-01-19 10:00", "stack_arr": [{"exception": "org.eclipse.update.internal.core.FatalIOException", "calls": []}], "duplicated_stack_id": []}

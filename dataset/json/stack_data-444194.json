@@ -1,0 +1,1 @@
+{"stack_id": 444194, "component": "Client", "importance": "P3 normal", "reported_time": "2014-09-15 18:00", "modified_time": "2014-09-18 16:52", "stack_arr": [{"exception": "InvalidCharacterError", "calls": []}], "duplicated_stack_id": []}

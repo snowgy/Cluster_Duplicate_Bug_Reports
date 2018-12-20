@@ -1,0 +1,1 @@
+{"stack_id": 112829, "component": "General", "importance": "P1 enhancement", "reported_time": "2005-10-17 14:00", "modified_time": "2010-07-19 21:54", "stack_arr": [{"exception": "org.eclipse.swt.SWTException", "calls": []}], "duplicated_stack_id": []}

@@ -1,0 +1,1 @@
+{"stack_id": 397247, "component": "maven", "importance": "P3 normal", "reported_time": "2012-12-30 06:43", "modified_time": "2012-12-30 14:19", "stack_arr": [{"exception": "exception", "calls": [{"package": "org.eclipse.jetty.xml", "class": "XmlConfiguration$JettyXmlConfiguration", "method": "set", "filename": "XmlConfiguration", "line": "570"}]}], "duplicated_stack_id": []}

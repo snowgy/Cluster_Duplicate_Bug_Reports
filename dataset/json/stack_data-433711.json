@@ -1,0 +1,1 @@
+{"stack_id": 433711, "component": "Core", "importance": "P3 major      with      1       vote", "reported_time": "2014-04-28 16:54", "modified_time": "2017-03-21 13:15", "stack_arr": [{"exception": "UnresolvableModelException", "calls": []}], "duplicated_stack_id": []}

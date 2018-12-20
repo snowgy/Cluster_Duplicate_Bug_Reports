@@ -1,0 +1,1 @@
+{"stack_id": 539774, "component": "APT", "importance": "P3 normal", "reported_time": "2018-10-03 17:36", "modified_time": "2018-12-04 10:36", "stack_arr": [{"exception": "javax.annotation.processing.FilerException", "calls": []}], "duplicated_stack_id": []}

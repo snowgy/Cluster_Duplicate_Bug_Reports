@@ -1,0 +1,1 @@
+{"stack_id": 347729, "component": "Scout", "importance": "P3 critical", "reported_time": "2011-05-31 03:17", "modified_time": "2011-06-28 08:45", "stack_arr": [{"exception": "org.eclipse.swt.SWTException", "calls": []}], "duplicated_stack_id": []}

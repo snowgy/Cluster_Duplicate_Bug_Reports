@@ -1,0 +1,1 @@
+{"stack_id": 442468, "component": "Core", "importance": "P3 normal", "reported_time": "2014-08-25 07:02", "modified_time": "2014-11-12 11:39", "stack_arr": [{"exception": "error", "calls": []}, {"exception": "org.jruby.embed.EvalFailedException", "calls": []}], "duplicated_stack_id": []}

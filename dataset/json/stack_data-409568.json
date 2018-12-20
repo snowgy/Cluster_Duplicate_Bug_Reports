@@ -1,0 +1,1 @@
+{"stack_id": 409568, "component": "wst.wsdl", "importance": "P3 minor      with      1       vote", "reported_time": "2013-05-31 05:59", "modified_time": "2013-05-31 05:59", "stack_arr": [{"exception": "exception", "calls": []}, {"exception": "org.eclipse.swt.SWTException", "calls": []}], "duplicated_stack_id": []}

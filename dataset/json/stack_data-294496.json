@@ -1,0 +1,1 @@
+{"stack_id": 294496, "component": "cdo.core", "importance": "P3 critical", "reported_time": "2009-11-06 12:57", "modified_time": "2010-06-29 09:20", "stack_arr": [{"exception": "java.lang.IllegalStateException", "calls": []}], "duplicated_stack_id": []}

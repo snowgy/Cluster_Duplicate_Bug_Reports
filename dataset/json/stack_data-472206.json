@@ -1,0 +1,1 @@
+{"stack_id": 472206, "component": "Gerrit", "importance": "P3 normal", "reported_time": "2015-07-08 14:17", "modified_time": "2015-07-09 10:22", "stack_arr": [{"exception": "com.jcraft.jsch.JSchException", "calls": []}], "duplicated_stack_id": ["472242", "472245", "472290"]}

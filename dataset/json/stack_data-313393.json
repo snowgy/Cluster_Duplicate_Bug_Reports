@@ -1,0 +1,1 @@
+{"stack_id": 313393, "component": "CBI p2 Repository Aggregator", "importance": "P3 normal", "reported_time": "2010-05-18 12:39", "modified_time": "2016-09-16 15:58", "stack_arr": [{"exception": "org.eclipse.core.runtime.CoreException", "calls": []}, {"exception": "java.lang.NullPointerException", "calls": []}], "duplicated_stack_id": []}

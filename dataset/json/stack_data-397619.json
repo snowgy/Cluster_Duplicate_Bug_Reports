@@ -1,0 +1,1 @@
+{"stack_id": 397619, "component": "JPA", "importance": "P3 critical      with      1       vote", "reported_time": "2013-01-07 15:34", "modified_time": "2013-01-31 04:46", "stack_arr": [{"exception": "java.sql.SQLSyntaxErrorException", "calls": []}], "duplicated_stack_id": []}

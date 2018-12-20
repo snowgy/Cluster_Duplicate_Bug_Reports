@@ -1,0 +1,1 @@
+{"stack_id": 181986, "component": "Corona", "importance": "P1 major", "reported_time": "2007-04-11 13:50", "modified_time": "2010-04-08 11:14", "stack_arr": [{"exception": "exception", "calls": [{"package": "org.eclipse.core.internal.events", "class": "NotificationManager$2", "method": "run", "filename": "NotificationManager", "line": "282"}]}], "duplicated_stack_id": []}

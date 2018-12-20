@@ -1,0 +1,1 @@
+{"stack_id": 489246, "component": "Core", "importance": "P3 major", "reported_time": "2016-03-08 16:49", "modified_time": "2016-03-13 06:55", "stack_arr": [{"exception": "error", "calls": [{"package": "org.tmatesoft.svn.core.internal.util", "class": "SVNPathUtil", "method": "getRelativePath", "filename": "SVNPathUtil", "line": "467"}]}], "duplicated_stack_id": []}

@@ -1,0 +1,1 @@
+{"stack_id": 506649, "component": "Core", "importance": "P3 normal", "reported_time": "2016-10-27 13:55", "modified_time": "2016-10-27 13:55", "stack_arr": [{"exception": "error", "calls": [{"package": "java.util", "class": "ServiceLoader", "method": "fail", "filename": "ServiceLoader", "line": "232"}]}], "duplicated_stack_id": []}

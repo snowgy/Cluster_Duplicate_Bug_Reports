@@ -1,0 +1,1 @@
+{"stack_id": 160477, "component": "TPTP", "importance": "P1 critical", "reported_time": "2006-10-11 10:21", "modified_time": "2016-05-05 10:50", "stack_arr": [{"exception": "error", "calls": []}], "duplicated_stack_id": ["160349", "160476"]}

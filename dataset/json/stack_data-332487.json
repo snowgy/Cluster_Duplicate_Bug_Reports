@@ -1,0 +1,1 @@
+{"stack_id": 332487, "component": "JGit", "importance": "P3 normal", "reported_time": "2010-12-13 19:46", "modified_time": "2013-03-27 07:48", "stack_arr": [{"exception": "sun.security.provider.certpath.SunCertPathBuilderException", "calls": []}], "duplicated_stack_id": []}

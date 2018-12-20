@@ -1,0 +1,1 @@
+{"stack_id": 258698, "component": "UI", "importance": "P3 major", "reported_time": "2008-12-12 15:29", "modified_time": "2008-12-16 11:19", "stack_arr": [{"exception": "java.lang.ClassCastException", "calls": [{"package": "org.eclipse.core.internal.jobs", "class": "Worker", "method": "run", "filename": "Worker", "line": "55"}]}], "duplicated_stack_id": []}

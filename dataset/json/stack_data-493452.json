@@ -1,0 +1,1 @@
+{"stack_id": 493452, "component": "SWT", "importance": "P3 normal", "reported_time": "2016-05-11 13:32", "modified_time": "2016-05-12 11:18", "stack_arr": [{"exception": "org.eclipse.swt.SWTException", "calls": []}], "duplicated_stack_id": []}

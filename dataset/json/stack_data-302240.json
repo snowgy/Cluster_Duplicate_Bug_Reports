@@ -1,0 +1,1 @@
+{"stack_id": 302240, "component": "Higgins", "importance": "P3 minor", "reported_time": "2010-02-09 04:29", "modified_time": "2016-11-09 16:26", "stack_arr": [{"exception": "error", "calls": []}, {"exception": "System.ServiceModel.Security.SecurityNegotiationException", "calls": []}], "duplicated_stack_id": []}

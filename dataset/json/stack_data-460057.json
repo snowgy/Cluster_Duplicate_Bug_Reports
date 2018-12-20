@@ -1,0 +1,1 @@
+{"stack_id": 460057, "component": "Connectors", "importance": "P3 major", "reported_time": "2015-02-16 17:06", "modified_time": "2015-04-29 12:37", "stack_arr": [{"exception": "NullPointerException", "calls": []}], "duplicated_stack_id": []}

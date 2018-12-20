@@ -1,0 +1,1 @@
+{"stack_id": 273750, "component": "galileo-builder", "importance": "P3 enhancement", "reported_time": "2009-04-26 17:38", "modified_time": "2009-05-12 11:51", "stack_arr": [{"exception": "org.eclipse.gmf.internal.xpand.model.EvaluationException", "calls": []}], "duplicated_stack_id": []}

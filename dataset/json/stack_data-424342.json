@@ -1,0 +1,1 @@
+{"stack_id": 424342, "component": "Xtext", "importance": "P3 normal", "reported_time": "2013-12-18 10:05", "modified_time": "2014-01-09 14:27", "stack_arr": [{"exception": "java.lang.SecurityException", "calls": []}], "duplicated_stack_id": []}

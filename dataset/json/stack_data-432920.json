@@ -1,0 +1,1 @@
+{"stack_id": 432920, "component": "Core", "importance": "P3 major", "reported_time": "2014-04-16 09:42", "modified_time": "2014-05-09 02:49", "stack_arr": [{"exception": "org.eclipse.ocl.ecore.delegate.OCLDelegateException", "calls": []}], "duplicated_stack_id": ["433854"]}

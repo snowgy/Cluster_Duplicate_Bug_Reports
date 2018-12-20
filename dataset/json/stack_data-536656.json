@@ -1,0 +1,1 @@
+{"stack_id": 536656, "component": "Team", "importance": "P3 blocker", "reported_time": "2018-07-03 13:12", "modified_time": "2018-07-09 14:51", "stack_arr": [{"exception": "java.lang.NoClassDefFoundError", "calls": []}], "duplicated_stack_id": []}

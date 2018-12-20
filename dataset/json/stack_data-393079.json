@@ -1,0 +1,1 @@
+{"stack_id": 393079, "component": "JPA", "importance": "P3 normal", "reported_time": "2012-10-29 13:36", "modified_time": "2013-08-21 16:19", "stack_arr": [{"exception": "org.eclipse.core.runtime.CoreException", "calls": []}], "duplicated_stack_id": []}

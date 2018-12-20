@@ -1,0 +1,1 @@
+{"stack_id": 458690, "component": "Mosquitto", "importance": "P3 normal", "reported_time": "2015-01-28 17:48", "modified_time": "2016-09-09 09:05", "stack_arr": [{"exception": "error", "calls": []}, {"exception": "error", "calls": []}], "duplicated_stack_id": []}

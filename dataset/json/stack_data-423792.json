@@ -1,0 +1,1 @@
+{"stack_id": 423792, "component": "Demo", "importance": "P3 minor", "reported_time": "2013-12-11 06:41", "modified_time": "2013-12-11 15:12", "stack_arr": [{"exception": "org.osgi.service.http.NamespaceException", "calls": []}], "duplicated_stack_id": []}

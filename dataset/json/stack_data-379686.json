@@ -1,0 +1,1 @@
+{"stack_id": 379686, "component": "Core", "importance": "P3 normal", "reported_time": "2012-05-16 09:13", "modified_time": "2012-05-21 05:05", "stack_arr": [{"exception": "org.apache.maven.lifecycle.LifecycleExecutionException", "calls": []}], "duplicated_stack_id": []}

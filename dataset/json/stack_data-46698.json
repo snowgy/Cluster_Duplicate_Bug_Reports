@@ -1,0 +1,1 @@
+{"stack_id": 46698, "component": "Ant", "importance": "P3 normal      with      1       vote", "reported_time": "2003-11-14 15:08", "modified_time": "2003-12-12 17:50", "stack_arr": [{"exception": "java.lang.NoSuchMethodError", "calls": []}], "duplicated_stack_id": []}

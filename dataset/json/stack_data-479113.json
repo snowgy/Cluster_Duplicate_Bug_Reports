@@ -1,0 +1,1 @@
+{"stack_id": 479113, "component": "RWT", "importance": "P3 normal      with      1       vote", "reported_time": "2015-10-06 04:03", "modified_time": "2016-01-15 09:40", "stack_arr": [{"exception": "java.lang.Exception", "calls": []}, {"exception": "java.lang.Exception", "calls": []}], "duplicated_stack_id": []}

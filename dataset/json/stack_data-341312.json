@@ -1,0 +1,1 @@
+{"stack_id": 341312, "component": "Core", "importance": "P3 normal", "reported_time": "2011-03-30 03:23", "modified_time": "2011-07-14 07:51", "stack_arr": [{"exception": "java.lang.Exception", "calls": [{"package": "org.eclipse.test", "class": "EclipseTestRunner", "method": "loadSuiteClass", "filename": "EclipseTestRunner", "line": "326"}]}], "duplicated_stack_id": []}

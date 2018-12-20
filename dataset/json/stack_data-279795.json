@@ -1,0 +1,1 @@
+{"stack_id": 279795, "component": "Faceted Project Framework", "importance": "P3 normal", "reported_time": "2009-06-10 09:36", "modified_time": "2012-01-03 14:32", "stack_arr": [{"exception": "org.eclipse.core.runtime.CoreException", "calls": []}], "duplicated_stack_id": []}

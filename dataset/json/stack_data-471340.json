@@ -1,0 +1,1 @@
+{"stack_id": 471340, "component": "JS Tools", "importance": "P3 enhancement", "reported_time": "2015-06-29 11:27", "modified_time": "2015-06-29 12:40", "stack_arr": [{"exception": "exception", "calls": []}, {"exception": "TypeError", "calls": []}], "duplicated_stack_id": []}

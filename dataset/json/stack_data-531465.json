@@ -1,0 +1,1 @@
+{"stack_id": 531465, "component": "Other", "importance": "P3 major      with      1       vote", "reported_time": "2018-02-21 08:07", "modified_time": "2018-03-05 09:42", "stack_arr": [{"exception": "exception", "calls": []}, {"exception": "org.eclipse.e4.core.di.InjectionException", "calls": []}], "duplicated_stack_id": []}

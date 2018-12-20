@@ -1,0 +1,1 @@
+{"stack_id": 438556, "component": "Core", "importance": "P3 blocker", "reported_time": "2014-06-30 09:34", "modified_time": "2014-06-30 11:21", "stack_arr": [{"exception": "org.eclipse.equinox.p2.core.ProvisionException", "calls": []}, {"exception": "java.io.IOException", "calls": []}, {"exception": "java.io.IOException", "calls": []}], "duplicated_stack_id": []}

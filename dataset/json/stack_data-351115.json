@@ -1,0 +1,1 @@
+{"stack_id": 351115, "component": "MOXy", "importance": "P3 normal", "reported_time": "2011-07-04 15:24", "modified_time": "2011-07-04 15:52", "stack_arr": [{"exception": "javax.xml.bind.JAXBException", "calls": []}], "duplicated_stack_id": []}

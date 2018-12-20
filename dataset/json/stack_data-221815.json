@@ -1,0 +1,1 @@
+{"stack_id": 221815, "component": "CTableTree", "importance": "P3 blocker", "reported_time": "2008-03-07 05:31", "modified_time": "2009-01-17 15:20", "stack_arr": [{"exception": "SWTError", "calls": []}], "duplicated_stack_id": []}

@@ -1,0 +1,1 @@
+{"stack_id": 100032, "component": "Runtime", "importance": "P3 normal", "reported_time": "2005-06-14 14:03", "modified_time": "2006-02-07 13:13", "stack_arr": [{"exception": "error", "calls": [{"package": "org.eclipse.core.internal.content", "class": "ContentType", "method": "describe", "filename": "ContentType", "line": "160"}]}], "duplicated_stack_id": ["126166"]}

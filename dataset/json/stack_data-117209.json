@@ -1,0 +1,1 @@
+{"stack_id": 117209, "component": "Compiler", "importance": "P2 normal", "reported_time": "2005-11-20 01:07", "modified_time": "2005-12-07 05:24", "stack_arr": [{"exception": "java.lang.VerifyError", "calls": [{"package": "MyClass_ch16.main", "class": "MyClass_ch16", "method": "main", "filename": "MyClass_ch16", "line": "15"}]}], "duplicated_stack_id": ["117210"]}

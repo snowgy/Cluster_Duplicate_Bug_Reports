@@ -1,0 +1,1 @@
+{"stack_id": 60441, "component": "Compiler", "importance": "P3 major", "reported_time": "2004-04-29 11:24", "modified_time": "2004-05-13 05:22", "stack_arr": [{"exception": "WSIFException", "calls": []}], "duplicated_stack_id": []}

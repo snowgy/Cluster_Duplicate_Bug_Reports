@@ -1,0 +1,1 @@
+{"stack_id": 488038, "component": "Xtext", "importance": "P3 major", "reported_time": "2016-02-18 10:16", "modified_time": "2016-02-18 10:17", "stack_arr": [{"exception": "error", "calls": []}, {"exception": "java.lang.linkageerror", "calls": []}], "duplicated_stack_id": []}

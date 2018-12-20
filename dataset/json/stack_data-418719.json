@@ -1,0 +1,1 @@
+{"stack_id": 418719, "component": "RWT", "importance": "P2 normal", "reported_time": "2013-10-04 19:38", "modified_time": "2014-01-30 06:28", "stack_arr": [{"exception": "TypeError", "calls": []}, {"exception": "TypeError", "calls": []}], "duplicated_stack_id": []}

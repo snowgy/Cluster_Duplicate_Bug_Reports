@@ -1,0 +1,1 @@
+{"stack_id": 489333, "component": "signing-service", "importance": "P3 normal", "reported_time": "2016-03-10 03:20", "modified_time": "2016-03-10 03:44", "stack_arr": [{"exception": "org.apache.maven.lifecycle.LifecycleExecutionException", "calls": []}, {"exception": "org.apache.maven.lifecycle.LifecycleExecutionException", "calls": []}], "duplicated_stack_id": []}

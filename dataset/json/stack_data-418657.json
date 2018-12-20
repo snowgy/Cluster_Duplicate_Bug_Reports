@@ -1,0 +1,1 @@
+{"stack_id": 418657, "component": "Plugins", "importance": "P3 blocker", "reported_time": "2013-10-04 05:10", "modified_time": "2013-10-10 09:52", "stack_arr": [{"exception": "org.tmatesoft.svn.core.SVNException", "calls": []}], "duplicated_stack_id": []}

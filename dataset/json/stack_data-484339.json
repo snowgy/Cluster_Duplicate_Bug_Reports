@@ -1,0 +1,1 @@
+{"stack_id": 484339, "component": "codegen", "importance": "P3 normal", "reported_time": "2015-12-14 12:22", "modified_time": "2017-02-01 09:27", "stack_arr": [{"exception": "error", "calls": []}, {"exception": "org.eclipse.papyrusrt.codegen.DetailedException", "calls": []}], "duplicated_stack_id": []}

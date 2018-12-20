@@ -1,0 +1,1 @@
+{"stack_id": 367060, "component": "wst.sse", "importance": "P3 normal", "reported_time": "2011-12-19 05:45", "modified_time": "2012-11-02 15:38", "stack_arr": [{"exception": "org.eclipse.core.runtime.AssertionFailedException", "calls": []}], "duplicated_stack_id": []}

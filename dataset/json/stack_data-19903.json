@@ -1,0 +1,1 @@
+{"stack_id": 19903, "component": "GEF-Legacy GEF (MVC)", "importance": "P3 minor", "reported_time": "2002-06-11 10:42", "modified_time": "2003-03-09 17:21", "stack_arr": [{"exception": "SWTError", "calls": []}], "duplicated_stack_id": []}

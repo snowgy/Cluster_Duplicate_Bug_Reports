@@ -1,0 +1,1 @@
+{"stack_id": 50239, "component": "Incubator", "importance": "P3 normal", "reported_time": "2004-01-19 15:40", "modified_time": "2005-09-27 09:12", "stack_arr": [{"exception": "IOException", "calls": [{"package": "org.eclipse.core.runtime", "class": "Platform", "method": "asLocalURL", "filename": "Platform", "line": "226"}]}], "duplicated_stack_id": []}

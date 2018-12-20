@@ -1,0 +1,1 @@
+{"stack_id": 362902, "component": "Xtext", "importance": "P3 normal", "reported_time": "2011-11-04 09:14", "modified_time": "2017-09-19 17:52", "stack_arr": [{"exception": "org.eclipse.xtext.conversion.ValueConverterException", "calls": []}], "duplicated_stack_id": []}

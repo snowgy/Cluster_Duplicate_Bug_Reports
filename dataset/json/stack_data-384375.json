@@ -1,0 +1,1 @@
+{"stack_id": 384375, "component": "UI", "importance": "P3 normal", "reported_time": "2012-07-05 10:53", "modified_time": "2012-07-13 13:56", "stack_arr": [{"exception": "org.eclipse.core.runtime.CoreException", "calls": []}], "duplicated_stack_id": ["381258"]}

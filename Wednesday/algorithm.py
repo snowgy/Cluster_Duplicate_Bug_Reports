@@ -1,4 +1,5 @@
 import json
+import os
 from itertools import combinations
 from sklearn.metrics import classification_report
 
@@ -17,9 +18,15 @@ def dung(stack_1, stack_2):
         if stack_2["calls"][i_2]["package"] != package_name:
             break
 
+    # if stack_1["calls"][i_1 - 1] == stack_2["calls"][i_2 - 1] and stack_1["calls"][i_1 - 2] == stack_2["calls"][i_2 - 2]:
+    #     if stack_1["calls"][i_1] == stack_2["calls"][i_2] and stack_1["calls"][i_1+1] == stack_2["calls"][i_2+1]:
+    #         if stack_1["calls"][0] == stack_2["calls"][0]:
+    #             return True
+
     if stack_1["calls"][i_1 - 1] == stack_2["calls"][i_2 - 1]:
         if stack_1["calls"][i_1] == stack_2["calls"][i_2]:
             return True
+
 
     return False
 
@@ -35,11 +42,13 @@ def diff(report_set):
         # print(report_set[0]["stack_id"])
         return False
 
+
 def to_list(dict_):
     list_ = []
     for v in dict_.values():
         list_.append('TRUE' if v else 'FALSE')
     return list_
+
 
 # （辅助函数）打印两个数组不同处
 def show_diff(list1, list2):
@@ -52,9 +61,21 @@ def show_diff(list1, list2):
             pass
         i += 1
 
+
 def main():
-    f = open('../dataset/stack_data.json', 'r')
-    data = json.load(f)
+    # f = open('../dataset/stack_data.json', 'r')
+    # data = json.load(f)
+
+    path = "../dataset/json"  # 文件夹目录
+    files = os.listdir(path)
+    data = []
+    i = 0
+    for file in files:  # 遍历文件夹
+        f = open(path + "/" + file)  # 打开文件
+        data.append(json.load(f))
+        i = i + 1
+        if i > 10000:
+            break
     reports = list(combinations(data, 2))
     result = {}
     id_result = {}
@@ -64,10 +85,11 @@ def main():
         aaa = str(report_set[1]["stack_id"]) in report_set[0]["duplicated_stack_id"]
         id_result.setdefault(val, aaa)
 
-    print(len(result))
-    print(len(id_result))
     y_true = to_list(id_result)
     y_pred = to_list(result)
+    # print(y_true)
+    # print(y_pred)
     print(classification_report(y_true, y_pred))
+
 
 main()
