@@ -63,7 +63,7 @@ class Algorithm:
 
 # 结果处理
 class ResultUtils:
-    # 弃用
+    # 弃用，不需要再把 Bool 转化为 String 了
     # 辅助，将 dict 转换为 list (去掉 key)
     def to_list(self, dict_):
         list_ = []
@@ -95,15 +95,22 @@ class ResultUtils:
         return {'real_list': list1, 'pred_list': list2}
 
     # （辅助函数）打印两个数组不同处
-    def show_diff(self, list1, list2):
+    # [{'450439 275972': [False, False]}]
+    def show_diff(self, dicts):
+        for dict_ in dicts:
+            for k, v in dict_.items():
+                if v[0] != v[1]:
+                    print(k, v[0], v[1])
+
+    # 弃用
+    # （辅助函数）打印两个数组不同处
+    # [False, False], [False, True]
+    def show_diff_with_formated_result(self, list1, list2):
         if len(list1) != len(list2):
             return
-        index = 0
         for i in range(0, len(list1)):
-            if list1[i] == 'TRUE' or list2[i] == 'TRUE':
-                print(index, list1[i], list2[i])
-                pass
-            i += 1
+            if list1[i] == True or list2[i] == True:
+                print(i, list1[i], list2[i])
 
 
 
@@ -140,6 +147,7 @@ def main():
         formated_result = resultUtils.format(result)
         for report_id in ids:  # 遍历文件夹
             result = cal_report_to_others(report_id, ids)
+            # resultUtils.show_diff(result) # 会打印运算过程中与真实结果不一致的 id，便于手动检验，非 debug 时可删去该过程
             formated_result = resultUtils.format(result)
             results.append(formated_result)
         return resultUtils.combine(results)
@@ -148,6 +156,7 @@ def main():
     def run_demo(demo_id):
         ids = fileUtils.load_id_from_dir(JSON_DIR)
         result = cal_report_to_others(demo_id, ids)
+        resultUtils.show_diff(result) # 会打印运算过程中与真实结果不一致的 id，便于手动检验，非 debug 时可删去该过程
         formated_result = resultUtils.format(result)
         return formated_result
 
@@ -156,5 +165,4 @@ def main():
     # print(classification_report(result['real_list'], result['pred_list']))
     result = run_demo(450439)
     print(classification_report(result['real_list'], result['pred_list']))
-
 main()
