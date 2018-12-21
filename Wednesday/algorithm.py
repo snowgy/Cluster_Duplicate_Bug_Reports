@@ -3,7 +3,7 @@ import os
 from itertools import combinations
 from sklearn.metrics import classification_report
 
-JSON_DIR = '../dataset/json'
+JSON_DIR = '../dataset/json_copy'
 
 # 加载文件/处理文件相关格式
 class FileUtils:
@@ -11,14 +11,11 @@ class FileUtils:
         reportfile = open(JSON_DIR + '/stack_data-' + str(id) + '.json')
         return json.load(reportfile)
 
-    def fetch_id(self, report_file_name):
-        return int(report_file_name[11:-5])
-
     def load_id_from_dir(self, path):
         ids = []
         filenames = os.listdir(path)
         for filename in filenames:  # 遍历文件夹
-            report_id = self.fetch_id(filename)
+            report_id = int(filename[11:-5])
             ids.append(report_id)
         return ids
 
@@ -186,9 +183,9 @@ def main():
 
     # 启动代码：
     print('配置：')
-    start = 10
-    end = 20
-    fliter = True
+    start = 0
+    end = 10
+    fliter = False
     showdiff = True
     print('开始角标：', start)
     print('结束角标：', end)
