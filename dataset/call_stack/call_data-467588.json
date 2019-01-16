@@ -1,1 +1,1 @@
-[{"inner": [], "outer_pre": [], "outer_suf": [], "all": []}, {"inner": [], "outer_pre": [], "outer_suf": [], "all": []}]
+[{"exception": "error", "inner": [], "outer_pre": [], "outer_suf": [], "all": []}, {"exception": "org.gradle.internal.exceptions.LocationAwareException", "inner": [], "outer_pre": [], "outer_suf": [], "all": []}]

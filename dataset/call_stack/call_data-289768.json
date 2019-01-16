@@ -1,1 +1,1 @@
-[{"inner": [], "outer_pre": [], "outer_suf": [], "all": []}, {"inner": [], "outer_pre": [], "outer_suf": [], "all": []}, {"inner": [], "outer_pre": [], "outer_suf": [], "all": []}]
+[{"exception": "org.eclipse.equinox.internal.provisional.p2.core.ProvisionException", "inner": [], "outer_pre": [], "outer_suf": [], "all": []}, {"exception": "java.net.ConnectException", "inner": [], "outer_pre": [], "outer_suf": [], "all": []}, {"exception": "java.net.ConnectException", "inner": [], "outer_pre": [], "outer_suf": [], "all": []}]

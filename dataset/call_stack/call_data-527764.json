@@ -1,1 +1,1 @@
-[{"inner": [], "outer_pre": [], "outer_suf": [], "all": []}, {"inner": [], "outer_pre": [], "outer_suf": [], "all": []}]
+[{"exception": "javax.naming.InvalidNameException", "inner": [], "outer_pre": [], "outer_suf": [], "all": []}, {"exception": "javax.naming.InvalidNameException", "inner": [], "outer_pre": [], "outer_suf": [], "all": []}]

@@ -1,1 +1,1 @@
-[{"inner": [], "outer_pre": [], "outer_suf": [], "all": []}]
+[{"exception": "com.ibm.wsspi.genericbnf.exception.MalformedMessageException", "inner": [], "outer_pre": [], "outer_suf": [], "all": []}]

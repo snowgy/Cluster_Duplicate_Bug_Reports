@@ -1,1 +1,1 @@
-[{"inner": [], "outer_pre": [], "outer_suf": [], "all": []}, {"inner": [], "outer_pre": [], "outer_suf": [], "all": []}]
+[{"exception": "org.eclipse.emf.ecore.xmi.IllegalValueException", "inner": [], "outer_pre": [], "outer_suf": [], "all": []}, {"exception": "org.eclipse.emf.ecore.xmi.IllegalValueException", "inner": [], "outer_pre": [], "outer_suf": [], "all": []}]

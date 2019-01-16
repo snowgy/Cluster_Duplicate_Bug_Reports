@@ -1,1 +1,1 @@
-[{"inner": [], "outer_pre": [], "outer_suf": [], "all": []}, {"inner": [], "outer_pre": [], "outer_suf": [], "all": []}]
+[{"exception": "Error", "inner": [], "outer_pre": [], "outer_suf": [], "all": []}, {"exception": "org.ant4eclipse.lib.core.exception.Ant4EclipseException", "inner": [], "outer_pre": [], "outer_suf": [], "all": []}]

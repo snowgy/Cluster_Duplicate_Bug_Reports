@@ -1,1 +1,1 @@
-[{"inner": [], "outer_pre": [], "outer_suf": [], "all": []}]
+[{"exception": "KeeperException.BadVersionException", "inner": [], "outer_pre": [], "outer_suf": [], "all": []}]

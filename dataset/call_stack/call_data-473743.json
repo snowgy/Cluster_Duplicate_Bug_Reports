@@ -1,1 +1,1 @@
-[{"inner": [], "outer_pre": [], "outer_suf": [], "all": []}]
+[{"exception": "com.fasterxml.jackson.databind.JsonMappingException", "inner": [], "outer_pre": [], "outer_suf": [], "all": []}]

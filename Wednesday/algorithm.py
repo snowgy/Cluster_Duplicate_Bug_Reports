@@ -2,8 +2,8 @@ import json
 import os
 from itertools import combinations
 from sklearn.metrics import classification_report
-from stack_package_index import StackPackageIndex
-from report_loader import ReportLoader
+from thu.stack_package_index import StackPackageIndex
+from thu.report_loader import ReportLoader
 
 # 计算某一 stack 与另一 stack 的结果
 class Algorithm:

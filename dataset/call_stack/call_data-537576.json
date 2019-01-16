@@ -1,1 +1,1 @@
-[{"inner": [], "outer_pre": [], "outer_suf": [], "all": []}]
+[{"exception": "org.springframework.cloud.config.server.environment.NoSuchLabelException", "inner": [], "outer_pre": [], "outer_suf": [], "all": []}]

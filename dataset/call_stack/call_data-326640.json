@@ -1,1 +1,1 @@
-[{"inner": [], "outer_pre": [], "outer_suf": [], "all": []}, {"inner": [], "outer_pre": [], "outer_suf": [], "all": []}]
+[{"exception": "JGitInternalException", "inner": [], "outer_pre": [], "outer_suf": [], "all": []}, {"exception": "CheckoutConflictException", "inner": [], "outer_pre": [], "outer_suf": [], "all": []}]

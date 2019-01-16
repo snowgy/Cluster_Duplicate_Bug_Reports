@@ -1,1 +1,1 @@
-[{"inner": [], "outer_pre": [], "outer_suf": [], "all": []}, {"inner": [], "outer_pre": [], "outer_suf": [], "all": []}]
+[{"exception": "error", "inner": [], "outer_pre": [], "outer_suf": [], "all": []}, {"exception": "org.eclipse.team.svn.core.operation.UnreportableException", "inner": [], "outer_pre": [], "outer_suf": [], "all": []}]

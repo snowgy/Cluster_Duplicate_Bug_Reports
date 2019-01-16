@@ -1,1 +1,1 @@
-[{"inner": [], "outer_pre": [], "outer_suf": [], "all": []}]
+[{"exception": "java.sql.SQLNonTransientConnectionException", "inner": [], "outer_pre": [], "outer_suf": [], "all": []}]

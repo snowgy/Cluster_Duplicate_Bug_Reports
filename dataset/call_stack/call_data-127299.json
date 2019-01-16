@@ -1,1 +1,1 @@
-[{"inner": [], "outer_pre": [], "outer_suf": [], "all": []}, {"inner": [], "outer_pre": [], "outer_suf": [], "all": []}]
+[{"exception": "ServiceException", "inner": [], "outer_pre": [], "outer_suf": [], "all": []}, {"exception": "SOAPException", "inner": [], "outer_pre": [], "outer_suf": [], "all": []}]

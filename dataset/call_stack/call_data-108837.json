@@ -1,1 +1,1 @@
-[{"inner": [], "outer_pre": [], "outer_suf": [], "all": []}, {"inner": [], "outer_pre": [], "outer_suf": [], "all": []}]
+[{"exception": "org.w3c.dom.DOMException", "inner": [], "outer_pre": [], "outer_suf": [], "all": []}, {"exception": "org.eclipse.emf.ecore.xmi.DanglingHREFException", "inner": [], "outer_pre": [], "outer_suf": [], "all": []}]

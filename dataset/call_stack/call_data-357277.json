@@ -1,1 +1,1 @@
-[{"inner": [], "outer_pre": [], "outer_suf": [], "all": []}]
+[{"exception": "org.openrdf.query.MalformedQueryException", "inner": [], "outer_pre": [], "outer_suf": [], "all": []}]

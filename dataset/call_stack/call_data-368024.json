@@ -1,1 +1,1 @@
-[{"inner": [], "outer_pre": [], "outer_suf": [], "all": []}]
+[{"exception": "org.eclipse.jgit.errors.CheckoutConflictException", "inner": [], "outer_pre": [], "outer_suf": [], "all": []}]

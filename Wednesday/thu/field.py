@@ -163,7 +163,7 @@ class FieldCreater:
       result.append(field)
     self.save(id, result)
 
-
+## 执行处理脚本
 # def main():
 #   print('Start...')
 #   fieldCreater = FieldCreater()

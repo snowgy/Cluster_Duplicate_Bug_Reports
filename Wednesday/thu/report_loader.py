@@ -16,3 +16,5 @@ class ReportLoader:
             report_id = int(filename[11:-5])
             ids.append(report_id)
         return ids
+
+# 下载文件在 dataset/crawler.py 里实现

@@ -1,1 +1,1 @@
-[{"inner": [], "outer_pre": [], "outer_suf": [], "all": []}]
+[{"exception": "com.atlassian.jira.rpc.exception.RemoteValidationException", "inner": [], "outer_pre": [], "outer_suf": [], "all": []}]

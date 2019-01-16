@@ -47,6 +47,7 @@ class CallStack:
       call_stack4 = self.fetch_call_stacks(stack_arr, 0, len(stack_arr))
       call_stack5 = self.fetch_call_stacks(stack_arr, start - 1 if start > 0 else 0, end + 1)
       calls = {
+        'exception': stack_arr['exception'],
         'inner': call_stack5,
         'outer_pre': call_stack2,
         'outer_suf': call_stack3,
@@ -56,6 +57,7 @@ class CallStack:
     self.save(id, result)
     # print('Done!')
 
+## 执行处理脚本
 def main():
   print('Start...')
   callStack = CallStack()

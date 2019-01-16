@@ -1,1 +1,1 @@
-[{"inner": [], "outer_pre": [], "outer_suf": [], "all": []}, {"inner": [], "outer_pre": [], "outer_suf": [], "all": []}, {"inner": [], "outer_pre": [], "outer_suf": [], "all": []}]
+[{"exception": "hudson.plugins.git.GitException", "inner": [], "outer_pre": [], "outer_suf": [], "all": []}, {"exception": "org.eclipse.jgit.api.errors.TransportException", "inner": [], "outer_pre": [], "outer_suf": [], "all": []}, {"exception": "com.sun.mail.smtp.SMTPAddressFailedException", "inner": [], "outer_pre": [], "outer_suf": [], "all": []}]

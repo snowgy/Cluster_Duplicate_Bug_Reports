@@ -1,1 +1,1 @@
-[{"inner": [], "outer_pre": [], "outer_suf": [], "all": []}]
+[{"exception": "org.eclipse.lyo.oslc4j.core.exception.OslcCoreDuplicatePropertyDefinitionException", "inner": [], "outer_pre": [], "outer_suf": [], "all": []}]

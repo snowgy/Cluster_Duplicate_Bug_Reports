@@ -1,1 +1,1 @@
-[{"inner": [], "outer_pre": [], "outer_suf": [], "all": []}, {"inner": [], "outer_pre": [], "outer_suf": [], "all": []}, {"inner": [], "outer_pre": [], "outer_suf": [], "all": []}]
+[{"exception": "org.eclipse.core.commands.ExecutionException", "inner": [], "outer_pre": [], "outer_suf": [], "all": []}, {"exception": "org.eclipse.wst.common.frameworks.internal.enablement.nonui.WFTWrappedException", "inner": [], "outer_pre": [], "outer_suf": [], "all": []}, {"exception": "java.lang.IllegalArgumentException", "inner": [], "outer_pre": [], "outer_suf": [], "all": []}]

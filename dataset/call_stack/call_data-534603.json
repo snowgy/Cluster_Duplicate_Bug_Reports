@@ -1,1 +1,1 @@
-[{"inner": [], "outer_pre": [], "outer_suf": [], "all": []}]
+[{"exception": "org.jenkinsci.plugins.scriptsecurity.sandbox.RejectedAccessException", "inner": [], "outer_pre": [], "outer_suf": [], "all": []}]

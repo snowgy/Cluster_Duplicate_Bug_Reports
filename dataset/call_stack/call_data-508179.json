@@ -1,1 +1,1 @@
-[{"inner": [], "outer_pre": [], "outer_suf": [], "all": []}]
+[{"exception": "StackOverflowError", "inner": [], "outer_pre": [], "outer_suf": [], "all": []}]

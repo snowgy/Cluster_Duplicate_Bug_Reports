@@ -1,1 +1,1 @@
-[{"inner": [], "outer_pre": [], "outer_suf": [], "all": []}]
+[{"exception": "org.eclipse.lsp4j.jsonrpc.ResponseErrorException", "inner": [], "outer_pre": [], "outer_suf": [], "all": []}]

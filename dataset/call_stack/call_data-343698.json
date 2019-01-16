@@ -1,1 +1,1 @@
-[{"inner": [], "outer_pre": [], "outer_suf": [], "all": []}]
+[{"exception": "org.apache.ode.bpel.common.FaultException", "inner": [], "outer_pre": [], "outer_suf": [], "all": []}]

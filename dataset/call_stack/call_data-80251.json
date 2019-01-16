@@ -1,1 +1,1 @@
-[{"inner": [], "outer_pre": [], "outer_suf": [], "all": []}, {"inner": [], "outer_pre": [], "outer_suf": [], "all": []}]
+[{"exception": "org.eclipse.ltk.internal.core.refactoring.AssertionFailedException", "inner": [], "outer_pre": [], "outer_suf": [], "all": []}, {"exception": "exception", "inner": [], "outer_pre": [], "outer_suf": [], "all": []}]

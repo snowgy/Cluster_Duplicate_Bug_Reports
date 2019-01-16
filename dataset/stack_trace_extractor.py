@@ -36,7 +36,7 @@ class StackTraceExtractor:
         # print(causeby)
         current_calls = []
         stack_traces.append({
-          'exception': causeby[1],
+          'exception': causeby[1], # 未来可加入 exception msg 信息
           'calls': current_calls
         })
       calls = re.findall(re.compile(self.TRACE, self.RE_FLAGS), lines[index])

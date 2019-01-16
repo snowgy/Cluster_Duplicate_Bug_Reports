@@ -1,1 +1,1 @@
-[{"inner": [], "outer_pre": [], "outer_suf": [], "all": []}]
+[{"exception": "org.springframework.beans.TypeMismatchException", "inner": [], "outer_pre": [], "outer_suf": [], "all": []}]

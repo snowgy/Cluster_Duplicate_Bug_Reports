@@ -1,1 +1,1 @@
-[{"inner": [], "outer_pre": [], "outer_suf": [], "all": []}, {"inner": [], "outer_pre": [], "outer_suf": [], "all": []}]
+[{"exception": "exception", "inner": [], "outer_pre": [], "outer_suf": [], "all": []}, {"exception": "org.eclipse.e4.core.di.InjectionException", "inner": [], "outer_pre": [], "outer_suf": [], "all": []}]

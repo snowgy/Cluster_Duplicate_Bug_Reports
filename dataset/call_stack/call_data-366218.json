@@ -1,1 +1,1 @@
-[{"inner": [], "outer_pre": [], "outer_suf": [], "all": []}]
+[{"exception": "org.eclipse.virgo.kernel.osgi.framework.UnableToSatisfyBundleDependenciesException", "inner": [], "outer_pre": [], "outer_suf": [], "all": []}]

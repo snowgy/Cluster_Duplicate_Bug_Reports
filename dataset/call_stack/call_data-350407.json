@@ -1,1 +1,1 @@
-[{"inner": [], "outer_pre": [], "outer_suf": [], "all": []}, {"inner": [], "outer_pre": [], "outer_suf": [], "all": []}]
+[{"exception": "org.springframework.beans.factory.BeanDefinitionStoreException", "inner": [], "outer_pre": [], "outer_suf": [], "all": []}, {"exception": "com.sun.xml.internal.bind.v2.runtime.IllegalAnnotationsException", "inner": [], "outer_pre": [], "outer_suf": [], "all": []}]
