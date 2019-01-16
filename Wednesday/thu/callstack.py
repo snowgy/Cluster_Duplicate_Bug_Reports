@@ -67,18 +67,18 @@ class CallStackCreater:
     # print('Done!')
 
 ## 执行处理脚本
-def main():
-  print('Start...')
-  callStack = CallStackCreater()
-  # callStack.start(450132)
+# def main():
+#   print('Start...')
+#   callStack = CallStackCreater()
+#   # callStack.start(450132)
 
-  reportLoader = ReportLoader()
-  ids = reportLoader.load_id_from_dir()
-  print('Total ids: ', len(ids))
-  for id in ids:
-    # print('current: ', id)
-    callStack.start(id)
-  print('Done!')
-  # print(FieldLoader().load_field(450177))
+#   reportLoader = ReportLoader()
+#   ids = reportLoader.load_id_from_dir()
+#   print('Total ids: ', len(ids))
+#   for id in ids:
+#     # print('current: ', id)
+#     callStack.start(id)
+#   print('Done!')
+#   # print(FieldLoader().load_field(450177))
 
-main()
+# main()
