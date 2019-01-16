@@ -1,0 +1,1 @@
+[[], [["org", "eclipse", "jgit", "api"], ["com", "sap", "core", "hcproxy", "common", "repository", "remote"]], [["org", "eclipse", "jgit", "transport"], ["org", "eclipse", "jgit", "api"]], [["org", "eclipse", "jgit", "util"], ["org", "eclipse", "jgit", "transport"], ["org", "eclipse", "jgit", "util", "io"]]]

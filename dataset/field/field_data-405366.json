@@ -1,0 +1,1 @@
+[[], [["org", "eclipse", "persistence"], ["org", "jboss", "jpa"], ["org", "jboss", "aop"], ["org", "jboss", "ejb3"], ["org", "jboss", "aspects"], ["org", "jboss", "remoting"]], [["com", "arjuna", "ats", "internal", "jta", "transaction", "arjunacore"], ["org", "eclipse", "persistence", "internal", "jpa", "transaction"]]]

@@ -2,55 +2,135 @@ import json
 import os
 from itertools import combinations
 from sklearn.metrics import classification_report
-
-JSON_DIR = '../dataset/json_copy'
-
-# 加载文件/处理文件相关格式
-class FileUtils:
-    def load_report(self, id):
-        reportfile = open(JSON_DIR + '/stack_data-' + str(id) + '.json')
-        return json.load(reportfile)
-
-    def load_id_from_dir(self, path):
-        ids = []
-        filenames = os.listdir(path)
-        for filename in filenames:  # 遍历文件夹
-            report_id = int(filename[11:-5])
-            ids.append(report_id)
-        return ids
+from thu.stack_package_index import StackPackageIndex
+from thu.report_loader import ReportLoader
 
 # 计算某一 stack 与另一 stack 的结果
 class Algorithm:
-    # private
-    def calculate(self, stack_1, stack_2):
-        global i_2, i_1
-        if stack_1["exception"] != stack_2['exception']:
+    def __init__(self):
+        self.stackPackageIndex = StackPackageIndex()
+        self.fliter_package = [
+            "dalvik.system",
+            "java.lang",
+            "android",
+        ]
+
+    def jump(self, package_name):
+        for fliter_name in self.fliter_package:
+            if package_name.startswith(fliter_name):
+                return True
+        return False
+    
+    def equals(self, stack_info1, stack_info2):
+        def not_null(c):
+            return c['package'] != None and c['classname'] != None and c['methodname'] != None
+        def equal_detail(c1, c2):
+            if not_null(c1) and not_null(c2):
+                return c1['package'] == c2['package'] \
+                    and c1['classname'] == c2['classname'] \
+                    and c1['methodname'] == c2['methodname']
             return False
 
-        package_name = stack_1["calls"][0]["package"]
-        for i_1 in range(len(stack_1["calls"])):
-            if stack_1["calls"][i_1]["package"] != package_name:
-                break
-
-        for i_2 in range(len(stack_2["calls"])):
-            if stack_2["calls"][i_2]["package"] != package_name:
-                break
-
-        # if stack_1["calls"][i_1 - 1] == stack_2["calls"][i_2 - 1] and stack_1["calls"][i_1 - 2] == stack_2["calls"][i_2 - 2]:
-        #     if stack_1["calls"][i_1] == stack_2["calls"][i_2] and stack_1["calls"][i_1+1] == stack_2["calls"][i_2+1]:
-        #         if stack_1["calls"][0] == stack_2["calls"][0]:
-        #             return True
-
-        if stack_1["calls"][i_1 - 1] == stack_2["calls"][i_2 - 1]:
-            if stack_1["calls"][i_1] == stack_2["calls"][i_2]:
-                return True
-        # default
+        if stack_info1 == stack_info2:
+            if stack_info1['exception'] == stack_info2['exception']:
+                return equal_detail(stack_info1['apiprovider'], stack_info2['apiprovider']) \
+                    and equal_detail(stack_info1['caller'], stack_info2['caller'])
         return False
+
+    def fetch_info(self, stack):
+        # 获取 sdk 者对外提供的接口函数，以及调用者的函数
+        # print(stack)
+        exception_name = stack['exception']
+
+        calls = stack['calls']
+        caller_package_name = None
+        caller_class_name = None
+        caller_method_name = None
+        apiprovider_package_name = None
+        apiprovider_class_name = None
+        apiprovider_method_name = None
+        # filename, line 暂未用到
+
+        for i in range(0, len(calls)):
+            current_package_name = calls[i]['package']
+            if self.jump(current_package_name):
+                continue
+            # print('>> index:', i)
+            if caller_package_name == None:
+                caller_package_name = current_package_name
+
+            if current_package_name == caller_package_name: # 直到找到 caller 最后一行，该行为 调用方法触发行
+                # print('>> current package name: ', current_package_name)
+                caller_class_name = calls[i]['class']
+                caller_method_name = calls[i]['method']
+                continue
+            else:
+                apiprovider_package_name = calls[i]['package']
+                apiprovider_class_name = calls[i]['class']
+                apiprovider_method_name = calls[i]['method']
+                # print('>> current package name: ', current_package_name)
+                break
+
+        return {
+            'exception': exception_name,
+            'apiprovider': {
+                'package': apiprovider_package_name,
+                'classname': apiprovider_class_name,
+                'methodname': apiprovider_method_name
+            },
+            'caller': {
+                'package': caller_package_name,
+                'classname': caller_class_name,
+                'methodname': caller_method_name
+            }
+        }
+    def calculate(self, stack_1, stack_2):
+        if stack_1["exception"] != stack_2['exception']:
+            return False
+        # print(stack_2['exception'])
+        # print(len(stack_1['calls']))
+        # step1 计算 stack 是否为包含关系
+        package_index = self.stackPackageIndex.calculate(stack_1, stack_2)
+        if not package_index['is_contain']: return False
+        # else: return True
+
+        if len(stack_1['calls']) == 0: return False
+        if len(stack_2['calls']) == 0: return False
+        stack_info1 = self.fetch_info(stack_1)
+        stack_info2 = self.fetch_info(stack_2)
+        return self.equals(stack_info1, stack_info2)
+        
+    # # private
+    # def calculate(self, stack_1, stack_2):
+    #     global i_2, i_1
+    #     if stack_1["exception"] != stack_2['exception']:
+    #         return False
+
+    #     package_name = stack_1["calls"][0]["package"]
+    #     for i_1 in range(len(stack_1["calls"])):
+    #         if stack_1["calls"][i_1]["package"] != package_name:
+    #             break
+
+    #     for i_2 in range(len(stack_2["calls"])):
+    #         if stack_2["calls"][i_2]["package"] != package_name:
+    #             break
+
+    #     # if stack_1["calls"][i_1 - 1] == stack_2["calls"][i_2 - 1] and stack_1["calls"][i_1 - 2] == stack_2["calls"][i_2 - 2]:
+    #     #     if stack_1["calls"][i_1] == stack_2["calls"][i_2] and stack_1["calls"][i_1+1] == stack_2["calls"][i_2+1]:
+    #     #         if stack_1["calls"][0] == stack_2["calls"][0]:
+    #     #             return True
+
+    #     if stack_1["calls"][i_1 - 1] == stack_2["calls"][i_2 - 1]:
+    #         if stack_1["calls"][i_1] == stack_2["calls"][i_2]:
+    #             return True
+    #     # default
+    #     return False
 
     def start(self, report_set1, report_set2):
         try:
             if len(report_set1["stack_arr"]) == 0 \
                 or len(report_set1["stack_arr"]) == 0:
+                # print('len == 0')
                 return False
             # #demo
             # if self.calculate(report_set1["stack_arr"][0], report_set2["stack_arr"][0]):
@@ -61,7 +141,7 @@ class Algorithm:
                         return True
             return False
         except:
-            # print(report_set1["stack_id"])
+            print(report_set1["stack_id"], report_set2["stack_id"])
             return False
 
 # 结果处理
@@ -128,7 +208,7 @@ class ResultUtils:
 
 
 def main():
-    fileUtils = FileUtils()
+    fileUtils = ReportLoader()
     algorithm = Algorithm()
     resultUtils = ResultUtils()
 
@@ -155,7 +235,7 @@ def main():
     def run_all(count=100, shift=0, fliter=False, showdiff=False):
         results = []
         index = 0
-        ids = fileUtils.load_id_from_dir(JSON_DIR)
+        ids = fileUtils.load_id_from_dir()
         print('总共将要比对的 report 数量：', len(ids))
         print('==================== 开始计算！====================')
         for report_id in ids:  # 遍历文件夹
@@ -174,7 +254,7 @@ def main():
 
     # 示例运算，计算其中的一个 id 与 其余所有 的结果
     def run_demo(demo_id, fliter=False, showdiff=False):
-        ids = fileUtils.load_id_from_dir(JSON_DIR)
+        ids = fileUtils.load_id_from_dir()
         result = cal_report_to_others(demo_id, ids)
         if showdiff:
             resultUtils.show_diff(result, fliter=fliter) # 会打印运算过程中与真实结果不一致的 id，便于手动检验，非 debug 时可删去该过程
@@ -183,8 +263,8 @@ def main():
 
     # 启动代码：
     print('配置：')
-    start = 0
-    end = 10
+    start = 10
+    end = 20
     fliter = False
     showdiff = True
     print('开始角标：', start)
@@ -193,7 +273,8 @@ def main():
     print('是否过滤可能人工未标注的结果：', fliter)
     print('是否打印预测不一致结果：', showdiff) # 即：预测结果与原始结果不一致的情况
 
-    result = run_all(count=(end - start), shift=start, fliter=fliter, showdiff=showdiff)
+    result = run_demo(450178, fliter=fliter, showdiff=showdiff)
+    # result = run_all(count=(end - start), shift=start, fliter=fliter, showdiff=showdiff)
     print('F1-Score 结果：')
     print(classification_report(result['real_list'], result['pred_list']))
     # print('run: stack_id:: 450132')
@@ -201,3 +282,13 @@ def main():
     # print(classification_report(result['real_list'], result['pred_list']))
 
 main()
+
+def test():
+    fileUtils = ReportLoader()
+    algorithm = Algorithm()
+    report_test1 = fileUtils.load_report(450177)
+    report_test2 = fileUtils.load_report(450180)
+    print(algorithm.fetch_info(report_test1["stack_arr"][0]))
+    print(algorithm.fetch_info(report_test2["stack_arr"][0]))
+
+# test()
