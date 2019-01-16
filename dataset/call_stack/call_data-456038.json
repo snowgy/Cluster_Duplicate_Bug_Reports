@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipse.swt.widgets", "class": "ToolBar", "method": "<init>", "filename": "ToolBar", "line": "105"}, "caller": {"package": "org.eclipse.ui.internal.progress", "class": "ProgressInfoItem", "method": "createChildren", "filename": "ProgressInfoItem", "line": "235"}}], "outer_pre": [], "outer_suf": [], "all": []}]

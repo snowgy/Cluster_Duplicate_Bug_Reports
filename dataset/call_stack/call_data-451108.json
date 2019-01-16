@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipse.jdt.internal.core", "class": "CompilationUnit", "method": "getSource", "filename": "CompilationUnit", "line": "900"}, "caller": {"package": "com.codetrails.connect.codesearch", "class": "CodesearchService", "method": "doIndex", "filename": "CodesearchService", "line": "163"}}], "outer_pre": [], "outer_suf": [], "all": []}]

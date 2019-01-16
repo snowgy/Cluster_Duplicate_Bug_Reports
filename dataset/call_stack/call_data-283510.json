@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipse.wst.common.project.facet.core.internal", "class": "FacetedProject$1", "method": "run", "filename": "FacetedProject", "line": "321"}, "caller": {"package": "org.eclipse.core.internal.resources", "class": "Workspace", "method": "run", "filename": "Workspace", "line": "1800"}}], "outer_pre": [], "outer_suf": [], "all": []}]

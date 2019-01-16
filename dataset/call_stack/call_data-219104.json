@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "java.net", "class": "Socket", "method": "<init>", "filename": "Socket", "line": "179"}, "caller": {"package": "org.eclipse.jdi.internal.connect", "class": "SocketTransportService$2", "method": "run", "filename": "SocketTransportService", "line": "136"}}], "outer_pre": [], "outer_suf": [], "all": []}]

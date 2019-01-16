@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipse.jetty.servlet", "class": "ServletContextHandler", "method": "startContext", "filename": "ServletContextHandler", "line": "346"}, "caller": {"package": "org.eclipse.jetty.webapp", "class": "WebAppContext", "method": "startWebapp", "filename": "WebAppContext", "line": "1379"}}], "outer_pre": [], "outer_suf": [], "all": []}]

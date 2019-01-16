@@ -1,0 +1,1 @@
+[{"inner": [], "outer_pre": [], "outer_suf": [], "all": []}, {"inner": [{"provider": {"package": "java.lang", "class": "ProcessBuilder", "method": "start", "filename": "ProcessBuilder", "line": "451"}, "caller": {"package": "hudson", "class": "Proc$LocalProc", "method": "<init>", "filename": "Proc", "line": "149"}}], "outer_pre": [], "outer_suf": [], "all": []}]

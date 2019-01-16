@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipse.ui.ide.undo", "class": "DeleteResourcesOperation", "method": "<init>", "filename": "DeleteResourcesOperation", "line": "53"}, "caller": {"package": "org.eclipse.ui.actions", "class": "DeleteResourceAction$4", "method": "run", "filename": "DeleteResourceAction", "line": "503"}}], "outer_pre": [], "outer_suf": [], "all": []}]

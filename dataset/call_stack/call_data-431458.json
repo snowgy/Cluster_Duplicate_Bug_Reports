@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "java.util.regex", "class": "Pattern", "method": "matches", "filename": "Pattern", "line": "1133"}, "caller": {"package": "java.lang", "class": "String", "method": "matches", "filename": "String", "line": "2108"}}], "outer_pre": [], "outer_suf": [], "all": []}]

@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipse.test.performance.ui", "class": "Main", "method": "start", "filename": "Main", "line": "39"}, "caller": {"package": "org.eclipse.equinox.internal.app", "class": "EclipseAppHandle", "method": "run", "filename": "EclipseAppHandle", "line": "194"}}], "outer_pre": [], "outer_suf": [], "all": []}]

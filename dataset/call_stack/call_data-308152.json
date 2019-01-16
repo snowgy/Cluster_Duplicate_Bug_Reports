@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "com.ibm.db2.jcc.b", "class": "tk", "method": "getMoreResults", "filename": "tk", "line": "908"}, "caller": {"package": "org.eclipse.swt.widgets", "class": "TypedListener", "method": "handleEvent", "filename": "TypedListe ner", "line": "228"}}], "outer_pre": [], "outer_suf": [], "all": []}]

@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipse.jdt.internal.compiler.util", "class": "HashtableOfObject", "method": "put", "filename": "HashtableOfObject", "line": "112"}, "caller": {"package": "org.eclipse.jdt.internal.core.index", "class": "DiskIndex", "method": "copyQueryResults", "filename": "DiskIndex", "line": "349"}}], "outer_pre": [], "outer_suf": [], "all": []}]

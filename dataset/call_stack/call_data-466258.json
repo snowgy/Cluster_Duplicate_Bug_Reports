@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipse.wst.jsdt.internal.core.index", "class": "Index", "method": "save", "filename": "Index", "line": "197"}, "caller": {"package": "org.eclipse.wst.jsdt.internal.core.search.indexing", "class": "IndexManager", "method": "saveIndex", "filename": "IndexManager", "line": "679"}}], "outer_pre": [], "outer_suf": [], "all": []}]

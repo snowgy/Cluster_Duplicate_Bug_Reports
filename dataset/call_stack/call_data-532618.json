@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "java.net", "class": "URL", "method": "toURI", "filename": "URL", "line": "946"}, "caller": {"package": "org.eclipse.pde.internal.build.properties", "class": "PDEProperties", "method": "getAntPropertyValue", "filename": "PDEProperties", "line": "54"}}], "outer_pre": [], "outer_suf": [], "all": []}]

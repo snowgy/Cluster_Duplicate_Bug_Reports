@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipse.swtbot.swt.finder", "class": "SWTBotFactory", "method": "waitUntil", "filename": "SWTBotFactory", "line": "484"}, "caller": {"package": "org.eclipse.swtbot.swt.finder.widgets", "class": "AbstractSWTBot", "method": "waitForEnabled", "filename": "AbstractSWTBot", "line": "679"}}], "outer_pre": [], "outer_suf": [], "all": []}]

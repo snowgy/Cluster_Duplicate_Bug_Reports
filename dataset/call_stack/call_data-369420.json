@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipse.jgit.transport", "class": "TransportGitAnon", "method": "openFetch", "filename": "TransportGitAnon", "line": "111"}, "caller": {"package": "org.eclipse.egit.core.op", "class": "ListRemoteOperation", "method": "run", "filename": "ListRemoteOperation", "line": "110"}}], "outer_pre": [], "outer_suf": [], "all": []}]

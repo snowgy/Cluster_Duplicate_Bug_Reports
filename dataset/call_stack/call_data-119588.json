@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipse.jst.server.core", "class": "PublishUtil", "method": "smartCopy", "filename": "PublishUtil", "line": "266"}, "caller": {"package": "org.eclipse.wst.server.core.internal", "class": "Server", "method": "doPublish", "filename": "Server", "line": "740"}}], "outer_pre": [], "outer_suf": [], "all": []}]

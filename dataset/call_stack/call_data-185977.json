@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipse.core.internal.registry", "class": "BaseExtensionHandle", "method": "getUniqueIdentifier", "filename": "BaseExtensionHandle", "line": "67"}, "caller": {"package": "extlistener", "class": "Activator$MyListener", "method": "registryChanged", "filename": "Activator", "line": "78"}}], "outer_pre": [], "outer_suf": [], "all": []}]

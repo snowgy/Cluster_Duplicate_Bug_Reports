@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipse.core.internal.resources", "class": "Container", "method": "members", "filename": "Container", "line": "249"}, "caller": {"package": "org.eclipse.wst.sse.ui.internal.handlers", "class": "FormatHandler", "method": "format", "filename": "FormatHandler", "line": "232"}}], "outer_pre": [], "outer_suf": [], "all": []}]

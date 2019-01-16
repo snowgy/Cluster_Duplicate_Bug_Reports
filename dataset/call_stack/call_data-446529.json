@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipse.jface.resource", "class": "ResourceManager", "method": "get", "filename": "ResourceManager", "line": "143"}, "caller": {"package": "org.eclipse.ui.model", "class": "WorkbenchLabelProvider", "method": "getImage", "filename": "WorkbenchLabelProvider", "line": "197"}}], "outer_pre": [], "outer_suf": [], "all": []}]

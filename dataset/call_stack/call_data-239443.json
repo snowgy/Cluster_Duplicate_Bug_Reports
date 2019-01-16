@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipse.core.internal.resources", "class": "Project", "method": "setDescription", "filename": "Project", "line": "1046"}, "caller": {"package": "org.eclipse.dltk.core", "class": "ScriptNature", "method": "setScriptCommand", "filename": "ScriptNature", "line": "80"}}], "outer_pre": [], "outer_suf": [], "all": []}]

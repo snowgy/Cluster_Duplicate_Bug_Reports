@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "junit.framework", "class": "TestSuite", "method": "run", "filename": "TestSuite", "line": "203"}, "caller": {"package": "org.eclipse.hyades.test.common.junit", "class": "HyadesTestRunner", "method": "run", "filename": "HyadesTestRunner", "line": "294"}}], "outer_pre": [], "outer_suf": [], "all": []}]

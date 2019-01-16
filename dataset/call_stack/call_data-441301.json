@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipse.swt.browser", "class": "Mozilla$20", "method": "method3", "filename": "Mozilla", "line": "1310"}, "caller": {"package": "org.eclipse.swt.internal.mozilla", "class": "XPCOMObject", "method": "callback3", "filename": "XPCOMObject", "line": "272"}}], "outer_pre": [], "outer_suf": [], "all": []}]

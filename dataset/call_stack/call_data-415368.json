@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "java.io", "class": "ObjectOutputStream", "method": "writeObject", "filename": "ObjectOutputStream", "line": "347"}, "caller": {"package": "hudson.remoting", "class": "UserRequest", "method": "_serialize", "filename": "UserRequest", "line": "144"}}], "outer_pre": [], "outer_suf": [], "all": []}]

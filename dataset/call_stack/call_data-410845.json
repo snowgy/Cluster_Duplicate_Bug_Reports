@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "hudson", "class": "Functions", "method": "getRequestRootPath", "filename": "Functions", "line": "792"}, "caller": {"package": "hudson.model", "class": "Hudson", "method": "getRootUrl", "filename": "Hudson", "line": "1903"}}], "outer_pre": [], "outer_suf": [], "all": []}]

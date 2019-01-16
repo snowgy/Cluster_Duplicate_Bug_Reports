@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.apache.xmlrpc.client", "class": "XmlRpcClient", "method": "execute", "filename": "XmlRpcClient", "line": "125"}, "caller": {"package": "org.eclipse.mylar.internal.trac.core", "class": "TracXmlRpcClient", "method": "call", "filename": "TracXmlRpcClient", "line": "109"}}], "outer_pre": [], "outer_suf": [], "all": []}]

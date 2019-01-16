@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipsei.equinox.event.mapper", "class": "EventRedeliverer", "method": "configurationEvent", "filename": "EventRedeliverer", "line": "254"}, "caller": {"package": "com.ibm.osg.service.cm", "class": "CMEventManager", "method": "run", "filename": "CMEventManager", "line": "117"}}], "outer_pre": [], "outer_suf": [], "all": []}]

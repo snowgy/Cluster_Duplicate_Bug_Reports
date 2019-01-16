@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.vertx.java.platform.impl", "class": "DefaultPlatformManager$12", "method": "run", "filename": "DefaultPlatformManager", "line": "420"}, "caller": {"package": "java.util.concurrent", "class": "ThreadPoolExecutor", "method": "runWorker", "filename": "ThreadPoolExecutor", "line": "1110"}}], "outer_pre": [], "outer_suf": [], "all": []}]

@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipe.debug.tests.viewer.model", "class": "FilterTests", "method": "testRefreshToUnfilterElementsWithMixedFilters", "filename": "FilterTests", "line": "323"}, "caller": {"package": "junit.framework", "class": "TestCase", "method": "runTest", "filename": "TestCase", "line": "168"}}], "outer_pre": [], "outer_suf": [], "all": []}]

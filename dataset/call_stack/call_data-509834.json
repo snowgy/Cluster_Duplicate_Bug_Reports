@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "hudson", "class": "FilePath", "method": "deleteRecursive", "filename": "FilePath", "line": "860"}, "caller": {"package": "hudson.model", "class": "AbstractProject", "method": "cleanWorkspace", "filename": "AbstractProject", "line": "2190"}}], "outer_pre": [], "outer_suf": [], "all": []}]

@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "java.net", "class": "URL", "method": "getContent", "filename": "URL", "line": "1055"}, "caller": {"package": "org.apache.axis.wsdl.symbolTable", "class": "SymbolTable", "method": "populate", "filename": "SymbolTable", "line": "516"}}], "outer_pre": [], "outer_suf": [], "all": []}]

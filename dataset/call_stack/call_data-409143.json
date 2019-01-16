@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipse.mylyn.docs.epub.core", "class": "EPUB", "method": "pack", "filename": "EPUB", "line": "322"}, "caller": {"package": "org.eclipse.mylyn.docs.epub.ant.core", "class": "EpubTask", "method": "execute", "filename": "EpubTask", "line": "211"}}], "outer_pre": [], "outer_suf": [], "all": []}]

@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "java.io", "class": "File", "method": "createTempFile", "filename": "File", "line": "1838"}, "caller": {"package": "org.eclipse.equinox.internal.p2.artifact.repository", "class": "SignatureVerifier", "method": "getOutputStream", "filename": "SignatureVerifier", "line": "46"}}], "outer_pre": [], "outer_suf": [], "all": []}]

@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipse.php.internal.ui.compare", "class": "ContentMergeViewer", "method": "inputChanged", "filename": "ContentMergeViewer", "line": "686"}, "caller": {"package": "org.eclipse.jface.viewers", "class": "ContentViewer", "method": "setInput", "filename": "ContentViewer", "line": "286"}}], "outer_pre": [], "outer_suf": [], "all": []}]

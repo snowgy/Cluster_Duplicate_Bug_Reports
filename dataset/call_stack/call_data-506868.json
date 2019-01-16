@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.junit", "class": "Assert", "method": "assertNotNull", "filename": "Assert", "line": "722"}, "caller": {"package": "org.eclipse.tracecompass.lttng2.kernel.core.tests.synchronization", "class": "UstKernelSyncTest", "method": "testOneEvent", "filename": "UstKernelSyncTest", "line": "167"}}], "outer_pre": [], "outer_suf": [], "all": []}]

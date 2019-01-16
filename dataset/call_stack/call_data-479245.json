@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipse.osgi.internal.framework", "class": "EquinoxBundle$EquinoxModule", "method": "startWorker", "filename": "EquinoxBundle", "line": "318"}, "caller": {"package": "org.eclipse.osgi.container", "class": "Module", "method": "doStart", "filename": "Module", "line": "571"}}], "outer_pre": [], "outer_suf": [], "all": []}]

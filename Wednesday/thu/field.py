@@ -164,18 +164,18 @@ class FieldCreater:
     self.save(id, result)
 
 
-def main():
-  print('Start...')
-  fieldCreater = FieldCreater()
-  # fieldCreater.start(450132)
+# def main():
+#   print('Start...')
+#   fieldCreater = FieldCreater()
+#   # fieldCreater.start(450132)
 
-  reportLoader = ReportLoader()
-  ids = reportLoader.load_id_from_dir()
-  print('Total ids: ', len(ids))
-  for id in ids:
-    # print('current: ', id)
-    fieldCreater.start(id)
-  print('Done!')
-  # print(FieldLoader().load_field(450177))
+#   reportLoader = ReportLoader()
+#   ids = reportLoader.load_id_from_dir()
+#   print('Total ids: ', len(ids))
+#   for id in ids:
+#     # print('current: ', id)
+#     fieldCreater.start(id)
+#   print('Done!')
+#   # print(FieldLoader().load_field(450177))
 
-main()
+# main()

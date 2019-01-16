@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.mapdb", "class": "BTreeMap", "method": "put", "filename": "BTreeMap", "line": "645"}, "caller": {"package": "org.eclipse.smarthome.storage.mapdb", "class": "MapDbStorage", "method": "put", "filename": "MapDbStorage", "line": "56"}}], "outer_pre": [], "outer_suf": [], "all": []}]

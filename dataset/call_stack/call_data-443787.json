@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipse.swt.dnd", "class": "DragSource", "method": "<init>", "filename": "DragSource", "line": "157"}, "caller": {"package": "org.eclipse.tcf.te.ui.terminals.view", "class": "TerminalsView$1", "method": "handleEvent", "filename": "TerminalsView", "line": "203"}}], "outer_pre": [], "outer_suf": [], "all": []}]

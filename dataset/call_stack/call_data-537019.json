@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipse.jdt.internal.compiler.lookup", "class": "Scope", "method": "getMethod", "filename": "Scope", "line": "2879"}, "caller": {"package": "org.eclipse.jdt.internal.compiler.ast", "class": "MessageSend", "method": "findMethodBinding", "filename": "MessageSend", "line": "938"}}], "outer_pre": [], "outer_suf": [], "all": []}]

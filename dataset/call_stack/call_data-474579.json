@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "java.util.zip", "class": "ZipFile$1", "method": "nextElement", "filename": "ZipFile", "line": "483"}, "caller": {"package": "org.eclipse.jdt.internal.core.search.indexing", "class": "AddJarFileToIndex", "method": "execute", "filename": "AddJarFileToIndex", "line": "229"}}], "outer_pre": [], "outer_suf": [], "all": []}]

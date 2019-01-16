@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipse.help.internal.context", "class": "ContextManager", "method": "getContext", "filename": "ContextManager", "line": "81"}, "caller": {"package": "org.eclipse.help", "class": "HelpSystem", "method": "getContext", "filename": "HelpSystem", "line": "49"}}], "outer_pre": [], "outer_suf": [], "all": []}]

@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipse.emf.ecore.xmi.impl", "class": "XMLLoadImpl", "method": "load", "filename": "XMLLoadImpl", "line": "129"}, "caller": {"package": "extension.model.resource.XML", "class": "XmlResource", "method": "doLoad", "filename": "XmlResource", "line": "71"}}], "outer_pre": [], "outer_suf": [], "all": []}]

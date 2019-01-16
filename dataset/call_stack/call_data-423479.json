@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipse.osgi.container.builders", "class": "OSGiManifestBuilderFactory", "method": "createBuilder", "filename": "OSGiManifestBuilderFactory", "line": "48"}, "caller": {"package": "org.eclipse.osgi.storage", "class": "Storage", "method": "getBuilder", "filename": "Storage", "line": "572"}}], "outer_pre": [], "outer_suf": [], "all": []}]

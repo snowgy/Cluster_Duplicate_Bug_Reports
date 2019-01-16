@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.codehaus.mojo.sonar", "class": "SonarMojo", "method": "execute", "filename": "SonarMojo", "line": "109"}, "caller": {"package": "org.apache.maven.plugin", "class": "DefaultBuildPluginManager", "method": "executeMojo", "filename": "DefaultBuildPluginManager", "line": "101"}}], "outer_pre": [], "outer_suf": [], "all": []}]

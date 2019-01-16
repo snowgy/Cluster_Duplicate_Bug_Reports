@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.apache.lucene.index", "class": "IndexReader", "method": "open", "filename": "IndexReader", "line": "202"}, "caller": {"package": "org.apache.lucene.search", "class": "IndexSearcher", "method": "<init>", "filename": "IndexSearcher", "line": "63"}}], "outer_pre": [], "outer_suf": [], "all": []}]

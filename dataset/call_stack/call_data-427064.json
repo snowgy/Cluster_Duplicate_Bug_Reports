@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "java.net", "class": "URI", "method": "<init>", "filename": "URI", "line": "792"}, "caller": {"package": "org.eclipse.orion.internal.server.search", "class": "Indexer", "method": "indexProject", "filename": "Indexer", "line": "184"}}], "outer_pre": [], "outer_suf": [], "all": []}]

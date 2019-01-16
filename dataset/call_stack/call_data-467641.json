@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipse.jdt.internal.corext.util", "class": "OpenTypeHistory", "method": "getInstance", "filename": "OpenTypeHistory", "line": "185"}, "caller": {"package": "org.eclipse.jdt.internal.ui", "class": "JavaPlugin", "method": "initializeAfterLoad", "filename": "JavaPlugin", "line": "422"}}], "outer_pre": [], "outer_suf": [], "all": []}]

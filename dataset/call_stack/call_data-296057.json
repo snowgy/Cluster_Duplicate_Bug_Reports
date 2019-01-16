@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "java.net", "class": "InetAddress", "method": "getByName", "filename": "InetAddress", "line": "958"}, "caller": {"package": "org.eclipse.mylyn.internal.discovery.ui.wizards", "class": "PrepareInstallProfileJob", "method": "doRun", "filename": "PrepareInstallProfileJob", "line": "112"}}], "outer_pre": [], "outer_suf": [], "all": []}]

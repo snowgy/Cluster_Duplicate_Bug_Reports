@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipse.cdt.dsf.gdb.launching", "class": "GdbLaunchDelegate", "method": "launch", "filename": "GdbLaunchDelegate", "line": "97"}, "caller": {"package": "org.eclipse.debug.internal.core", "class": "LaunchConfiguration", "method": "launch", "filename": "LaunchConfiguration", "line": "885"}}], "outer_pre": [], "outer_suf": [], "all": []}]

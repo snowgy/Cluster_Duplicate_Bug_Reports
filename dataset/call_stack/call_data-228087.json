@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipse.emf.compare.diff.merge.service", "class": "MergeService", "method": "merge", "filename": "MergeService", "line": "138"}, "caller": {"package": "org.eclipse.emf.compare.examples.standalone", "class": "ExampleLauncher", "method": "main", "filename": "ExampleLauncher", "line": "77"}}], "outer_pre": [], "outer_suf": [], "all": []}]

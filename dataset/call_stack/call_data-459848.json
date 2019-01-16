@@ -1,0 +1,1 @@
+[{"inner": [], "outer_pre": [], "outer_suf": [], "all": []}, {"inner": [{"provider": {"package": "java.util.stream", "class": "ReferencePipeline$Head", "method": "forEach", "filename": "ReferencePipeline", "line": "580"}, "caller": {"package": "CCE.main", "class": "CCE", "method": "main", "filename": "CCE", "line": "7"}}], "outer_pre": [], "outer_suf": [], "all": []}]

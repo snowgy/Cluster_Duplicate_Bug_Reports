@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipse.emf.ecore.util", "class": "BasicExtendedMetaData", "method": "demandFeature", "filename": "BasicExtendedMetaData", "line": "1929"}, "caller": {"package": "org.apache.tuscany.sdo.helper", "class": "XMLDocumentImpl", "method": "<init>", "filename": "XMLDocumentImpl", "line": "149"}}], "outer_pre": [], "outer_suf": [], "all": []}]

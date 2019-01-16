@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "java.net", "class": "SocketInputStream", "method": "read", "filename": "SocketInputStream", "line": "141"}, "caller": {"package": "org.apache.http.impl.io", "class": "AbstractSessionInputBuffer", "method": "read", "filename": "AbstractSessionInputBuffer", "line": "196"}}], "outer_pre": [], "outer_suf": [], "all": []}]

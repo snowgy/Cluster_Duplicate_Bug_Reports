@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.atl.engine.extractors.ebnf", "class": "EBNFExtractor", "method": "extract", "filename": "EBNFExtractor", "line": "197"}, "caller": {"package": "org.eclipse.am3.ui.action", "class": "ActionEBNFExtractor$1", "method": "run", "filename": "ActionEBNFExtractor", "line": "102"}}], "outer_pre": [], "outer_suf": [], "all": []}]

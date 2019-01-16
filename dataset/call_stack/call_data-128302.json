@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "com.ibm.icu.impl", "class": "ICULocaleService", "method": "get", "filename": "ICULocaleService", "line": "72"}, "caller": {"package": "com.ibm.icu.text", "class": "NumberFormatServiceShim", "method": "createInstance", "filename": "NumberFormatServiceShim", "line": "88"}}], "outer_pre": [], "outer_suf": [], "all": []}]

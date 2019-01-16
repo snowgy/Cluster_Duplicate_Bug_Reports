@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.apache.felix.resolver", "class": "ResolverImpl", "method": "resolve", "filename": "ResolverImpl", "line": "251"}, "caller": {"package": "org.eclipse.osgi.container", "class": "ModuleResolver$ResolveProcess", "method": "resolveSingleRevision", "filename": "ModuleResolver", "line": "948"}}], "outer_pre": [], "outer_suf": [], "all": []}]

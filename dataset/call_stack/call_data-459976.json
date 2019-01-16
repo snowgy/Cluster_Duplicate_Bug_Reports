@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipse.jdt.core.tests.model", "class": "SuiteOfTestCases$Suite", "method": "run", "filename": "SuiteOfTestCases", "line": "85"}, "caller": {"package": "org.eclipse.test", "class": "EclipseTestRunner", "method": "run", "filename": "EclipseTestRunner", "line": "657"}}], "outer_pre": [], "outer_suf": [], "all": []}]

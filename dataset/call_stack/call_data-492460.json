@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipse.swtbot.swt.finder", "class": "SWTBotFactory", "method": "waitUntilWidgetAppears", "filename": "SWTBotFactory", "line": "466"}, "caller": {"package": "org.eclipse.swtbot.eclipse.finder", "class": "SWTWorkbenchBot", "method": "editor", "filename": "SWTWorkbenchBot", "line": "216"}}], "outer_pre": [], "outer_suf": [], "all": []}]

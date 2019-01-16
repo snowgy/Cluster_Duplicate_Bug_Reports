@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipse.jface.action", "class": "MenuManager", "method": "updateAll", "filename": "MenuManager", "line": "575"}, "caller": {"package": "org.eclipse.jdt.ui.actions", "class": "OpenAction", "method": "run", "filename": "OpenAction", "line": "149"}}], "outer_pre": [], "outer_suf": [], "all": []}]

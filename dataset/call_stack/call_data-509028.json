@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "java.net", "class": "URI", "method": "<init>", "filename": "URI", "line": "820"}, "caller": {"package": "org.eclipse.tycho.repository.registry.facade", "class": "RepositoryBlackboardKey", "method": "forResolutionContextArtifacts", "filename": "RepositoryBlackboardKey", "line": "40"}}], "outer_pre": [], "outer_suf": [], "all": []}]

@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipse.swtbot.swt.finder.widgets", "class": "SWTBotShell", "method": "<init>", "filename": "SWTBotShell", "line": "38"}, "caller": {"package": "org.eclipse.swtbot.swt.finder", "class": "SWTBotFactory", "method": "activeShell", "filename": "SWTBotFactory", "line": "341"}}], "outer_pre": [], "outer_suf": [], "all": []}]

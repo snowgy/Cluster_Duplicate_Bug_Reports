@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "com.mysql.jdbc", "class": "ConnectionImpl", "method": "commit", "filename": "ConnectionImpl", "line": "1655"}, "caller": {"package": "eglx.persistence.sql", "class": "SQLDataSource", "method": "commit", "filename": "SQLDataSource", "line": "80"}}], "outer_pre": [], "outer_suf": [], "all": []}]

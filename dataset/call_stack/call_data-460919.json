@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipse.jdt.text.tests.performance", "class": "NonInitialTypingTest", "method": "setUp", "filename": "NonInitialTypingTest", "line": "54"}, "caller": {"package": "junit.framework", "class": "TestCase", "method": "runBare", "filename": "TestCase", "line": "139"}}], "outer_pre": [], "outer_suf": [], "all": []}]

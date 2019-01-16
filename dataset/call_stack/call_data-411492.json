@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipse.jgit.dircache", "class": "DirCacheEntry", "method": "<init>", "filename": "DirCacheEntry", "line": "220"}, "caller": {"package": "org.eclipse.jgit.api", "class": "AddCommand", "method": "call", "filename": "AddCommand", "line": "170"}}], "outer_pre": [], "outer_suf": [], "all": []}]

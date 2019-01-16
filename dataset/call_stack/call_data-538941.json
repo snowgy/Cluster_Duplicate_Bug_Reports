@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.junit", "class": "Assert", "method": "assertEquals", "filename": "Assert", "line": "683"}, "caller": {"package": "org.eclipse.statet.r.core.data", "class": "RValueFormatterValidatorTest", "method": "reparse_03num", "filename": "RValueFormatterValidatorTest", "line": "154"}}], "outer_pre": [], "outer_suf": [], "all": []}]

@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipse.jface.resource", "class": "ImageRegistry", "method": "get", "filename": "ImageRegistry", "line": "212"}, "caller": {"package": "org.eclipse.epp.internal.mpc.ui.wizards", "class": "CatalogSwitcher", "method": "getCatalogIcon", "filename": "CatalogSwitcher", "line": "161"}}], "outer_pre": [], "outer_suf": [], "all": []}]

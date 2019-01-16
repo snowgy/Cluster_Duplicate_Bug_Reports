@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipse.jdt.core.dom", "class": "ASTNode", "method": "accept", "filename": "ASTNode", "line": "1353"}, "caller": {"package": "org.eclipse.ui.internal", "class": "PluginAction", "method": "runWithEvent", "filename": "PluginAction", "line": "263"}}], "outer_pre": [], "outer_suf": [], "all": []}]

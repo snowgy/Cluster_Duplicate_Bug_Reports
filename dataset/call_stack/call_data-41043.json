@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipse.jdt.internal.core", "class": "CompilationUnit", "method": "reconcile", "filename": "CompilationUnit", "line": "981"}, "caller": {"package": "org.eclipse.core.internal.resources", "class": "Resource$1", "method": "visitElement", "filename": "Resource", "line": "50"}}], "outer_pre": [], "outer_suf": [], "all": []}]

@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "java.io", "class": "BufferedInputStream", "method": "read", "filename": "BufferedInputStream", "line": "265"}, "caller": {"package": "org.eclipse.epp.internal.mpc.ui.catalog", "class": "ResourceProvider", "method": "putResource", "filename": "ResourceProvider", "line": "71"}}], "outer_pre": [], "outer_suf": [], "all": []}]

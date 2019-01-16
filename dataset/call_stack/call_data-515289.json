@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "com.ibm.jsse2", "class": "as", "method": "startHandshake", "filename": "as", "line": "859"}, "caller": {"package": "com.squareup.okhttp", "class": "Connection", "method": "connectTls", "filename": "Connection", "line": "235"}}], "outer_pre": [], "outer_suf": [], "all": []}]

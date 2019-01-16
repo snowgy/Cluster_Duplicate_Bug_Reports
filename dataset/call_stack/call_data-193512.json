@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipse.cdt.ui.tests.DOMAST", "class": "FindIASTNameDialog$1", "method": "widgetSelected", "filename": "FindIASTNameDialog", "line": "344"}, "caller": {"package": "org.eclipse.swt.widgets", "class": "TypedListener", "method": "handleEvent", "filename": "TypedListener", "line": "227"}}], "outer_pre": [], "outer_suf": [], "all": []}]

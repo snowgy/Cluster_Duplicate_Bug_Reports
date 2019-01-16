@@ -1,0 +1,1 @@
+[{"inner": [], "outer_pre": [], "outer_suf": [], "all": []}, {"inner": [{"provider": {"package": "java.io", "class": "Writer", "method": "write", "filename": "Writer", "line": "157"}, "caller": {"package": "py4j.commands", "class": "CallCommand", "method": "execute", "filename": "CallCommand", "line": "83"}}], "outer_pre": [], "outer_suf": [], "all": []}]

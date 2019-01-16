@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipse.emf.ecore.xmi.impl", "class": "XMLSaveImpl", "method": "saveIDRefMany", "filename": "XMLSaveImpl", "line": "2023"}, "caller": {"package": "org.eclipse.uml2.uml.internal.resource", "class": "UMLSaveImpl", "method": "saveIDRefMany", "filename": "UMLSaveImpl", "line": "66"}}], "outer_pre": [], "outer_suf": [], "all": []}]

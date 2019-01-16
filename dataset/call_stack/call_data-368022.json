@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipse.pde.api.tools.internal.provisional.scanner", "class": "TagScanner$Visitor", "method": "visit", "filename": "TagScanner", "line": "154"}, "caller": {"package": "org.eclipse.jdt.core.dom", "class": "Javadoc", "method": "accept0", "filename": "Javadoc", "line": "201"}}], "outer_pre": [], "outer_suf": [], "all": []}]

@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipse.swt.widgets", "class": "Shell", "method": "dispose", "filename": "Shell", "line": "499"}, "caller": {"package": "org.eclipse.jface.window", "class": "Window", "method": "close", "filename": "Window", "line": "321"}}], "outer_pre": [], "outer_suf": [], "all": []}]

@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipse.pde.internal.core", "class": "PluginModelManager", "method": "findModel", "filename": "PluginModelManager", "line": "874"}, "caller": {"package": "org.eclipse.pde.core.plugin", "class": "PluginRegistry", "method": "findModel", "filename": "PluginRegistry", "line": "110"}}], "outer_pre": [], "outer_suf": [], "all": []}]

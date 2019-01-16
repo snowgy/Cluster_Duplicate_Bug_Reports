@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipse.jdt.internal.core", "class": "BinaryField", "method": "getAttachedJavadoc", "filename": "BinaryField", "line": "121"}, "caller": {"package": "org.eclipse.jdt.core.tests.model", "class": "AttachedJavadocTests", "method": "test025", "filename": "AttachedJavadocTests", "line": "617"}}], "outer_pre": [], "outer_suf": [], "all": []}]

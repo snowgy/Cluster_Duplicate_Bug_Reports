@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipse.jdt.internal.core", "class": "JavaElement", "method": "exists", "filename": "JavaElement", "line": "198"}, "caller": {"package": "org.eclipse.jdt.internal.corext.util", "class": "OpenTypeHistory", "method": "internalCheckConsistency", "filename": "OpenTypeHistory", "line": "311"}}], "outer_pre": [], "outer_suf": [], "all": []}]

@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "com.sun.jndi.ldap", "class": "LdapCtxFactory", "method": "getInitialContext", "filename": "LdapCtxFactory", "line": "84"}, "caller": {"package": "javax.naming.spi", "class": "NamingManager", "method": "getInitialContext", "filename": "NamingManager", "line": "684"}}], "outer_pre": [], "outer_suf": [], "all": []}]

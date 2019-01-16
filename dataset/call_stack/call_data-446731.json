@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipse.help.internal.toc", "class": "TocManager", "method": "getTocs", "filename": "TocManager", "line": "68"}, "caller": {"package": "org.eclipse.help.internal.search", "class": "IndexingOperation", "method": "getAllDocuments", "filename": "IndexingOperation", "line": "482"}}], "outer_pre": [], "outer_suf": [], "all": []}]

@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.aspectj.weaver", "class": "ResolvedType", "method": "collectInterTypeMungers", "filename": "ResolvedType.java:1 ... ob.run(AutoBuildJob", "line": "242"}, "caller": {"package": "org.eclipse.core.internal.jobs", "class": "Worker", "method": "run", "filename": "Worker", "line": "54"}}], "outer_pre": [], "outer_suf": [], "all": []}]

@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipse.jface.viewers", "class": "ColumnViewer$1", "method": "mouseDown", "filename": "ColumnViewer", "line": "89"}, "caller": {"package": "org.eclipse.swt.widgets", "class": "TypedListener", "method": "handleEvent", "filename": "TypedListener", "line": "179"}}], "outer_pre": [], "outer_suf": [], "all": []}]

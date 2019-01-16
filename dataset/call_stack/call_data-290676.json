@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "junit.framework", "class": "Assert", "method": "assertTrue", "filename": "Assert", "line": "27"}, "caller": {"package": "org.eclipse.egit.core.op", "class": "T0001_ConnectProviderOperationTest", "method": "testNoRepository", "filename": "T0001_ConnectProviderOperationTest", "line": "44"}}], "outer_pre": [], "outer_suf": [], "all": []}]

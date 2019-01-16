@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "java.net", "class": "URI", "method": "toURL", "filename": "URI", "line": "1092"}, "caller": {"package": "org.eclipse.ecf.provider.filetransfer.identity", "class": "FileTransferID", "method": "getURL", "filename": "FileTransferID", "line": "76"}}], "outer_pre": [], "outer_suf": [], "all": []}]

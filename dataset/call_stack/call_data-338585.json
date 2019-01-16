@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "oracle.jdbc.driver", "class": "OracleResultSet", "method": "getObject", "filename": "OracleResultSet", "line": "1547"}, "caller": {"package": "org.eclipse.persistence.platform.database.oracle", "class": "Oracle10Platform", "method": "writeLOB", "filename": "Oracle10Platform", "line": "70"}}], "outer_pre": [], "outer_suf": [], "all": []}]

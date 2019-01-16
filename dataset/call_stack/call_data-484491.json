@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipse.jgit.util", "class": "FS", "method": "createSymLink", "filename": "FS", "line": "744"}, "caller": {"package": "org.eclipse.jgit.dircache", "class": "DirCacheCheckout", "method": "checkoutEntry", "filename": "DirCacheCheckout", "line": "1251"}}], "outer_pre": [], "outer_suf": [], "all": []}]

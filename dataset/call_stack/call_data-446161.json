@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipse.m2e.logback.configuration", "class": "LogPlugin$1", "method": "run", "filename": "LogPlugin", "line": "62"}, "caller": {"package": "java.util", "class": "TimerThread", "method": "mainLoop", "filename": "Timer", "line": "555"}}], "outer_pre": [], "outer_suf": [], "all": []}]

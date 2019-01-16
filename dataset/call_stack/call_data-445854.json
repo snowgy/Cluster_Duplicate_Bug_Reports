@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipse.core.internal.resources", "class": "Project", "method": "touch", "filename": "Project", "line": "1403"}, "caller": {"package": "org.eclipse.jdt.internal.core", "class": "SetContainerOperation", "method": "executeOperation", "filename": "SetContainerOperation", "line": "115"}}], "outer_pre": [], "outer_suf": [], "all": []}]

@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.apache.maven.model.building", "class": "DefaultModelBuilder", "method": "build", "filename": "DefaultModelBuilder", "line": "232"}, "caller": {"package": "org.apache.maven.project", "class": "DefaultProjectBuilder", "method": "build", "filename": "DefaultProjectBuilder", "line": "135"}}], "outer_pre": [], "outer_suf": [], "all": []}]

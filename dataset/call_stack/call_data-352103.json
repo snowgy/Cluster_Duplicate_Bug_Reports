@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipse.edt.compiler.internal.egl2mof", "class": "Egl2Mof", "method": "visit", "filename": "Egl2Mof", "line": "1"}, "caller": {"package": "org.eclipse.edt.compiler.core.ast", "class": "StructureItem", "method": "accept", "filename": "StructureItem", "line": "123"}}], "outer_pre": [], "outer_suf": [], "all": []}]

@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipse.core.internal.resources", "class": "Folder", "method": "create", "filename": "Folder", "line": "118"}, "caller": {"package": "org.eclipse.birt.report.designer.internal.ui.util", "class": "UIUtil", "method": "createFolder", "filename": "UIUtil", "line": "1087"}}], "outer_pre": [], "outer_suf": [], "all": []}]

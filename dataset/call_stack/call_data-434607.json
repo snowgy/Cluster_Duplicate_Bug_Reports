@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipse.jdt.internal.compiler.lookup", "class": "CompilationUnitScope", "method": "faultInTypes", "filename": "CompilationUnitScope", "line": "422"}, "caller": {"package": "org.eclipse.jdt.internal.compiler", "class": "Compiler", "method": "process", "filename": "Compiler", "line": "763"}}], "outer_pre": [], "outer_suf": [], "all": []}]

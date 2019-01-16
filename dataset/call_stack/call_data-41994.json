@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipse.swt.dnd", "class": "DropTarget", "method": "<init>", "filename": "DropTarget", "line": "133"}, "caller": {"package": "org.eclipse.jface.window", "class": "Window", "method": "createShell", "filename": "Window", "line": "350"}}], "outer_pre": [], "outer_suf": [], "all": []}]

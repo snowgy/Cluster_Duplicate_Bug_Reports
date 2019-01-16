@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipse.jdt.internal.compiler.lookup", "class": "ClassScope", "method": "connectMemberTypes", "filename": "ClassScope", "line": "720"}, "caller": {"package": "org.eclipse.core.internal.events", "class": "BuildManager$2", "method": "run", "filename": "BuildManager", "line": "593"}}], "outer_pre": [], "outer_suf": [], "all": []}]

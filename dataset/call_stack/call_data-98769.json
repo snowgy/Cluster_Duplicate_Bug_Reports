@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipse.jdt.internal.core", "class": "JavaProject", "method": "getPackageFragmentRoots", "filename": "JavaProject", "line": "1706"}, "caller": {"package": "org.eclipse.jface.viewers", "class": "Viewer$2", "method": "run", "filename": "Viewer", "line": "162"}}], "outer_pre": [], "outer_suf": [], "all": []}]

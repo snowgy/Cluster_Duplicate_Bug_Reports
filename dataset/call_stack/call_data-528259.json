@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipse.jdt.internal.core", "class": "JavaModelOperation", "method": "run", "filename": "JavaModelOperation", "line": "727"}, "caller": {"package": "org.eclipse.core.internal.resources", "class": "Workspace", "method": "run", "filename": "Workspace", "line": "2240"}}], "outer_pre": [], "outer_suf": [], "all": []}]

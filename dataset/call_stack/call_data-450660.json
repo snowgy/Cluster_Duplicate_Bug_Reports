@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipse.jgit.transport", "class": "Transport", "method": "push", "filename": "Transport", "line": "1173"}, "caller": {"package": "org.eclipse.egit.core.op", "class": "PushOperation", "method": "run", "filename": "PushOperation", "line": "197"}}], "outer_pre": [], "outer_suf": [], "all": []}]

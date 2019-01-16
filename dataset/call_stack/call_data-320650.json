@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipse.ptp.internal.rdt.core.index", "class": "RemoteIndexerTask", "method": "run", "filename": "RemoteIndexerTask", "line": "93"}, "caller": {"package": "org.eclipse.cdt.internal.core.pdom.indexer", "class": "PDOMRebuildTask", "method": "run", "filename": "PDOMRebuildTask", "line": "84"}}], "outer_pre": [], "outer_suf": [], "all": []}]

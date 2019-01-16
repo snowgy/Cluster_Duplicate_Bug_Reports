@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipse.jdt.internal.core", "class": "JavaElement", "method": "getChildren", "filename": "JavaElement", "line": "252"}, "caller": {"package": "org.eclipse.ui.internal", "class": "PluginAction", "method": "runWithEvent", "filename": "PluginAction", "line": "250"}}], "outer_pre": [], "outer_suf": [], "all": []}]

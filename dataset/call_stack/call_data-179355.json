@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipse.uml2.uml.internal.impl", "class": "ClassImpl", "method": "eSet", "filename": "ClassImpl", "line": "1614"}, "caller": {"package": "org.eclipse.emf.ecore.impl", "class": "BasicEObjectImpl", "method": "eSet", "filename": "BasicEObjectImpl", "line": "1061"}}], "outer_pre": [], "outer_suf": [], "all": []}]

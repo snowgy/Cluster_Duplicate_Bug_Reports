@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipse.jdt.internal.compiler.parser", "class": "Parser", "method": "dietParse", "filename": "Parser", "line": "9359"}, "caller": {"package": "org.eclipse.jdt.internal.compiler", "class": "Compiler", "method": "internalBeginToCompile", "filename": "Compiler", "line": "718"}}], "outer_pre": [], "outer_suf": [], "all": []}]

@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.apache.commons.httpclient", "class": "HttpMethodBase", "method": "<init>", "filename": "HttpMethodBase", "line": "217"}, "caller": {"package": "org.apache.commons.httpclient.methods", "class": "ExpectContinueMethod", "method": "<init>", "filename": "ExpectContinueMethod", "line": "92"}}], "outer_pre": [], "outer_suf": [], "all": []}]

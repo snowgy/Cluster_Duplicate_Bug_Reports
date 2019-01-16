@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.hibernate.type", "class": "CustomType", "method": "nullSafeSet", "filename": "CustomType", "line": "145"}, "caller": {"package": "org.hibernate.action", "class": "EntityInsertAction", "method": "execute", "filename": "EntityInsertAction", "line": "51"}}], "outer_pre": [], "outer_suf": [], "all": []}]

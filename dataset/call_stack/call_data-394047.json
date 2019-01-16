@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "oracle.jdbc.driver", "class": "OracleStatementWrapper", "method": "executeQuery", "filename": "OracleStatementWrapper", "line": "387"}, "caller": {"package": "org.eclipse.emf.cdo.server.internal.db", "class": "DBStore", "method": "selectSchemaVersion", "filename": "DBStore", "line": "817"}}], "outer_pre": [], "outer_suf": [], "all": []}]

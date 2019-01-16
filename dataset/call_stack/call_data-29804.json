@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipse.ui.internal", "class": "Perspective", "method": "onActivate", "filename": "Perspective", "line": "634"}, "caller": {"package": "org.eclipse.swt.custom", "class": "BusyIndicator", "method": "showWhile", "filename": "BusyIndicator", "line": "65"}}], "outer_pre": [], "outer_suf": [], "all": []}]

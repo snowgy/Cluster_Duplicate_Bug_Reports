@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipse.swt.widgets", "class": "ColorDialog", "method": "open", "filename": "ColorDialog", "line": "356"}, "caller": {"package": "org.eclipse.swt.examples.controlexample", "class": "Tab$2", "method": "widgetSelected", "filename": "Tab", "line": "162"}}], "outer_pre": [], "outer_suf": [], "all": []}]

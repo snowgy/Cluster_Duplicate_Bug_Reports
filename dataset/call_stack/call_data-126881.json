@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "oracle.jdbc.dbaccess", "class": "DBError", "method": "throwSqlException", "filename": "DBError", "line": "333"}, "caller": {"package": "oracle.jdbc.driver", "class": "OracleConnection", "method": "close", "filename": "OracleConnection", "line": "1442"}}], "outer_pre": [], "outer_suf": [], "all": []}]

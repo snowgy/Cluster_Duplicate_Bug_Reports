@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipse.jgit.lib", "class": "ObjectChecker", "method": "checkPathSegment", "filename": "ObjectChecker", "line": "440"}, "caller": {"package": "org.eclipse.jgit.dircache", "class": "DirCacheCheckout", "method": "checkValidPathSegment", "filename": "DirCacheCheckout", "line": "1286"}}], "outer_pre": [], "outer_suf": [], "all": []}]

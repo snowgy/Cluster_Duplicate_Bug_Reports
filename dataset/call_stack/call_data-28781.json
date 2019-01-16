@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "java.text", "class": "SimpleDateFormat", "method": "<init>", "filename": "SimpleDateFormat", "line": "424"}, "caller": {"package": "org.eclipse.team.internal.ccvs.ui", "class": "Console", "method": "<clinit>", "filename": "Console", "line": "68"}}], "outer_pre": [], "outer_suf": [], "all": []}]

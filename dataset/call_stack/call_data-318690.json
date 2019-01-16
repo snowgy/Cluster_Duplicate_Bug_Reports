@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "java.net", "class": "Socket", "method": "connect", "filename": "Socket", "line": "478"}, "caller": {"package": "org.eclipse.jetty.continuation.test", "class": "ContinuationBase", "method": "process", "filename": "ContinuationBase", "line": "236"}}], "outer_pre": [], "outer_suf": [], "all": []}]

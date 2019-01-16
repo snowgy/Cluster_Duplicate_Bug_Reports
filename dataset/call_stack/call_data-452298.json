@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "com.sun.xml.ws.transport.http.server", "class": "EndpointImpl", "method": "publish", "filename": "EndpointImpl", "line": "247"}, "caller": {"package": "com.sun.xml.ws.spi", "class": "ProviderImpl", "method": "createAndPublishEndpoint", "filename": "ProviderImpl", "line": "134"}}], "outer_pre": [], "outer_suf": [], "all": []}]

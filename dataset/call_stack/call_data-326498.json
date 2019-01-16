@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "java.net", "class": "Socket", "method": "connect", "filename": "Socket", "line": "478"}, "caller": {"package": "sun.net", "class": "NetworkClient", "method": "doConnect", "filename": "NetworkClient", "line": "163"}}], "outer_pre": [], "outer_suf": [], "all": []}]

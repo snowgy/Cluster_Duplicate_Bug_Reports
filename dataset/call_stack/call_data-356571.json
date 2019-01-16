@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipse.swt", "class": "SWT", "method": "error", "filename": "SWT", "line": "4168"}, "caller": {"package": "org.eclipse.swt.graphics", "class": "Image", "method": "getImageData", "filename": "Image", "line": "1463"}}], "outer_pre": [], "outer_suf": [], "all": []}]

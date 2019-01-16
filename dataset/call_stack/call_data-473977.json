@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipse.nebula.widgets.gallery", "class": "Gallery$7", "method": "mouseDown", "filename": "Gallery", "line": "564"}, "caller": {"package": "org.eclipse.swt.widgets", "class": "TypedListener", "method": "handleEvent", "filename": "TypedListener", "line": "192"}}], "outer_pre": [], "outer_suf": [], "all": []}]

@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipse.core.internal.resources", "class": "Resource", "method": "createLink", "filename": "Resource", "line": "647"}, "caller": {"package": "org.eclipse.jdt.internal.core", "class": "ExternalFoldersManager", "method": "createLinkFolder", "filename": "ExternalFoldersManager", "line": "175"}}], "outer_pre": [], "outer_suf": [], "all": []}]

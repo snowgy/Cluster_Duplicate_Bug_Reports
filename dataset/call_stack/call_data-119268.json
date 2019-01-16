@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipse.jface.databinding.internal", "class": "DataBindingContext", "method": "bind", "filename": "DataBindingContext", "line": "407"}, "caller": {"package": "com.tpc.binding.test.bugs", "class": "TestTable2Combo", "method": "bindControls", "filename": "TestTable2Combo", "line": "131"}}], "outer_pre": [], "outer_suf": [], "all": []}]

@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipse.e4.ui.workbench.addons.dndaddon", "class": "DnDManager$1", "method": "dragDetected", "filename": "DnDManager", "line": "87"}, "caller": {"package": "org.eclipse.swt.widgets", "class": "TypedListener", "method": "handleEvent", "filename": "TypedListener", "line": "127"}}], "outer_pre": [], "outer_suf": [], "all": []}]

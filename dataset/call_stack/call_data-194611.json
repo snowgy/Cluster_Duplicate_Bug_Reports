@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipse.cdt.ui.newui", "class": "AbstractPage", "method": "createContents", "filename": "AbstractPage", "line": "210"}, "caller": {"package": "org.eclipse.jface.preference", "class": "PreferencePage", "method": "createControl", "filename": "PreferencePage", "line": "233"}}], "outer_pre": [], "outer_suf": [], "all": []}]

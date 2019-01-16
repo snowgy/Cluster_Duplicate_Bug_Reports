@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipse.swt", "class": "SWT", "method": "error", "filename": "SWT", "line": "2587"}, "caller": {"package": "org.eclipse.swt.printing", "class": "Printer", "method": "<init>", "filename": "Printer", "line": "100"}}], "outer_pre": [], "outer_suf": [], "all": []}]

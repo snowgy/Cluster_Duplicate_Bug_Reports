@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "java.util", "class": "HashMap$EntryIterator", "method": "next", "filename": "HashMap", "line": "881"}, "caller": {"package": "org.eclipse.emf.ecore.util", "class": "ECrossReferenceAdapter", "method": "selfAdapt", "filename": "ECrossReferenceAdapter", "line": "513"}}], "outer_pre": [], "outer_suf": [], "all": []}]

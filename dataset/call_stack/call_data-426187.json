@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "java.net", "class": "URI", "method": "create", "filename": "URI", "line": "839"}, "caller": {"package": "org.apache.wink.client", "class": "RestClient", "method": "resource", "filename": "RestClient", "line": "112"}}], "outer_pre": [], "outer_suf": [], "all": []}]

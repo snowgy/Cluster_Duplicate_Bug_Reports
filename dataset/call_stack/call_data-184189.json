@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipse.cdt.internal.ui.editor", "class": "CEditor", "method": "reconciled", "filename": "CEditor", "line": "3026"}, "caller": {"package": "org.eclipse.cdt.internal.ui.text", "class": "CReconcilingStrategy", "method": "reconcile", "filename": "CReconcilingStrategy", "line": "147"}}], "outer_pre": [], "outer_suf": [], "all": []}]

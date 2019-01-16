@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipse.test", "class": "CoreTestApplication", "method": "run", "filename": "CoreTestApplication", "line": "31"}, "caller": {"package": "org.eclipse.core.runtime.adaptor", "class": "EclipseStarter", "method": "run", "filename": "EclipseStarter", "line": "272"}}], "outer_pre": [], "outer_suf": [], "all": []}]

@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipse.ptp.pldt.wizards.wizardPages", "class": "MPIProjectProcess", "method": "process", "filename": "MPIProjectProcess", "line": "122"}, "caller": {"package": "org.eclipse.cdt.core.templateengine.process", "class": "Process", "method": "process", "filename": "Process", "line": "162"}}], "outer_pre": [], "outer_suf": [], "all": []}]

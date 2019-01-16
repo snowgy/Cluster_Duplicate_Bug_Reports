@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.mozilla.javascript", "class": "Context", "method": "compileString", "filename": "Context", "line": "1229"}, "caller": {"package": "org.eclipse.birt.report.engine.javascript", "class": "JavascriptEngine$3", "method": "run", "filename": "JavascriptEngine", "line": "232"}}], "outer_pre": [], "outer_suf": [], "all": []}]

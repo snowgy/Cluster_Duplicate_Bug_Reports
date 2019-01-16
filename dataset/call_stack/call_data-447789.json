@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipse.debug.internal.core", "class": "LaunchConfiguration", "method": "launch", "filename": "LaunchConfiguration", "line": "731"}, "caller": {"package": "org.eclipse.wst.server.core.internal", "class": "Server", "method": "startImpl2", "filename": "Server", "line": "3541"}}], "outer_pre": [], "outer_suf": [], "all": []}]

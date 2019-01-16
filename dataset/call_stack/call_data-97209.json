@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipse.jdt.internal.core", "class": "Member", "method": "getFlags", "filename": "Member", "line": "147"}, "caller": {"package": "org.eclipse.core.internal.resources", "class": "Workspace", "method": "run", "filename": "Workspace", "line": "1719"}}], "outer_pre": [], "outer_suf": [], "all": []}]

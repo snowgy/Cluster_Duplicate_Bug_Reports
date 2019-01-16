@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "java.io", "class": "File", "method": "createTempFile", "filename": "File", "line": "1828"}, "caller": {"package": "hudson.plugins.git", "class": "GitSCM$DescriptorImpl", "method": "newInstance", "filename": "GitSCM", "line": "1027"}}], "outer_pre": [], "outer_suf": [], "all": []}]

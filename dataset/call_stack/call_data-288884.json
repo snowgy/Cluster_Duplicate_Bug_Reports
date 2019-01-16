@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "xdc.services.spec", "class": "BrowserSession", "method": "findPkg", "filename": "BrowserSession", "line": "105"}, "caller": {"package": "org.eclipse.rtsc.xdctools.ui.reflect", "class": "Reflect", "method": "getModules", "filename": "Reflect", "line": "117"}}], "outer_pre": [], "outer_suf": [], "all": []}]

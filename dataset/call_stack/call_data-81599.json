@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipse.jdt.internal.core", "class": "JavaElement", "method": "getChildren", "filename": "JavaElement", "line": "232"}, "caller": {"package": "org.eclipse.jface.viewers", "class": "ContentViewer", "method": "setInput", "filename": "ContentViewer", "line": "244"}}], "outer_pre": [], "outer_suf": [], "all": []}]

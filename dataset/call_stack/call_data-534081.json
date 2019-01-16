@@ -1,0 +1,1 @@
+[{"inner": [{"provider": {"package": "org.eclipse.core.internal.dtree", "class": "DeltaDataTree", "method": "reroot", "filename": "DeltaDataTree", "line": "808"}, "caller": {"package": "org.eclipse.core.internal.watson", "class": "ElementTree", "method": "immutable", "filename": "ElementTree", "line": "519"}}], "outer_pre": [], "outer_suf": [], "all": []}]
