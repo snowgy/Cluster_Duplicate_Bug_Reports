@@ -1,5 +1,5 @@
 # from algorithm import FileUtils
-from field import FieldLoader
+from thu.field import FieldLoader
 
 # step1
 # 根据两个堆栈信息的包名计算重合率和是否为包含关系
