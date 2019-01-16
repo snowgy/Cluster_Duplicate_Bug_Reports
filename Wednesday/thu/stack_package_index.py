@@ -47,6 +47,8 @@ class StackPackageIndex:
       while(True):
         children = fetch_at(_list, current_deep)
         # print(current_deep, children)
+        if len(children) == 0:
+          return current_deep
         if len(children) > 2:
           return current_deep
         current_deep += 1
