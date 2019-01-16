@@ -1,1 +1,1 @@
-[[["org"], ["sun"], ["java"], ["com"]]]
+[{"field": [["org", "eclipse", "recommenders"], ["com", "google", "inject"], ["org", "eclipse", "core"], ["org", "eclipse", "ui"], ["org", "eclipse", "jface"], ["org", "eclipse", "swt"], ["org", "eclipse", "equinox"]], "deep": 3, "interest_field": "com.google.inject", "interest_length": 24, "interest_start": 2, "interest_end": 25}]

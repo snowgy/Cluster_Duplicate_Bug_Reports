@@ -1,1 +1,1 @@
-[[], [["org", "apache", "muse", "util"], ["org", "apache", "muse", "tools", "generator", "synthesizer"]]]
+[{"field": [], "deep": 0, "interest_field": null, "interest_length": 0, "interest_start": 0, "interest_end": 0}, {"field": [["org", "apache", "muse", "util"], ["org", "apache", "muse", "tools", "generator", "synthesizer"]], "deep": 7, "interest_field": "org.apache.muse.tools.generator.synthesizer", "interest_length": 7, "interest_start": 4, "interest_end": 10}]

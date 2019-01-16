@@ -1,1 +1,1 @@
-[[], [["org", "eclipse", "birt", "data", "engine", "impl"], ["org", "eclipse", "birt", "data", "engine", "executor", "cache"]]]
+[{"field": [], "deep": 0, "interest_field": null, "interest_length": 0, "interest_start": 0, "interest_end": 0}, {"field": [["org", "eclipse", "birt", "data", "engine", "impl"], ["org", "eclipse", "birt", "data", "engine", "executor", "cache"]], "deep": 8, "interest_field": "org.eclipse.birt.data.engine.executor.cache", "interest_length": 6, "interest_start": 2, "interest_end": 7}]

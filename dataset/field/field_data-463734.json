@@ -1,1 +1,1 @@
-[[["org"], ["sun"], ["javax"], ["com"]], [["org", "eclipse", "persistence", "jaxb", "compiler"], ["org", "eclipse", "persistence", "jaxb"]]]
+[{"field": [["org"], ["javax"], ["com"]], "deep": 1, "interest_field": "org", "interest_length": 17, "interest_start": 12, "interest_end": 28}, {"field": [["org", "eclipse", "persistence", "jaxb", "compiler"], ["org", "eclipse", "persistence", "jaxb"]], "deep": 6, "interest_field": "org.eclipse.persistence.jaxb.compiler", "interest_length": 8, "interest_start": 0, "interest_end": 7}]

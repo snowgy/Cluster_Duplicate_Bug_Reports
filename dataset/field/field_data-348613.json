@@ -1,1 +1,1 @@
-[[["org", "apache", "catalina", "session"], ["org", "apache", "catalina", "core"], ["org", "apache", "catalina", "loader"]]]
+[{"field": [["org", "apache", "catalina", "session"], ["org", "apache", "catalina", "core"], ["org", "apache", "catalina", "loader"]], "deep": 4, "interest_field": "org.apache.catalina.core", "interest_length": 5, "interest_start": 6, "interest_end": 10}]

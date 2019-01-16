@@ -1,1 +1,1 @@
-[[["java"], ["sun"], ["org"]], [["java"], ["sun"], ["org"]]]
+[{"field": [["java", "net"], ["org", "eclipse", "jdt"], ["org", "eclipse", "jface"], ["org", "eclipse", "core"]], "deep": 3, "interest_field": "org.eclipse.jdt", "interest_length": 8, "interest_start": 5, "interest_end": 12}, {"field": [["java", "net"], ["org", "eclipse", "jdt"], ["org", "eclipse", "jface"], ["org", "eclipse", "core"]], "deep": 3, "interest_field": "org.eclipse.jdt", "interest_length": 8, "interest_start": 5, "interest_end": 12}]

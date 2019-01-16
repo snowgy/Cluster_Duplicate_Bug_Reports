@@ -1,1 +1,1 @@
-[[["org", "eclipse", "persistence", "exceptions"]], [["oracle", "jdbc"], ["oracle", "sql"], ["org", "eclipse"]]]
+[{"field": [["org", "eclipse", "persistence", "exceptions"]], "deep": 5, "interest_field": "org.eclipse.persistence.exceptions", "interest_length": 1, "interest_start": 0, "interest_end": 0}, {"field": [["oracle", "jdbc"], ["oracle", "sql"], ["org", "eclipse"]], "deep": 2, "interest_field": "oracle.sql", "interest_length": 3, "interest_start": 6, "interest_end": 8}]

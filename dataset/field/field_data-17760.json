@@ -1,1 +1,1 @@
-[[["org"], ["com"], ["java"]], [["org"], ["Bug"], ["com"]]]
+[{"field": [["org", "eclipse", "swt"], ["org", "eclipse", "swt", "widgets"], ["com", "ibm", "etools", "draw2d"], ["com", "ibm", "etools", "draw2d", "util"]], "deep": 6, "interest_field": "org.eclipse.swt.widgets", "interest_length": 2, "interest_start": 1, "interest_end": 2}, {"field": [["org"], ["Bug"], ["com"]], "deep": 1, "interest_field": "org", "interest_length": 3, "interest_start": 0, "interest_end": 2}]

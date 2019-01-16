@@ -1,1 +1,1 @@
-[[["sun"], ["java"], ["org"]]]
+[{"field": [["org", "eclipse", "equinox", "ds", "instance"], ["org", "eclipse", "equinox", "ds", "resolver"], ["org", "eclipse", "equinox", "ds", "workqueue"]], "deep": 5, "interest_field": "org.eclipse.equinox.ds.instance", "interest_length": 7, "interest_start": 0, "interest_end": 6}]

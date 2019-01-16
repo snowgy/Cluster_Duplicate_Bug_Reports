@@ -1,1 +1,1 @@
-[[["org"], ["sun"], ["java"]], [["java", "io"], ["org", "eclipse"], ["org", "openarchitectureware"]]]
+[{"field": [["org", "openarchitectureware"], ["org", "example"], ["org", "eclipse"]], "deep": 2, "interest_field": "org.eclipse", "interest_length": 61, "interest_start": 8, "interest_end": 68}, {"field": [["java", "io"], ["org", "eclipse"], ["org", "openarchitectureware"]], "deep": 2, "interest_field": "org.eclipse", "interest_length": 3, "interest_start": 1, "interest_end": 3}]

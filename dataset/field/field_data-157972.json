@@ -1,1 +1,1 @@
-[[], [["org", "eclipse", "dali", "orm", "impl"]]]
+[{"field": [], "deep": 0, "interest_field": null, "interest_length": 0, "interest_start": 0, "interest_end": 0}, {"field": [["org", "eclipse", "dali", "orm", "impl"]], "deep": 6, "interest_field": "org.eclipse.dali.orm.impl", "interest_length": 1, "interest_start": 0, "interest_end": 0}]

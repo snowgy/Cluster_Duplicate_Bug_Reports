@@ -1,1 +1,1 @@
-[[], [["org", "eclipse", "equinox"], ["org", "eclipse", "team"], ["org", "eclipse", "buckminster"], ["org", "eclipse", "core"]]]
+[{"field": [], "deep": 0, "interest_field": null, "interest_length": 0, "interest_start": 0, "interest_end": 0}, {"field": [["org", "eclipse", "equinox"], ["org", "eclipse", "team"], ["org", "eclipse", "buckminster"], ["org", "eclipse", "core"]], "deep": 3, "interest_field": "org.eclipse.buckminster", "interest_length": 10, "interest_start": 2, "interest_end": 11}]

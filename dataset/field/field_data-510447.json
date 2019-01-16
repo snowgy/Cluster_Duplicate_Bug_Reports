@@ -1,1 +1,1 @@
-[[["org", "eclipse", "osgi", "container"]], [["org", "eclipse"], ["java", "lang"], ["org", "jboss"]]]
+[{"field": [["org", "eclipse", "osgi", "container"]], "deep": 5, "interest_field": "org.eclipse.osgi.container", "interest_length": 1, "interest_start": 0, "interest_end": 0}, {"field": [["org", "eclipse", "osgi"], ["org", "jboss", "ide"], ["org", "eclipse", "core"], ["org", "eclipse", "wst"]], "deep": 3, "interest_field": "org.eclipse.osgi", "interest_length": 18, "interest_start": 16, "interest_end": 33}]

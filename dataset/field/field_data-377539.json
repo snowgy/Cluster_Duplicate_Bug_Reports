@@ -1,1 +1,1 @@
-[[], [["java", "net"], ["org", "eclipse", "lyo", "oslc4j", "provider", "jena"]]]
+[{"field": [], "deep": 0, "interest_field": null, "interest_length": 0, "interest_start": 0, "interest_end": 0}, {"field": [["java", "net"], ["org", "eclipse", "lyo", "oslc4j", "provider", "jena"]], "deep": 7, "interest_field": "org.eclipse.lyo.oslc4j.provider.jena", "interest_length": 4, "interest_start": 2, "interest_end": 5}]

@@ -1,1 +1,1 @@
-[[["com", "ibm", "db2", "jcc", "a"], ["com", "ibm", "db2", "jcc", "b"]]]
+[{"field": [["com", "ibm", "db2", "jcc", "a"], ["com", "ibm", "db2", "jcc", "b"]], "deep": 6, "interest_field": "com.ibm.db2.jcc.b", "interest_length": 4, "interest_start": 1, "interest_end": 4}]

@@ -1,1 +1,1 @@
-[[["java"], ["sun"], ["org"]], [["java", "net"], ["java", "lang"], ["sun", "misc"]]]
+[{"field": [["java", "security"], ["java", "net"], ["org", "eclipse"]], "deep": 2, "interest_field": "org.eclipse", "interest_length": 6, "interest_start": 6, "interest_end": 11}, {"field": [["java", "net"]], "deep": 3, "interest_field": "java.net", "interest_length": 1, "interest_start": 0, "interest_end": 0}]

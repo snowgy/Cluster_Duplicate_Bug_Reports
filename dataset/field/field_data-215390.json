@@ -1,1 +1,1 @@
-[[["org", "eclipse", "swt"], ["org", "eclipse", "ui"], ["org", "eclipse", "test"], ["java", "lang"]], [["org"], ["sun"], ["java"]]]
+[{"field": [["org", "eclipse", "swt"], ["org", "eclipse", "ui"], ["org", "eclipse", "test"]], "deep": 3, "interest_field": "org.eclipse.swt", "interest_length": 3, "interest_start": 0, "interest_end": 2}, {"field": [["org", "apache", "tools"], ["org", "eclipse", "ant"], ["org", "eclipse", "equinox"], ["org", "eclipse", "core"]], "deep": 3, "interest_field": "org.apache.tools", "interest_length": 18, "interest_start": 42, "interest_end": 59}]

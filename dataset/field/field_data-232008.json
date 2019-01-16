@@ -1,1 +1,1 @@
-[[["sun"], ["java"], ["com"]], [["sun"], ["java"], ["com"]]]
+[{"field": [["java", "util"], ["java", "io"], ["com", "sun"]], "deep": 2, "interest_field": "com.sun", "interest_length": 6, "interest_start": 8, "interest_end": 13}, {"field": [["java", "util"], ["java", "io"], ["com", "sun"]], "deep": 2, "interest_field": "com.sun", "interest_length": 6, "interest_start": 8, "interest_end": 13}]

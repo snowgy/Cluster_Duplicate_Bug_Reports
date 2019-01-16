@@ -1,1 +1,1 @@
-[[["org"], ["sun"], ["java"]], [["hudson", "remoting"], ["org", "hudsonci", "maven", "plugin", "builder", "internal", "invoker"]]]
+[{"field": [["org", "hudsonci"], ["org", "apache"], ["org", "codehaus"]], "deep": 2, "interest_field": "org.hudsonci", "interest_length": 6, "interest_start": 0, "interest_end": 5}, {"field": [["hudson", "remoting"], ["org", "hudsonci", "maven", "plugin", "builder", "internal", "invoker"]], "deep": 8, "interest_field": "org.hudsonci.maven.plugin.builder.internal.invoker", "interest_length": 3, "interest_start": 2, "interest_end": 4}]

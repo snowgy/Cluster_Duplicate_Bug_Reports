@@ -1,1 +1,1 @@
-[[["org", "eclipse", "tptp", "platform", "execution"], ["org", "eclipse", "tptp", "platform", "jvmti"], ["org", "eclipse", "tptp", "trace", "ui"], ["java", "lang"]]]
+[{"field": [["org", "eclipse", "tptp", "platform", "execution"], ["org", "eclipse", "tptp", "platform", "jvmti"], ["org", "eclipse", "tptp", "trace", "ui"]], "deep": 5, "interest_field": "org.eclipse.tptp.platform.jvmti", "interest_length": 5, "interest_start": 13, "interest_end": 17}]

@@ -1,1 +1,1 @@
-[[], [["org", "eclipse"], ["java", "security"], ["java", "lang"]]]
+[{"field": [], "deep": 0, "interest_field": null, "interest_length": 0, "interest_start": 0, "interest_end": 0}, {"field": [["org", "eclipse", "ui"], ["org", "eclipse", "jdt"], ["org", "eclipse", "osgi"], ["java", "security"], ["org", "eclipse", "core"], ["org", "eclipse", "jst"], ["org", "eclipse", "jem"], ["org", "eclipse", "wst"], ["org", "eclipse", "wtp"]], "deep": 3, "interest_field": "org.eclipse.wst", "interest_length": 10, "interest_start": 58, "interest_end": 67}]

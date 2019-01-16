@@ -1,1 +1,1 @@
-[[["sun"], ["java"], ["org"], ["groovy"]], []]
+[{"field": [["org", "codehaus", "groovy", "reflection"], ["groovy", "lang"], ["org", "codehaus", "groovy", "runtime", "metaclass"], ["org", "codehaus", "groovy", "runtime"]], "deep": 6, "interest_field": "groovy.lang", "interest_length": 3, "interest_start": 9, "interest_end": 11}, {"field": [], "deep": 0, "interest_field": null, "interest_length": 0, "interest_start": 0, "interest_end": 0}]

@@ -1,1 +1,1 @@
-[[["X", "foo"], ["X", "main"]]]
+[{"field": [["X", "foo"], ["X", "main"]], "deep": 3, "interest_field": "X.foo", "interest_length": 1, "interest_start": 0, "interest_end": 0}]

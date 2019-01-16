@@ -1,1 +1,1 @@
-[[["org", "eclipse", "core"], ["org", "eclipse", "osgi"], ["java", "lang"], ["org", "eclipse", "tptp"], ["org", "eclipse", "debug"]]]
+[{"field": [["org", "eclipse", "core"], ["org", "eclipse", "osgi"], ["org", "eclipse", "tptp"], ["org", "eclipse", "debug"]], "deep": 3, "interest_field": "org.eclipse.osgi", "interest_length": 10, "interest_start": 1, "interest_end": 10}]

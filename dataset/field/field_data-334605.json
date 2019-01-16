@@ -1,1 +1,1 @@
-[[["org", "eclipse", "core", "runtime"], ["org", "eclipse", "mylyn", "tasks"], ["com", "assembla", "mylyn", "core"], ["org", "eclipse", "mylyn", "internal"], ["org", "eclipse", "core", "internal"]]]
+[{"field": [["org", "eclipse", "core", "runtime"], ["org", "eclipse", "mylyn", "tasks"], ["com", "assembla", "mylyn", "core"], ["org", "eclipse", "mylyn", "internal"], ["org", "eclipse", "core", "internal"]], "deep": 4, "interest_field": "org.eclipse.mylyn.tasks", "interest_length": 4, "interest_start": 2, "interest_end": 5}]

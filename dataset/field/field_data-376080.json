@@ -1,1 +1,1 @@
-[[["org", "aspectj", "weaver", "bcel"], ["org", "aspectj", "weaver", "loadtime"], ["hudson"], ["org", "hudsonci", "inject", "internal"]]]
+[{"field": [["org", "aspectj", "weaver", "bcel"], ["org", "aspectj", "weaver", "loadtime"], ["hudson"], ["org", "hudsonci", "inject", "internal"]], "deep": 4, "interest_field": "org.aspectj.weaver.loadtime", "interest_length": 8, "interest_start": 5, "interest_end": 12}]

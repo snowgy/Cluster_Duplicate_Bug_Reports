@@ -1,1 +1,1 @@
-[[["org", "dom4j", "io"], ["hudson", "tasks", "junit"]], [["org", "dom4j", "io"]]]
+[{"field": [["org", "dom4j", "io"], ["hudson", "tasks", "junit"]], "deep": 4, "interest_field": "org.dom4j.io", "interest_length": 2, "interest_start": 0, "interest_end": 1}, {"field": [["org", "dom4j", "io"]], "deep": 4, "interest_field": "org.dom4j.io", "interest_length": 1, "interest_start": 0, "interest_end": 0}]

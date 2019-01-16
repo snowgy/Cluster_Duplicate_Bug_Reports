@@ -1,1 +1,1 @@
-[[], [["org"], ["sun"], ["java"], ["com"]], [["org", "eclipse", "jetty", "io"], ["java", "util", "concurrent"]]]
+[{"field": [], "deep": 0, "interest_field": null, "interest_length": 0, "interest_start": 0, "interest_end": 0}, {"field": [["org"], ["java"], ["com"]], "deep": 1, "interest_field": "org", "interest_length": 6, "interest_start": 6, "interest_end": 11}, {"field": [["org", "eclipse", "jetty", "io"], ["java", "util", "concurrent"]], "deep": 5, "interest_field": "java.util.concurrent", "interest_length": 4, "interest_start": 2, "interest_end": 5}]

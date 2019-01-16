@@ -1,1 +1,1 @@
-[[], [["com", "google", "inject", "internal", "util"], ["com", "google", "inject", "internal"], ["org", "eclipse", "xtend", "maven"]]]
+[{"field": [], "deep": 0, "interest_field": null, "interest_length": 0, "interest_start": 0, "interest_end": 0}, {"field": [["com", "google", "inject", "internal", "util"], ["com", "google", "inject", "internal"], ["org", "eclipse", "xtend", "maven"]], "deep": 6, "interest_field": "com.google.inject.internal", "interest_length": 5, "interest_start": 3, "interest_end": 7}]

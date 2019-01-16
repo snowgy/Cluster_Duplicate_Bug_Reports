@@ -1,1 +1,1 @@
-[[["java", "lang"], ["java", "security"], ["java", "net"], ["org", "codehaus"]], []]
+[{"field": [["java", "security"], ["java", "net"], ["org", "codehaus"]], "deep": 2, "interest_field": "org.codehaus", "interest_length": 10, "interest_start": 5, "interest_end": 14}, {"field": [], "deep": 0, "interest_field": null, "interest_length": 0, "interest_start": 0, "interest_end": 0}]

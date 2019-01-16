@@ -1,1 +1,1 @@
-[[["java"], ["com"], ["org"], ["sun"]], [["java", "lang"], ["java", "util"]], [["java", "net"], ["java", "lang"]]]
+[{"field": [["java"], ["com"], ["org"]], "deep": 1, "interest_field": "org", "interest_length": 19, "interest_start": 19, "interest_end": 37}, {"field": [["java", "util"]], "deep": 3, "interest_field": "java.util", "interest_length": 1, "interest_start": 0, "interest_end": 0}, {"field": [["java", "net"]], "deep": 3, "interest_field": "java.net", "interest_length": 3, "interest_start": 0, "interest_end": 2}]

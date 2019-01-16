@@ -1,1 +1,1 @@
-[[["com", "ibm", "ws", "webcontainer"], ["com", "ibm", "ws", "http"], ["com", "ibm", "ws", "tcp"], ["com", "ibm", "io", "async"], ["com", "ibm", "ws", "util"]]]
+[{"field": [["com", "ibm", "ws", "webcontainer"], ["com", "ibm", "ws", "http"], ["com", "ibm", "ws", "tcp"], ["com", "ibm", "io", "async"], ["com", "ibm", "ws", "util"]], "deep": 4, "interest_field": "com.ibm.ws.webcontainer", "interest_length": 11, "interest_start": 0, "interest_end": 10}]

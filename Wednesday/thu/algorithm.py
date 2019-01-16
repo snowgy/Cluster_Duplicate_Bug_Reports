@@ -2,8 +2,8 @@ import json
 import os
 from itertools import combinations
 from sklearn.metrics import classification_report
-from thu.stack_package_index import StackPackageIndex
-from thu.report_loader import ReportLoader
+from stack_package_index import StackPackageIndex
+from report_loader import ReportLoader
 
 # 计算某一 stack 与另一 stack 的结果
 class Algorithm:
@@ -84,47 +84,22 @@ class Algorithm:
                 'methodname': caller_method_name
             }
         }
-    def calculate(self, stack_1, stack_2):
+    def calculate(self, stack_id1, stack_id2, stack_1, stack_2):
         if stack_1["exception"] != stack_2['exception']:
             return False
         # print(stack_2['exception'])
         # print(len(stack_1['calls']))
-        # step1 计算 stack 是否为包含关系
-        package_index = self.stackPackageIndex.calculate(stack_1, stack_2)
-        if not package_index['is_contain']: return False
-        # else: return True
+        # step1 计算 stack 是否为同领域，包含关系 或者 重合指数大于 80%
+        package_index = self.stackPackageIndex.calculate(stack_id1, stack_id2)
+        if not package_index['is_contain'] \
+          and package_index['dup_index'] < 0.8:
+          return False
 
         if len(stack_1['calls']) == 0: return False
         if len(stack_2['calls']) == 0: return False
         stack_info1 = self.fetch_info(stack_1)
         stack_info2 = self.fetch_info(stack_2)
         return self.equals(stack_info1, stack_info2)
-        
-    # # private
-    # def calculate(self, stack_1, stack_2):
-    #     global i_2, i_1
-    #     if stack_1["exception"] != stack_2['exception']:
-    #         return False
-
-    #     package_name = stack_1["calls"][0]["package"]
-    #     for i_1 in range(len(stack_1["calls"])):
-    #         if stack_1["calls"][i_1]["package"] != package_name:
-    #             break
-
-    #     for i_2 in range(len(stack_2["calls"])):
-    #         if stack_2["calls"][i_2]["package"] != package_name:
-    #             break
-
-    #     # if stack_1["calls"][i_1 - 1] == stack_2["calls"][i_2 - 1] and stack_1["calls"][i_1 - 2] == stack_2["calls"][i_2 - 2]:
-    #     #     if stack_1["calls"][i_1] == stack_2["calls"][i_2] and stack_1["calls"][i_1+1] == stack_2["calls"][i_2+1]:
-    #     #         if stack_1["calls"][0] == stack_2["calls"][0]:
-    #     #             return True
-
-    #     if stack_1["calls"][i_1 - 1] == stack_2["calls"][i_2 - 1]:
-    #         if stack_1["calls"][i_1] == stack_2["calls"][i_2]:
-    #             return True
-    #     # default
-    #     return False
 
     def start(self, report_set1, report_set2):
         try:
@@ -137,11 +112,12 @@ class Algorithm:
             #     return True
             for stack_0 in report_set1["stack_arr"]:
                 for stack_1 in report_set2["stack_arr"]:
-                    if self.calculate(stack_0, stack_1):
+                    if self.calculate(report_set1["stack_id"], report_set2["stack_id"], stack_0, stack_1):
                         return True
             return False
-        except:
+        except Exception as e:
             print(report_set1["stack_id"], report_set2["stack_id"])
+            print(str(e))
             return False
 
 # 结果处理

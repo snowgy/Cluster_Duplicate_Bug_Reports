@@ -1,1 +1,1 @@
-[[], [["org", "junit"], ["org", "eclipse", "sirius", "tests", "swtbot", "support", "api"], ["org", "eclipse", "sirius", "tests", "swtbot", "sequence"]]]
+[{"field": [], "deep": 0, "interest_field": null, "interest_length": 0, "interest_start": 0, "interest_end": 0}, {"field": [["org", "junit"], ["org", "eclipse", "sirius", "tests", "swtbot", "support", "api"], ["org", "eclipse", "sirius", "tests", "swtbot", "sequence"]], "deep": 8, "interest_field": "org.eclipse.sirius.tests.swtbot.support.api", "interest_length": 3, "interest_start": 1, "interest_end": 3}]

@@ -1,1 +1,1 @@
-[[], [["org", "eclipse", "jpt"], ["org", "eclipse", "ui"], ["org", "eclipse", "e4"]]]
+[{"field": [], "deep": 0, "interest_field": null, "interest_length": 0, "interest_start": 0, "interest_end": 0}, {"field": [["org", "eclipse", "jpt"], ["org", "eclipse", "ui"], ["org", "eclipse", "e4"]], "deep": 3, "interest_field": "org.eclipse.ui", "interest_length": 2, "interest_start": 1, "interest_end": 2}]

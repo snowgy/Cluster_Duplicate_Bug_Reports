@@ -1,1 +1,1 @@
-[[["org", "maven"], ["org", "eclipse"], ["org", "sonatype"]], [["org", "maven"], ["org", "eclipse"], ["org", "sonatype"]]]
+[{"field": [["org", "maven"], ["org", "eclipse"], ["org", "sonatype"]], "deep": 2, "interest_field": "org.eclipse", "interest_length": 3, "interest_start": 1, "interest_end": 3}, {"field": [["org", "maven"], ["org", "eclipse"], ["org", "sonatype"]], "deep": 2, "interest_field": "org.eclipse", "interest_length": 4, "interest_start": 1, "interest_end": 4}]

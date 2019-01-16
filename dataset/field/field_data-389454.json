@@ -1,1 +1,1 @@
-[[], [["at"], ["org"], ["sun"], ["java"]]]
+[{"field": [], "deep": 0, "interest_field": null, "interest_length": 0, "interest_start": 0, "interest_end": 0}, {"field": [["at", "bestsolution", "efxclipse"], ["org", "eclipse", "xtext"], ["org", "eclipse", "jface"], ["org", "eclipse", "swt"], ["org", "eclipse", "ui"], ["org", "eclipse", "e4"]], "deep": 3, "interest_field": "org.eclipse.xtext", "interest_length": 11, "interest_start": 2, "interest_end": 12}]

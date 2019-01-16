@@ -1,1 +1,1 @@
-[[["com"], ["javax"], ["org"]], [["org"], ["com"], ["sun"], ["java"]]]
+[{"field": [["com"], ["javax"], ["org"]], "deep": 1, "interest_field": "org", "interest_length": 17, "interest_start": 7, "interest_end": 23}, {"field": [["org", "eclipse"], ["com", "gwt"], ["com", "google"]], "deep": 2, "interest_field": "com.google", "interest_length": 21, "interest_start": 18, "interest_end": 38}]

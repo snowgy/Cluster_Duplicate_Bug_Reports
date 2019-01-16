@@ -1,1 +1,1 @@
-[[], [["oracle", "sql"], ["org", "eclipse", "persistence", "internal"], ["org", "eclipse", "persistence", "platform"], ["org", "eclipse", "persistence", "queries"]]]
+[{"field": [], "deep": 0, "interest_field": null, "interest_length": 0, "interest_start": 0, "interest_end": 0}, {"field": [["oracle", "sql"], ["org", "eclipse", "persistence", "internal"], ["org", "eclipse", "persistence", "platform"], ["org", "eclipse", "persistence", "queries"]], "deep": 4, "interest_field": "org.eclipse.persistence.internal", "interest_length": 12, "interest_start": 24, "interest_end": 35}]

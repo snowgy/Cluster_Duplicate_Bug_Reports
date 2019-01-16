@@ -1,1 +1,1 @@
-[[], [["org", "eclipse", "rcptt", "internal", "core", "model"]]]
+[{"field": [], "deep": 0, "interest_field": null, "interest_length": 0, "interest_start": 0, "interest_end": 0}, {"field": [["org", "eclipse", "rcptt", "internal", "core", "model"]], "deep": 7, "interest_field": "org.eclipse.rcptt.internal.core.model", "interest_length": 5, "interest_start": 0, "interest_end": 4}]

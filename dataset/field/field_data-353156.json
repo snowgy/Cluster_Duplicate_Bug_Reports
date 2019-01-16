@@ -1,1 +1,1 @@
-[[["java", "lang"], ["org", "eclipse", "ptp", "rm", "jaxb", "control", "internal", "data"], ["org", "eclipse", "ptp", "rm", "jaxb", "control", "internal", "runnable", "command"]]]
+[{"field": [["org", "eclipse", "ptp", "rm", "jaxb", "control", "internal", "data"], ["org", "eclipse", "ptp", "rm", "jaxb", "control", "internal", "runnable", "command"]], "deep": 10, "interest_field": "org.eclipse.ptp.rm.jaxb.control.internal.data", "interest_length": 4, "interest_start": 0, "interest_end": 3}]

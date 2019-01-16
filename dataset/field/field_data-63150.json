@@ -1,1 +1,1 @@
-[[["java"], ["org"], ["sun"]], []]
+[{"field": [["org", "eclipse", "core", "runtime", "adaptor"], ["org", "eclipse", "core", "launcher"]], "deep": 6, "interest_field": "org.eclipse.core.launcher", "interest_length": 3, "interest_start": 1, "interest_end": 3}, {"field": [], "deep": 0, "interest_field": null, "interest_length": 0, "interest_start": 0, "interest_end": 0}]

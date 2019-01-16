@@ -1,1 +1,1 @@
-[[["org", "hibernate", "type"], ["org", "hibernate", "action"], ["org", "hibernate", "engine"], ["org", "hibernate", "impl"], ["org", "hibernate", "transaction"], ["org", "hibernate", "ejb"]]]
+[{"field": [["org", "hibernate", "type"], ["org", "hibernate", "action"], ["org", "hibernate", "engine"], ["org", "hibernate", "impl"], ["org", "hibernate", "transaction"], ["org", "hibernate", "ejb"]], "deep": 3, "interest_field": "org.hibernate.type", "interest_length": 4, "interest_start": 0, "interest_end": 3}]

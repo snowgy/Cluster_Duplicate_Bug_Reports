@@ -1,1 +1,1 @@
-[[["java", "nio"], ["org", "eclipse"], ["java", "io"], ["java", "util"]], [["java", "nio"], ["org", "eclipse"], ["java", "io"], ["java", "util"], ["java", "lang"]]]
+[{"field": [["java", "nio"], ["org", "eclipse"], ["java", "io"], ["java", "util"]], "deep": 2, "interest_field": "org.eclipse", "interest_length": 11, "interest_start": 14, "interest_end": 24}, {"field": [["java", "nio"], ["org", "eclipse"], ["java", "io"], ["java", "util"]], "deep": 2, "interest_field": "org.eclipse", "interest_length": 26, "interest_start": 14, "interest_end": 39}]

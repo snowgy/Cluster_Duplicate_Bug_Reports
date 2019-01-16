@@ -1,1 +1,1 @@
-[[], [["com", "ibm", "mq"], ["com", "ibm", "ejs"], ["com", "ibm", "ws"]]]
+[{"field": [], "deep": 0, "interest_field": null, "interest_length": 0, "interest_start": 0, "interest_end": 0}, {"field": [["com", "ibm", "mq"], ["com", "ibm", "ejs"], ["com", "ibm", "ws"]], "deep": 3, "interest_field": "com.ibm.mq", "interest_length": 7, "interest_start": 0, "interest_end": 6}]

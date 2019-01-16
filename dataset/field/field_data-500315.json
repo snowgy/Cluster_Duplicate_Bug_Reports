@@ -1,1 +1,1 @@
-[[["javax"], ["sun"], ["java"], ["org"]]]
+[{"field": [["javax", "servlet", "http"], ["org", "springframework", "util"], ["org", "springframework", "security"]], "deep": 3, "interest_field": "javax.servlet.http", "interest_length": 2, "interest_start": 0, "interest_end": 1}]

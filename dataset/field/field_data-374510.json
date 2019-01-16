@@ -1,1 +1,1 @@
-[[["org", "eclipse", "update", "internal", "configurator"], ["org", "eclipse", "osgi", "framework", "internal", "core"], ["java", "security"]]]
+[{"field": [["org", "eclipse", "update", "internal", "configurator"], ["org", "eclipse", "osgi", "framework", "internal", "core"], ["java", "security"]], "deep": 7, "interest_field": "org.eclipse.update.internal.configurator", "interest_length": 13, "interest_start": 0, "interest_end": 12}]

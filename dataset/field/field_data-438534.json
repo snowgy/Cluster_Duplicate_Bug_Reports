@@ -1,1 +1,1 @@
-[[], [["com", "ssn", "acx", "core", "cdi"]]]
+[{"field": [], "deep": 0, "interest_field": null, "interest_length": 0, "interest_start": 0, "interest_end": 0}, {"field": [["com", "ssn", "acx", "core", "cdi"]], "deep": 6, "interest_field": "com.ssn.acx.core.cdi", "interest_length": 1, "interest_start": 0, "interest_end": 0}]

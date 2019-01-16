@@ -1,1 +1,1 @@
-[[], [["org", "eclipse", "equinox", "internal", "p2"], ["org", "eclipse", "equinox", "p2", "metadata"], ["org", "eclipse", "equinox", "p2", "query"]]]
+[{"field": [], "deep": 0, "interest_field": null, "interest_length": 0, "interest_start": 0, "interest_end": 0}, {"field": [["org", "eclipse", "equinox", "internal", "p2"], ["org", "eclipse", "equinox", "p2", "metadata"], ["org", "eclipse", "equinox", "p2", "query"]], "deep": 5, "interest_field": "org.eclipse.equinox.internal.p2", "interest_length": 9, "interest_start": 0, "interest_end": 8}]

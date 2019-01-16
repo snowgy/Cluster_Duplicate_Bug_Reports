@@ -1,1 +1,1 @@
-[[["java", "lang"], ["org", "eclipse", "jetty", "xml"]], [["java", "net"], ["java", "lang"], ["sun", "misc"]]]
+[{"field": [["org", "eclipse", "jetty", "xml"]], "deep": 5, "interest_field": "org.eclipse.jetty.xml", "interest_length": 5, "interest_start": 0, "interest_end": 4}, {"field": [["java", "net"]], "deep": 3, "interest_field": "java.net", "interest_length": 2, "interest_start": 0, "interest_end": 1}]

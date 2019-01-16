@@ -1,1 +1,1 @@
-[[["org", "eclipse", "net4j", "util"], ["org", "eclipse", "net4j", "util", "concurrent"], ["java", "util", "concurrent", "locks"], ["java", "util", "concurrent"]]]
+[{"field": [["org", "eclipse", "net4j", "util"], ["org", "eclipse", "net4j", "util", "concurrent"], ["java", "util", "concurrent", "locks"], ["java", "util", "concurrent"]], "deep": 6, "interest_field": "java.util.concurrent.locks", "interest_length": 2, "interest_start": 2, "interest_end": 3}]

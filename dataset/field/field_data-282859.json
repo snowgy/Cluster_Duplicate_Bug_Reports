@@ -1,1 +1,1 @@
-[[["org", "hibernate"], ["org", "eclipse"], ["java", "util"], ["java", "lang"]], [["org"], ["sun"], ["java"], ["junit"]]]
+[{"field": [["org", "hibernate"], ["org", "eclipse"], ["java", "util"]], "deep": 2, "interest_field": "org.hibernate", "interest_length": 16, "interest_start": 0, "interest_end": 15}, {"field": [["org", "hibernate"], ["org", "eclipse"], ["junit", "framework"]], "deep": 2, "interest_field": "org.eclipse", "interest_length": 17, "interest_start": 20, "interest_end": 36}]

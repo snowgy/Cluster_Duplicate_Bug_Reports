@@ -1,1 +1,1 @@
-[[["org", "eclipse", "core", "boot"], ["org", "eclipse", "core", "launcher"], ["com", "apple", "buckyball", "app"]]]
+[{"field": [["org", "eclipse", "core", "boot"], ["org", "eclipse", "core", "launcher"], ["com", "apple", "buckyball", "app"]], "deep": 4, "interest_field": "org.eclipse.core.launcher", "interest_length": 3, "interest_start": 1, "interest_end": 3}]

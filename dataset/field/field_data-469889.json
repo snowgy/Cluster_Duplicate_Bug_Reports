@@ -1,1 +1,1 @@
-[[["BImpl", "getValue"], ["Main", "main"]], [["BImpl", "getValue"], ["Main", "main"]]]
+[{"field": [["BImpl", "getValue"], ["Main", "main"]], "deep": 3, "interest_field": "BImpl.getValue", "interest_length": 1, "interest_start": 0, "interest_end": 0}, {"field": [["BImpl", "getValue"], ["Main", "main"]], "deep": 3, "interest_field": "BImpl.getValue", "interest_length": 1, "interest_start": 0, "interest_end": 0}]

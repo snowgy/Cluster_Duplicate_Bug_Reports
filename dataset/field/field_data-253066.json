@@ -1,1 +1,1 @@
-[[["org", "tigris"], ["org", "tmatesoft"], ["org", "polarion"]], [["org", "tmatesoft"], ["java", "io"], ["org", "eclipse"]]]
+[{"field": [["org", "tigris"], ["org", "tmatesoft"], ["org", "polarion"]], "deep": 2, "interest_field": "org.tmatesoft", "interest_length": 2, "interest_start": 1, "interest_end": 2}, {"field": [["org", "tmatesoft"], ["java", "io"], ["org", "eclipse"]], "deep": 2, "interest_field": "org.eclipse", "interest_length": 50, "interest_start": 10, "interest_end": 59}]

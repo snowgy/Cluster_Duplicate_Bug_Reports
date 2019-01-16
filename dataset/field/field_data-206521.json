@@ -1,1 +1,1 @@
-[[["org", "eclipse", "ohf"], ["com", "sage", "ohfservice"], ["com", "sage", "controller"]], [["org", "eclipse", "ohf", "ihe", "atna", "transport"]]]
+[{"field": [["org", "eclipse", "ohf"], ["com", "sage", "ohfservice"], ["com", "sage", "controller"]], "deep": 3, "interest_field": "org.eclipse.ohf", "interest_length": 4, "interest_start": 0, "interest_end": 3}, {"field": [["org", "eclipse", "ohf", "ihe", "atna", "transport"]], "deep": 7, "interest_field": "org.eclipse.ohf.ihe.atna.transport", "interest_length": 3, "interest_start": 0, "interest_end": 2}]

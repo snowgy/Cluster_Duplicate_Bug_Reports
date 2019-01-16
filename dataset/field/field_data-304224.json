@@ -1,1 +1,1 @@
-[[], [["org", "jboss", "ejb3"], ["org", "jboss", "aop"], ["org", "jboss", "aspects"], ["org", "jboss", "remoting"], ["org", "eclipse", "persistence"]]]
+[{"field": [], "deep": 0, "interest_field": null, "interest_length": 0, "interest_start": 0, "interest_end": 0}, {"field": [["org", "jboss", "ejb3"], ["org", "jboss", "aop"], ["org", "jboss", "aspects"], ["org", "jboss", "remoting"], ["org", "eclipse", "persistence"]], "deep": 3, "interest_field": "org.jboss.remoting", "interest_length": 8, "interest_start": 26, "interest_end": 33}]

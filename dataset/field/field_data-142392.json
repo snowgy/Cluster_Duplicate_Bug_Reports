@@ -1,1 +1,1 @@
-[[["javax", "servlet", "http"], ["org", "apache", "catalina"], ["org", "apache", "tomcat"]]]
+[{"field": [["javax", "servlet", "http"], ["org", "apache", "catalina"], ["org", "apache", "tomcat"]], "deep": 3, "interest_field": "org.apache.catalina", "interest_length": 8, "interest_start": 2, "interest_end": 9}]

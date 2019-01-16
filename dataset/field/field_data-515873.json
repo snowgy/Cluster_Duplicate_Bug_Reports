@@ -1,1 +1,1 @@
-[[], [["org", "eclipse"], ["java", "lang"], ["org", "apache"]]]
+[{"field": [], "deep": 0, "interest_field": null, "interest_length": 0, "interest_start": 0, "interest_end": 0}, {"field": [["org", "eclipse", "osgi", "internal", "loader"], ["org", "apache", "felix", "scr", "impl"], ["org", "eclipse", "osgi", "internal", "serviceregistry"]], "deep": 5, "interest_field": "org.apache.felix.scr.impl", "interest_length": 13, "interest_start": 4, "interest_end": 16}]

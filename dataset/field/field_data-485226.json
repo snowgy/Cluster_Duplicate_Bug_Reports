@@ -1,1 +1,1 @@
-[[], [["org"], ["java"], ["javax"]]]
+[{"field": [], "deep": 0, "interest_field": null, "interest_length": 0, "interest_start": 0, "interest_end": 0}, {"field": [["org", "eclipse", "jetty", "util"], ["org", "eclipse", "jetty", "io"], ["org", "eclipse", "jetty", "server"], ["org", "eclipse", "jetty", "servlet"], ["javax", "servlet", "http"], ["org", "eclipse", "jetty", "websocket"], ["org", "eclipse", "jetty", "security"]], "deep": 4, "interest_field": "org.eclipse.jetty.server", "interest_length": 7, "interest_start": 23, "interest_end": 29}]

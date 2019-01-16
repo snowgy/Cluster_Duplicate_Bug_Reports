@@ -1,1 +1,1 @@
-[[["java"], ["org"], ["sun"]]]
+[{"field": [["org", "springframework", "util"], ["org", "springframework", "beans"], ["org", "springframework", "context"], ["org", "springframework", "web"], ["org", "mortbay", "jetty"], ["org", "mortbay", "component"]], "deep": 3, "interest_field": "org.springframework.beans", "interest_length": 4, "interest_start": 3, "interest_end": 6}]

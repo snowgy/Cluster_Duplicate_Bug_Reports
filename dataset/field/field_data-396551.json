@@ -1,1 +1,1 @@
-[[["com", "sun"], ["org", "eclipse"], ["org", "junit"]], [["com", "sun", "jersey", "client"], ["com", "sun", "jersey", "api"], ["com", "sun", "jersey", "core"]]]
+[{"field": [["com", "sun"], ["org", "eclipse"], ["org", "junit"]], "deep": 2, "interest_field": "org.junit", "interest_length": 16, "interest_start": 8, "interest_end": 23}, {"field": [["com", "sun", "jersey", "client"], ["com", "sun", "jersey", "api"], ["com", "sun", "jersey", "core"]], "deep": 4, "interest_field": "com.sun.jersey.core", "interest_length": 4, "interest_start": 3, "interest_end": 6}]

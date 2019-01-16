@@ -1,1 +1,1 @@
-[[["com"], ["sun"], ["java"], ["org"]], [["java"], ["sun"], ["com"]]]
+[{"field": [["com", "caucho", "hessian", "client"], ["org", "eclipse", "riena", "communication"], ["org", "eclipse", "riena", "internal"]], "deep": 4, "interest_field": "com.caucho.hessian.client", "interest_length": 2, "interest_start": 0, "interest_end": 1}, {"field": [["java", "net"], ["com", "caucho", "hessian", "client"]], "deep": 5, "interest_field": "java.net", "interest_length": 6, "interest_start": 0, "interest_end": 5}]

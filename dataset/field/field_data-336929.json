@@ -1,1 +1,1 @@
-[[["org"], ["sun"], ["java"], ["com"], ["javax"]], [["sun"], ["java"], ["org"]], []]
+[{"field": [["org"], ["com"], ["javax"]], "deep": 1, "interest_field": "org", "interest_length": 22, "interest_start": 28, "interest_end": 49}, {"field": [["org", "eclipse", "virgo", "medic", "dump", "impl", "heap"]], "deep": 8, "interest_field": "org.eclipse.virgo.medic.dump.impl.heap", "interest_length": 1, "interest_start": 0, "interest_end": 0}, {"field": [], "deep": 0, "interest_field": null, "interest_length": 0, "interest_start": 0, "interest_end": 0}]

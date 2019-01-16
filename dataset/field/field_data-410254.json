@@ -1,1 +1,1 @@
-[[], [["net", "sourceforge", "nattable"], ["net", "sourceforge", "nattable", "export"]]]
+[{"field": [], "deep": 0, "interest_field": null, "interest_length": 0, "interest_start": 0, "interest_end": 0}, {"field": [["net", "sourceforge", "nattable"], ["net", "sourceforge", "nattable", "export"]], "deep": 5, "interest_field": "net.sourceforge.nattable.export", "interest_length": 3, "interest_start": 1, "interest_end": 3}]

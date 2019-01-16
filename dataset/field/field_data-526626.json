@@ -1,1 +1,1 @@
-[[["org", "eclipse", "jgit", "transport"], ["org", "eclipse", "jgit", "api"]], [["com", "jcraft", "jsch"], ["org", "eclipse", "jgit", "transport"]]]
+[{"field": [["org", "eclipse", "jgit", "transport"], ["org", "eclipse", "jgit", "api"]], "deep": 5, "interest_field": "org.eclipse.jgit.transport", "interest_length": 4, "interest_start": 0, "interest_end": 3}, {"field": [["com", "jcraft", "jsch"], ["org", "eclipse", "jgit", "transport"]], "deep": 5, "interest_field": "com.jcraft.jsch", "interest_length": 1, "interest_start": 0, "interest_end": 0}]

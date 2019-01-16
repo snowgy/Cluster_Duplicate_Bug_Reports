@@ -1,1 +1,1 @@
-[[], [["ClasspathProbe_probe$Probe_0"], ["java"], ["com"]]]
+[{"field": [], "deep": 0, "interest_field": null, "interest_length": 0, "interest_start": 0, "interest_end": 0}, {"field": [["ClasspathProbe_probe$Probe_0", "<clinit>"], ["com", "sample", "test"]], "deep": 4, "interest_field": "ClasspathProbe_probe$Probe_0.<clinit>", "interest_length": 1, "interest_start": 0, "interest_end": 0}]

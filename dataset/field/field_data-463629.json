@@ -1,1 +1,1 @@
-[[], [["org"], ["sun"], ["java"]]]
+[{"field": [], "deep": 0, "interest_field": null, "interest_length": 0, "interest_start": 0, "interest_end": 0}, {"field": [["org", "eclipse", "persistence", "exceptions"], ["org", "eclipse", "persistence", "platform"], ["org", "eclipse", "persistence", "sessions"], ["org", "eclipse", "persistence", "internal"], ["org", "eclipse", "persistence", "services"]], "deep": 4, "interest_field": "org.eclipse.persistence.services", "interest_length": 3, "interest_start": 6, "interest_end": 8}]

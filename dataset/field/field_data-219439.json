@@ -1,1 +1,1 @@
-[[["org", "eclipse", "rwt", "internal", "browser"], ["org", "eclipse", "swt", "internal", "widgets"], ["org", "eclipse", "rwt", "internal", "lifecycle"], ["org", "eclipse", "rwt", "internal", "service"]]]
+[{"field": [["org", "eclipse", "rwt", "internal", "browser"], ["org", "eclipse", "swt", "internal", "widgets"], ["org", "eclipse", "rwt", "internal", "lifecycle"], ["org", "eclipse", "rwt", "internal", "service"]], "deep": 5, "interest_field": "org.eclipse.rwt.internal.service", "interest_length": 8, "interest_start": 8, "interest_end": 15}]

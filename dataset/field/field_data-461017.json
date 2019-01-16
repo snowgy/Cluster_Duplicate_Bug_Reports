@@ -1,1 +1,1 @@
-[[["org", "eclipse", "recommenders"], ["org", "eclipse", "core"], ["org", "eclipse", "osgi"], ["java", "security"], ["org", "eclipse", "ui"], ["org", "eclipse", "xtext"], ["org", "eclipse", "jface"]]]
+[{"field": [["org", "eclipse", "recommenders"], ["org", "eclipse", "core"], ["org", "eclipse", "osgi"], ["java", "security"], ["org", "eclipse", "ui"], ["org", "eclipse", "xtext"], ["org", "eclipse", "jface"]], "deep": 3, "interest_field": "org.eclipse.xtext", "interest_length": 6, "interest_start": 16, "interest_end": 21}]

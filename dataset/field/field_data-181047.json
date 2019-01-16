@@ -1,1 +1,1 @@
-[[], [["org", "eclipse", "cdt", "utils", "spawner"]]]
+[{"field": [], "deep": 0, "interest_field": null, "interest_length": 0, "interest_start": 0, "interest_end": 0}, {"field": [["org", "eclipse", "cdt", "utils", "spawner"]], "deep": 6, "interest_field": "org.eclipse.cdt.utils.spawner", "interest_length": 4, "interest_start": 0, "interest_end": 3}]

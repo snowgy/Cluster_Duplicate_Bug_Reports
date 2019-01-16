@@ -1,1 +1,1 @@
-[[["org", "eclipse", "emf", "emfstore", "client", "model", "changeTracking", "notification", "recording"], ["org", "eclipse", "emf", "emfstore", "client", "model", "impl"]]]
+[{"field": [["org", "eclipse", "emf", "emfstore", "client", "model", "changeTracking", "notification", "recording"], ["org", "eclipse", "emf", "emfstore", "client", "model", "impl"]], "deep": 10, "interest_field": "org.eclipse.emf.emfstore.client.model.impl", "interest_length": 3, "interest_start": 2, "interest_end": 4}]

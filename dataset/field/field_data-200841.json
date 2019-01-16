@@ -1,1 +1,1 @@
-[[], [["sun"], ["java"], ["org"]], []]
+[{"field": [], "deep": 0, "interest_field": null, "interest_length": 0, "interest_start": 0, "interest_end": 0}, {"field": [["java", "io"], ["org", "tp23"], ["org", "eclipse"], ["java", "security"]], "deep": 2, "interest_field": "org.tp23", "interest_length": 6, "interest_start": 1, "interest_end": 6}, {"field": [], "deep": 0, "interest_field": null, "interest_length": 0, "interest_start": 0, "interest_end": 0}]

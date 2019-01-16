@@ -1,1 +1,1 @@
-[[["org", "aspectj", "weaver"], ["org", "springframework", "aop"], ["org", "springframework", "beans"]]]
+[{"field": [["org", "aspectj", "weaver"], ["org", "springframework", "aop"], ["org", "springframework", "beans"]], "deep": 3, "interest_field": "org.springframework.beans", "interest_length": 12, "interest_start": 12, "interest_end": 23}]

@@ -1,1 +1,1 @@
-[[["org", "eclipse", "wst", "jsdt", "debug", "internal", "crossfire", "transport"], ["org", "eclipse", "wst", "jsdt", "debug", "transport", "packet"], ["java", "lang"]]]
+[{"field": [["org", "eclipse", "wst", "jsdt", "debug", "internal", "crossfire", "transport"], ["org", "eclipse", "wst", "jsdt", "debug", "transport", "packet"]], "deep": 9, "interest_field": "org.eclipse.wst.jsdt.debug.internal.crossfire.transport", "interest_length": 4, "interest_start": 0, "interest_end": 3}]

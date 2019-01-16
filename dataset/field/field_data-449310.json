@@ -1,1 +1,1 @@
-[[["org", "eclipse", "swt"], ["org", "eclipse", "draw2d"], ["org", "eclipse", "gmf"], ["org", "eclipse", "gef"], ["org", "eclipse", "e4"], ["org", "eclipse", "core"], ["org", "eclipse", "ui"], ["org", "eclipse", "equinox"]]]
+[{"field": [["org", "eclipse", "swt"], ["org", "eclipse", "draw2d"], ["org", "eclipse", "gmf"], ["org", "eclipse", "gef"], ["org", "eclipse", "e4"], ["org", "eclipse", "core"], ["org", "eclipse", "ui"], ["org", "eclipse", "equinox"]], "deep": 3, "interest_field": "org.eclipse.draw2d", "interest_length": 10, "interest_start": 10, "interest_end": 19}]

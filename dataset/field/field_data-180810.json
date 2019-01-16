@@ -1,1 +1,1 @@
-[[["myprobe_probe$Probe_0", "_entry"], ["StartStop", "main"]]]
+[{"field": [["myprobe_probe$Probe_0", "_entry"], ["StartStop", "main"]], "deep": 3, "interest_field": "myprobe_probe$Probe_0._entry", "interest_length": 1, "interest_start": 0, "interest_end": 0}]

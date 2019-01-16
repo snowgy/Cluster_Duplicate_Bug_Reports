@@ -1,1 +1,1 @@
-[[["org", "eclipse", "rap"], ["org", "eclipse", "swt"], ["javax", "servlet", "http"], ["org", "eclipse", "jetty"]]]
+[{"field": [["org", "eclipse", "rap"], ["org", "eclipse", "swt"], ["javax", "servlet", "http"], ["org", "eclipse", "jetty"]], "deep": 3, "interest_field": "org.eclipse.jetty", "interest_length": 23, "interest_start": 16, "interest_end": 38}]

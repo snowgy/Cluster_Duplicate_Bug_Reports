@@ -1,1 +1,1 @@
-[[["org", "apache", "lucene"], ["org", "eclipse", "help"], ["org", "eclipse", "core"]], [["sun"], ["java"], ["org"]]]
+[{"field": [["org", "apache", "lucene"], ["org", "eclipse", "help"], ["org", "eclipse", "core"]], "deep": 3, "interest_field": "org.eclipse.help", "interest_length": 7, "interest_start": 3, "interest_end": 9}, {"field": [["java", "nio"], ["org", "apache"], ["org", "eclipse"]], "deep": 2, "interest_field": "org.eclipse", "interest_length": 7, "interest_start": 3, "interest_end": 9}]

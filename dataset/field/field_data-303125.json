@@ -1,1 +1,1 @@
-[[["java", "util"], ["javax", "jmdns"], ["java", "lang"]]]
+[{"field": [["java", "util"], ["javax", "jmdns", "impl", "tasks"], ["javax", "jmdns", "impl"]], "deep": 5, "interest_field": "javax.jmdns.impl", "interest_length": 3, "interest_start": 3, "interest_end": 5}]

@@ -1,1 +1,1 @@
-[[["org", "eclipse", "osgi", "framework", "util"]], [["java", "util", "zip"]]]
+[{"field": [["org", "eclipse", "osgi", "framework", "util"]], "deep": 6, "interest_field": "org.eclipse.osgi.framework.util", "interest_length": 1, "interest_start": 0, "interest_end": 0}, {"field": [["java", "util", "zip"]], "deep": 4, "interest_field": "java.util.zip", "interest_length": 1, "interest_start": 0, "interest_end": 0}]

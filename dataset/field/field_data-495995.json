@@ -1,1 +1,1 @@
-[[["com", "sun", "jndi", "ldap"], ["javax", "naming", "spi"], ["javax", "naming"]]]
+[{"field": [["com", "sun", "jndi", "ldap"], ["javax", "naming", "spi"], ["javax", "naming"]], "deep": 5, "interest_field": "com.sun.jndi.ldap", "interest_length": 7, "interest_start": 0, "interest_end": 6}]

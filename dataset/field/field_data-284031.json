@@ -1,1 +1,1 @@
-[[["sun"], ["java"], ["org"]]]
+[{"field": [["java", "io"], ["org", "eclipse", "osgi", "util"], ["org", "eclipse", "equinox", "internal", "p2", "core", "helpers"], ["org", "eclipse", "equinox", "internal", "p2", "touchpoint", "eclipse"], ["org", "eclipse", "equinox", "internal", "p2", "touchpoint", "eclipse", "actions"]], "deep": 9, "interest_field": "java.io", "interest_length": 4, "interest_start": 0, "interest_end": 3}]

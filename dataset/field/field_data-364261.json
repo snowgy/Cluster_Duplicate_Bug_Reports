@@ -1,1 +1,1 @@
-[[["eglx"], ["java"], ["org"], ["javax"]], [["com", "mysql", "jdbc"], ["eglx", "persistence", "sql"]]]
+[{"field": [["eglx"], ["org"], ["javax"]], "deep": 1, "interest_field": "org", "interest_length": 11, "interest_start": 15, "interest_end": 25}, {"field": [["com", "mysql", "jdbc"], ["eglx", "persistence", "sql"]], "deep": 4, "interest_field": "com.mysql.jdbc", "interest_length": 3, "interest_start": 0, "interest_end": 2}]

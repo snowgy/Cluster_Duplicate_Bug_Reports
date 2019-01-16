@@ -1,1 +1,1 @@
-[[["org", "eclipse", "emf", "ecore"], ["org", "eclipse", "papyrus", "toolsmiths"], ["org", "eclipse", "papyrus", "uml"], ["org", "eclipse", "emf", "transaction"], ["org", "eclipse", "emf", "common"]]]
+[{"field": [["org", "eclipse", "emf", "ecore"], ["org", "eclipse", "papyrus", "toolsmiths"], ["org", "eclipse", "papyrus", "uml"], ["org", "eclipse", "emf", "transaction"], ["org", "eclipse", "emf", "common"]], "deep": 4, "interest_field": "org.eclipse.emf.ecore", "interest_length": 3, "interest_start": 0, "interest_end": 2}]

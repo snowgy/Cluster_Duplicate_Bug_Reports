@@ -1,1 +1,1 @@
-[[["org", "eclipse", "equinox", "http", "servlet", "internal", "servlet"], ["org", "eclipse", "equinox", "http", "servlet", "internal", "context"], ["org", "eclipse", "jetty", "server"]]]
+[{"field": [["org", "eclipse", "equinox", "http", "servlet", "internal", "servlet"], ["org", "eclipse", "equinox", "http", "servlet", "internal", "context"], ["org", "eclipse", "jetty", "server"]], "deep": 8, "interest_field": "org.eclipse.equinox.http.servlet.internal.servlet", "interest_length": 2, "interest_start": 0, "interest_end": 1}]

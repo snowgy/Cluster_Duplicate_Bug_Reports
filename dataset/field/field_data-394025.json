@@ -1,1 +1,1 @@
-[[["org", "springframework", "beans", "factory", "support"]], [["org"], ["sun"], ["java"]]]
+[{"field": [["org", "springframework", "beans", "factory", "support"]], "deep": 6, "interest_field": "org.springframework.beans.factory.support", "interest_length": 10, "interest_start": 0, "interest_end": 9}, {"field": [["org", "springframework", "beans"], ["org", "soluvas", "commons"], ["org", "soluvas", "security"]], "deep": 3, "interest_field": "org.springframework.beans", "interest_length": 3, "interest_start": 0, "interest_end": 2}]

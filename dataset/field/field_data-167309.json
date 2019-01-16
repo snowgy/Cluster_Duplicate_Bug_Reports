@@ -1,1 +1,1 @@
-[[["com"], ["org"], ["javax"]], [["org", "eclipse", "ohf", "ihe", "xds", "soap"], ["com", "ibm", "ihii", "xdssource"]]]
+[{"field": [["com"], ["org"], ["javax"]], "deep": 1, "interest_field": "org", "interest_length": 11, "interest_start": 1, "interest_end": 11}, {"field": [["org", "eclipse", "ohf", "ihe", "xds", "soap"], ["com", "ibm", "ihii", "xdssource"]], "deep": 7, "interest_field": "org.eclipse.ohf.ihe.xds.soap", "interest_length": 1, "interest_start": 0, "interest_end": 0}]

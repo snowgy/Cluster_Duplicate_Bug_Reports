@@ -1,1 +1,1 @@
-[[], [["org", "eclipse", "emf", "ecore", "resource", "impl"], ["org", "eclipse", "m2m", "qvt", "oml", "emf"], ["org", "eclipse", "m2m", "qvt", "oml", "common"]]]
+[{"field": [], "deep": 0, "interest_field": null, "interest_length": 0, "interest_start": 0, "interest_end": 0}, {"field": [["org", "eclipse", "emf", "ecore", "resource", "impl"], ["org", "eclipse", "m2m", "qvt", "oml", "emf"], ["org", "eclipse", "m2m", "qvt", "oml", "common"]], "deep": 6, "interest_field": "org.eclipse.emf.ecore.resource.impl", "interest_length": 3, "interest_start": 0, "interest_end": 2}]

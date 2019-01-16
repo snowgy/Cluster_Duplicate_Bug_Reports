@@ -1,1 +1,1 @@
-[[["org", "eclipse", "core", "internal", "resources"], ["org", "eclipse", "buildship", "core", "workspace"], ["org", "eclipse", "buildship", "core", "util"], ["org", "eclipse", "core", "internal", "jobs"]]]
+[{"field": [["org", "eclipse", "core", "internal", "resources"], ["org", "eclipse", "buildship", "core", "workspace"], ["org", "eclipse", "buildship", "core", "util"], ["org", "eclipse", "core", "internal", "jobs"]], "deep": 5, "interest_field": "org.eclipse.buildship.core.workspace", "interest_length": 7, "interest_start": 3, "interest_end": 9}]

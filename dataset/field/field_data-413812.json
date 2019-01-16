@@ -1,1 +1,1 @@
-[[["com", "hazelcast", "nio"], ["com", "hazelcast", "impl"], ["com", "hazelcast", "web"], ["org", "eclipse", "jetty"]]]
+[{"field": [["com", "hazelcast", "nio"], ["com", "hazelcast", "impl"], ["com", "hazelcast", "web"], ["org", "eclipse", "jetty"]], "deep": 3, "interest_field": "org.eclipse.jetty", "interest_length": 4, "interest_start": 6, "interest_end": 9}]

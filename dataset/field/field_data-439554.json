@@ -1,1 +1,1 @@
-[[["java"], ["simple_test"], ["sun"], ["junit"], ["org"]], [["org", "eclipse", "osgi", "internal", "loader"], ["java", "lang"]]]
+[{"field": [["simple_test"], ["junit"], ["org"]], "deep": 1, "interest_field": "org", "interest_length": 18, "interest_start": 9, "interest_end": 26}, {"field": [["org", "eclipse", "osgi", "internal", "loader"]], "deep": 6, "interest_field": "org.eclipse.osgi.internal.loader", "interest_length": 4, "interest_start": 0, "interest_end": 3}]

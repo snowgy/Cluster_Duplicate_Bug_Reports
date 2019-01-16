@@ -1,1 +1,1 @@
-[[["org"], ["java"], ["sun"], ["com"]], [["org", "eclipse", "swt"], ["org", "eclipse", "swt", "widgets"], ["org", "eclipse", "equinox", "launcher"]]]
+[{"field": [["org"], ["java"], ["com"]], "deep": 1, "interest_field": "org", "interest_length": 163, "interest_start": 34, "interest_end": 196}, {"field": [["org", "eclipse", "swt"], ["org", "eclipse", "swt", "widgets"], ["org", "eclipse", "equinox", "launcher"]], "deep": 5, "interest_field": "org.eclipse.swt.widgets", "interest_length": 5, "interest_start": 3, "interest_end": 7}]

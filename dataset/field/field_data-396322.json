@@ -1,1 +1,1 @@
-[[], [["org", "apache", "openejb", "config"]], [["org", "eclipse", "osgi", "internal", "loader"]]]
+[{"field": [], "deep": 0, "interest_field": null, "interest_length": 0, "interest_start": 0, "interest_end": 0}, {"field": [["org", "apache", "openejb", "config"]], "deep": 5, "interest_field": "org.apache.openejb.config", "interest_length": 1, "interest_start": 0, "interest_end": 0}, {"field": [["org", "eclipse", "osgi", "internal", "loader"]], "deep": 6, "interest_field": "org.eclipse.osgi.internal.loader", "interest_length": 1, "interest_start": 0, "interest_end": 0}]

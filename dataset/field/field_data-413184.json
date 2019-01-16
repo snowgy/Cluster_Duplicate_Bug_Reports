@@ -1,1 +1,1 @@
-[[["org"], ["hudson"], ["java"]], [["com"], ["hudson"], ["org"]]]
+[{"field": [["org", "jvnet"], ["hudson", "model"], ["org", "eclipse"]], "deep": 2, "interest_field": "hudson.model", "interest_length": 2, "interest_start": 1, "interest_end": 2}, {"field": [["com"], ["hudson"], ["org"]], "deep": 1, "interest_field": "hudson", "interest_length": 8, "interest_start": 3, "interest_end": 10}]

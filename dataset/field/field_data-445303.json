@@ -1,1 +1,1 @@
-[[], [["org", "eclipse", "jetty", "io"], ["java", "lang"]]]
+[{"field": [], "deep": 0, "interest_field": null, "interest_length": 0, "interest_start": 0, "interest_end": 0}, {"field": [["org", "eclipse", "jetty", "io"]], "deep": 5, "interest_field": "org.eclipse.jetty.io", "interest_length": 3, "interest_start": 0, "interest_end": 2}]

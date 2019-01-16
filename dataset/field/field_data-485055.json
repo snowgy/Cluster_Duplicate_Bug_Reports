@@ -1,1 +1,1 @@
-[[], [["org", "aspectj", "apache", "bcel", "generic"], ["org", "aspectj", "weaver", "bcel"]], []]
+[{"field": [], "deep": 0, "interest_field": null, "interest_length": 0, "interest_start": 0, "interest_end": 0}, {"field": [["org", "aspectj", "apache", "bcel", "generic"], ["org", "aspectj", "weaver", "bcel"]], "deep": 6, "interest_field": "org.aspectj.weaver.bcel", "interest_length": 3, "interest_start": 2, "interest_end": 4}, {"field": [], "deep": 0, "interest_field": null, "interest_length": 0, "interest_start": 0, "interest_end": 0}]

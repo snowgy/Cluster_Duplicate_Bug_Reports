@@ -1,1 +1,1 @@
-[[["org", "eclipse", "tycho"], ["org", "apache", "maven"], ["org", "apache", "commons"], ["org", "eclipse", "sisu"]]]
+[{"field": [["org", "eclipse", "tycho"], ["org", "apache", "maven"], ["org", "apache", "commons"], ["org", "eclipse", "sisu"]], "deep": 3, "interest_field": "org.apache.commons", "interest_length": 5, "interest_start": 4, "interest_end": 8}]

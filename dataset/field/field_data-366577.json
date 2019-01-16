@@ -1,1 +1,1 @@
-[[], [["org", "apache", "felix", "gogo", "shell"], ["java", "lang"]]]
+[{"field": [], "deep": 0, "interest_field": null, "interest_length": 0, "interest_start": 0, "interest_end": 0}, {"field": [["org", "apache", "felix", "gogo", "shell"]], "deep": 6, "interest_field": "org.apache.felix.gogo.shell", "interest_length": 1, "interest_start": 0, "interest_end": 0}]

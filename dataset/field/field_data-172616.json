@@ -1,1 +1,1 @@
-[[], [["org", "apache", "muse", "tools", "inspector"], ["org", "apache", "muse", "tools", "generator"], ["org", "eclipse", "tptp", "wsdm", "tooling"]]]
+[{"field": [], "deep": 0, "interest_field": null, "interest_length": 0, "interest_start": 0, "interest_end": 0}, {"field": [["org", "apache", "muse", "tools", "inspector"], ["org", "apache", "muse", "tools", "generator"], ["org", "eclipse", "tptp", "wsdm", "tooling"]], "deep": 5, "interest_field": "org.apache.muse.tools.inspector", "interest_length": 4, "interest_start": 0, "interest_end": 3}]

@@ -1,1 +1,1 @@
-[[], [["org", "eclipse", "rap", "rwt", "osgi", "internal"]]]
+[{"field": [], "deep": 0, "interest_field": null, "interest_length": 0, "interest_start": 0, "interest_end": 0}, {"field": [["org", "eclipse", "rap", "rwt", "osgi", "internal"]], "deep": 7, "interest_field": "org.eclipse.rap.rwt.osgi.internal", "interest_length": 2, "interest_start": 0, "interest_end": 1}]

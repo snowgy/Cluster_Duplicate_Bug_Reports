@@ -1,1 +1,1 @@
-[[], [["java"], ["sun"], ["org"]]]
+[{"field": [], "deep": 0, "interest_field": null, "interest_length": 0, "interest_start": 0, "interest_end": 0}, {"field": [["java", "awt", "image"], ["org", "eclipse", "swt", "snippets"]], "deep": 5, "interest_field": "java.awt.image", "interest_length": 2, "interest_start": 0, "interest_end": 1}]

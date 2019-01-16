@@ -1,1 +1,1 @@
-[[], [], [["java"], ["net"], ["org"]]]
+[{"field": [], "deep": 0, "interest_field": null, "interest_length": 0, "interest_start": 0, "interest_end": 0}, {"field": [], "deep": 0, "interest_field": null, "interest_length": 0, "interest_start": 0, "interest_end": 0}, {"field": [["net", "sf", "cglib"], ["org", "jboss", "mx"], ["org", "jboss", "system"], ["org", "jboss", "deployment"], ["org", "jboss"]], "deep": 3, "interest_field": "org.jboss.mx", "interest_length": 9, "interest_start": 18, "interest_end": 26}]

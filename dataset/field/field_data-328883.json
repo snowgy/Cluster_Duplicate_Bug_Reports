@@ -1,1 +1,1 @@
-[[["org", "eclipse", "cdt", "dsf", "ui", "viewmodel", "update"], ["org", "eclipse", "cdt", "dsf", "concurrent"], ["org", "eclipse", "swt", "widgets"]]]
+[{"field": [["org", "eclipse", "cdt", "dsf", "ui", "viewmodel", "update"], ["org", "eclipse", "cdt", "dsf", "concurrent"], ["org", "eclipse", "swt", "widgets"]], "deep": 8, "interest_field": "org.eclipse.swt.widgets", "interest_length": 2, "interest_start": 2, "interest_end": 3}]

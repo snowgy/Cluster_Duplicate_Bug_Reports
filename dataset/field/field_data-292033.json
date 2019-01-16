@@ -1,1 +1,1 @@
-[[], [["com"], ["sun"], ["java"]]]
+[{"field": [], "deep": 0, "interest_field": null, "interest_length": 0, "interest_start": 0, "interest_end": 0}, {"field": [["com", "sun", "ts", "tests", "ejb30"], ["com", "sun", "ts", "lib", "harness"], ["com", "sun", "ts", "tests", "common"]], "deep": 5, "interest_field": "com.sun.ts.lib.harness", "interest_length": 4, "interest_start": 4, "interest_end": 7}]

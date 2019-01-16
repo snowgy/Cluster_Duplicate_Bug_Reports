@@ -1,1 +1,1 @@
-[[["org"], ["cef"], ["com"], ["sun"], ["java"]], [["java"], ["cef"], ["com"], ["org"], ["sun"]]]
+[{"field": [["org"], ["cef"], ["com"]], "deep": 1, "interest_field": "org", "interest_length": 29, "interest_start": 10, "interest_end": 38}, {"field": [["cef"], ["com"], ["org"]], "deep": 1, "interest_field": "org", "interest_length": 44, "interest_start": 9, "interest_end": 52}]

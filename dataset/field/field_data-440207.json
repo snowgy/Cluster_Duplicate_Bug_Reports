@@ -1,1 +1,1 @@
-[[], [["org", "apache", "wink", "common", "internal", "lifecycle"], ["org", "apache", "wink", "server", "internal", "servlet"], ["javax", "servlet"]]]
+[{"field": [], "deep": 0, "interest_field": null, "interest_length": 0, "interest_start": 0, "interest_end": 0}, {"field": [["org", "apache", "wink", "common", "internal", "lifecycle"], ["org", "apache", "wink", "server", "internal", "servlet"], ["javax", "servlet"]], "deep": 7, "interest_field": "org.apache.wink.common.internal.lifecycle", "interest_length": 4, "interest_start": 0, "interest_end": 3}]

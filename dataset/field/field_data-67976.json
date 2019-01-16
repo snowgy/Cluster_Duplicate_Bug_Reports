@@ -1,1 +1,1 @@
-[[["java", "lang"], ["org", "eclipse", "core", "runtime"], ["org", "eclipse", "jdt", "internal", "core"], ["org", "eclipse", "core", "internal", "resources"], ["org", "eclipse", "core", "internal", "jobs"]]]
+[{"field": [["org", "eclipse", "core", "runtime"], ["org", "eclipse", "jdt", "internal", "core"], ["org", "eclipse", "core", "internal", "resources"], ["org", "eclipse", "core", "internal", "jobs"]], "deep": 5, "interest_field": "org.eclipse.core.internal.resources", "interest_length": 3, "interest_start": 5, "interest_end": 7}]

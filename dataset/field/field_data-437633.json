@@ -1,1 +1,1 @@
-[[["org", "eclipse", "ecf", "provider", "filetransfer", "httpclient4"], ["org", "eclipse", "ecf", "provider", "filetransfer", "retrieve"], ["org", "eclipse", "equinox", "internal", "p2", "transport"]]]
+[{"field": [["org", "eclipse", "ecf", "provider", "filetransfer", "httpclient4"], ["org", "eclipse", "ecf", "provider", "filetransfer", "retrieve"], ["org", "eclipse", "equinox", "internal", "p2", "transport"]], "deep": 6, "interest_field": "org.eclipse.ecf.provider.filetransfer.retrieve", "interest_length": 3, "interest_start": 1, "interest_end": 3}]

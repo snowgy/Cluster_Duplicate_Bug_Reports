@@ -1,1 +1,1 @@
-[[["org", "jnp"], ["javax", "naming"], ["org", "jboss"]], [["org", "jnp", "interfaces"], ["java", "io"]]]
+[{"field": [["org", "jnp"], ["javax", "naming"], ["org", "jboss"]], "deep": 2, "interest_field": "org.jnp", "interest_length": 3, "interest_start": 0, "interest_end": 2}, {"field": [["org", "jnp", "interfaces"], ["java", "io"]], "deep": 4, "interest_field": "java.io", "interest_length": 3, "interest_start": 2, "interest_end": 4}]

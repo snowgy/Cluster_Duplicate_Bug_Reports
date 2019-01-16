@@ -1,1 +1,1 @@
-[[["org", "eclipse", "xtext"], ["org", "eclipse", "emf"], ["org", "eclipse", "core"]], [["org"], ["sun"], ["java"]]]
+[{"field": [["org", "eclipse", "xtext"], ["org", "eclipse", "emf"], ["org", "eclipse", "core"]], "deep": 3, "interest_field": "org.eclipse.xtext", "interest_length": 7, "interest_start": 23, "interest_end": 29}, {"field": [["org", "eclipse", "xtext", "xtext"], ["org", "eclipse", "xtext", "validation"]], "deep": 5, "interest_field": "org.eclipse.xtext.xtext", "interest_length": 1, "interest_start": 0, "interest_end": 0}]

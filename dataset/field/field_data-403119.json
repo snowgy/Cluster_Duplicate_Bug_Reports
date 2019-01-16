@@ -1,1 +1,1 @@
-[[["org", "eclipse", "jetty", "plus", "jaas"]], [["org", "apache"], ["java", "lang"], ["org", "eclipse"]]]
+[{"field": [["org", "eclipse", "jetty", "plus", "jaas"]], "deep": 6, "interest_field": "org.eclipse.jetty.plus.jaas", "interest_length": 2, "interest_start": 0, "interest_end": 1}, {"field": [["org", "apache", "felix", "framework"], ["org", "eclipse", "jetty", "plus", "jaas"]], "deep": 6, "interest_field": "org.apache.felix.framework", "interest_length": 3, "interest_start": 0, "interest_end": 2}]

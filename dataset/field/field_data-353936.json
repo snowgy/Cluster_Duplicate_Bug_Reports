@@ -1,1 +1,1 @@
-[[], [["com", "sun", "tools", "jdi"]]]
+[{"field": [], "deep": 0, "interest_field": null, "interest_length": 0, "interest_start": 0, "interest_end": 0}, {"field": [["com", "sun", "tools", "jdi"]], "deep": 5, "interest_field": "com.sun.tools.jdi", "interest_length": 2, "interest_start": 0, "interest_end": 1}]

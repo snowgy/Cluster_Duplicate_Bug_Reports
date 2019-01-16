@@ -1,1 +1,1 @@
-[[["org", "eclipse", "jgit"], ["org", "eclipse", "egit"], ["org", "eclipse", "core"]], [["org", "eclipse", "jgit", "merge"], ["org", "eclipse", "jgit", "api"]]]
+[{"field": [["org", "eclipse", "jgit"], ["org", "eclipse", "egit"], ["org", "eclipse", "core"]], "deep": 3, "interest_field": "org.eclipse.core", "interest_length": 2, "interest_start": 2, "interest_end": 3}, {"field": [["org", "eclipse", "jgit", "merge"], ["org", "eclipse", "jgit", "api"]], "deep": 5, "interest_field": "org.eclipse.jgit.merge", "interest_length": 7, "interest_start": 0, "interest_end": 6}]

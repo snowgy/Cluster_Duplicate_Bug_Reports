@@ -1,1 +1,1 @@
-[[["org", "eclipse", "core", "runtime"], ["org", "eclipse", "core", "internal"], ["org", "eclipse", "jdt", "internal"], ["org", "eclipse", "jdt", "core"]]]
+[{"field": [["org", "eclipse", "core", "runtime"], ["org", "eclipse", "core", "internal"], ["org", "eclipse", "jdt", "internal"], ["org", "eclipse", "jdt", "core"]], "deep": 4, "interest_field": "org.eclipse.jdt.internal", "interest_length": 31, "interest_start": 15, "interest_end": 45}]

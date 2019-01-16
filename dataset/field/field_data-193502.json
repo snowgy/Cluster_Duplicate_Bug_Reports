@@ -1,1 +1,1 @@
-[[["org", "eclipse", "ecf", "provider", "comm", "tcp"], ["org", "eclipse", "ecf", "provider", "generic"]]]
+[{"field": [["org", "eclipse", "ecf", "provider", "comm", "tcp"], ["org", "eclipse", "ecf", "provider", "generic"]], "deep": 7, "interest_field": "org.eclipse.ecf.provider.generic", "interest_length": 5, "interest_start": 2, "interest_end": 6}]

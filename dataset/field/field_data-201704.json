@@ -1,1 +1,1 @@
-[[], [["org", "eclipse", "swt", "internal"], ["org", "eclipse", "swt", "widgets"], ["org", "eclipse", "swt", "snippets"]]]
+[{"field": [], "deep": 0, "interest_field": null, "interest_length": 0, "interest_start": 0, "interest_end": 0}, {"field": [["org", "eclipse", "swt", "internal"], ["org", "eclipse", "swt", "widgets"], ["org", "eclipse", "swt", "snippets"]], "deep": 4, "interest_field": "org.eclipse.swt.internal", "interest_length": 3, "interest_start": 0, "interest_end": 2}]

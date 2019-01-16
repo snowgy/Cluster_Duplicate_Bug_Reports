@@ -1,1 +1,1 @@
-[[["org", "eclipse", "smarthome", "core", "common", "registry"], ["org", "eclipse", "smarthome", "core", "thing", "internal"], ["org", "eclipse", "smarthome", "core", "thing", "binding"]]]
+[{"field": [["org", "eclipse", "smarthome", "core", "common", "registry"], ["org", "eclipse", "smarthome", "core", "thing", "internal"], ["org", "eclipse", "smarthome", "core", "thing", "binding"]], "deep": 6, "interest_field": "org.eclipse.smarthome.core.common.registry", "interest_length": 1, "interest_start": 0, "interest_end": 0}]

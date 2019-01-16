@@ -1,1 +1,1 @@
-[[], [["org", "eclipse", "concierge"], ["org", "eclipse", "concierge", "compat", "service"]]]
+[{"field": [], "deep": 0, "interest_field": null, "interest_length": 0, "interest_start": 0, "interest_end": 0}, {"field": [["org", "eclipse", "concierge"], ["org", "eclipse", "concierge", "compat", "service"]], "deep": 6, "interest_field": "org.eclipse.concierge", "interest_length": 4, "interest_start": 0, "interest_end": 3}]

@@ -1,1 +1,1 @@
-[[["org"], ["com"], ["javax"], ["no"]], [["org"], ["com"], ["javax"]]]
+[{"field": [["org"], ["com"], ["javax"], ["no"]], "deep": 1, "interest_field": "org", "interest_length": 11, "interest_start": 0, "interest_end": 10}, {"field": [["org"], ["com"], ["javax"]], "deep": 1, "interest_field": "com", "interest_length": 13, "interest_start": 10, "interest_end": 22}]

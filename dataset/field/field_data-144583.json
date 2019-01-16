@@ -1,1 +1,1 @@
-[[["java", "lang"], ["org", "eclipse", "ptp", "core", "proxy", "event"], ["org", "eclipse", "ptp", "rtsystem", "proxy", "event"], ["org", "eclipse", "ptp", "rtsystem", "proxy"], ["org", "eclipse", "ptp", "core", "proxy"]]]
+[{"field": [["org", "eclipse", "ptp", "core", "proxy", "event"], ["org", "eclipse", "ptp", "rtsystem", "proxy", "event"], ["org", "eclipse", "ptp", "rtsystem", "proxy"], ["org", "eclipse", "ptp", "core", "proxy"]], "deep": 7, "interest_field": "org.eclipse.ptp.core.proxy", "interest_length": 4, "interest_start": 4, "interest_end": 7}]

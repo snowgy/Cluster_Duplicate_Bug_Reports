@@ -1,1 +1,1 @@
-[[["hudson", "remoting"], ["hudson"]], [["java", "lang"], ["hudson", "remoting"]]]
+[{"field": [["hudson", "remoting"], ["hudson"]], "deep": 3, "interest_field": "hudson.remoting", "interest_length": 1, "interest_start": 0, "interest_end": 0}, {"field": [["hudson", "remoting"]], "deep": 3, "interest_field": "hudson.remoting", "interest_length": 1, "interest_start": 0, "interest_end": 0}]

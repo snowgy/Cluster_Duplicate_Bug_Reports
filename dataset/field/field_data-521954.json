@@ -1,1 +1,1 @@
-[[], [], [["org"], ["javax"], ["jagtest22"]]]
+[{"field": [], "deep": 0, "interest_field": null, "interest_length": 0, "interest_start": 0, "interest_end": 0}, {"field": [], "deep": 0, "interest_field": null, "interest_length": 0, "interest_start": 0, "interest_end": 0}, {"field": [["org"], ["javax"], ["jagtest22"]], "deep": 1, "interest_field": "org", "interest_length": 7, "interest_start": 6, "interest_end": 12}]

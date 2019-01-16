@@ -1,1 +1,1 @@
-[[["org"], ["hudson"], ["sun"], ["java"]], [["org"], ["com"], ["java"]]]
+[{"field": [["org", "tmatesoft", "svn", "core", "internal", "io", "dav", "http"], ["org", "tmatesoft", "svn", "core", "internal", "io", "dav"], ["hudson", "scm"]], "deep": 9, "interest_field": "org.tmatesoft.svn.core.internal.io.dav", "interest_length": 5, "interest_start": 4, "interest_end": 8}, {"field": [["org"], ["com"], ["java"]], "deep": 1, "interest_field": "com", "interest_length": 9, "interest_start": 3, "interest_end": 11}]

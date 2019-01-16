@@ -1,1 +1,1 @@
-[[["hudson"], ["hudson", "tasks"], ["hudson", "model"]], [["java", "io"], ["hudson"]]]
+[{"field": [["hudson"], ["hudson", "tasks"], ["hudson", "model"]], "deep": 3, "interest_field": "hudson.model", "interest_length": 8, "interest_start": 5, "interest_end": 12}, {"field": [["java", "io"], ["hudson"]], "deep": 3, "interest_field": "java.io", "interest_length": 2, "interest_start": 0, "interest_end": 1}]

@@ -1,1 +1,1 @@
-[[["javax", "management"], ["org", "eclipse", "scada", "utils"], ["org", "eclipse", "scada", "hd"], ["org", "eclipse", "osgi", "framework"]]]
+[{"field": [["javax", "management"], ["org", "eclipse", "scada", "utils"], ["org", "eclipse", "scada", "hd"], ["org", "eclipse", "osgi", "framework"]], "deep": 4, "interest_field": "org.eclipse.osgi.framework", "interest_length": 14, "interest_start": 9, "interest_end": 22}]

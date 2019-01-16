@@ -1,1 +1,1 @@
-[[["org", "eclipse", "cdt"], ["org", "eclipse", "ui"], ["org", "eclipse", "jface"], ["org", "eclipse", "core"], ["org", "eclipse", "swt"], ["org", "eclipse", "update"], ["org", "eclipse", "equinox"]]]
+[{"field": [["org", "eclipse", "cdt"], ["org", "eclipse", "ui"], ["org", "eclipse", "jface"], ["org", "eclipse", "core"], ["org", "eclipse", "swt"], ["org", "eclipse", "update"], ["org", "eclipse", "equinox"]], "deep": 3, "interest_field": "org.eclipse.swt", "interest_length": 5, "interest_start": 16, "interest_end": 20}]

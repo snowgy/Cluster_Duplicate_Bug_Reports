@@ -1,1 +1,1 @@
-[[["java", "lang"], ["org", "eclipse", "fx", "core"], ["org", "eclipse", "fx", "ui", "workbench", "fx", "internal"], ["org", "eclipse", "fx", "ui", "workbench", "renderers", "fx"]]]
+[{"field": [["org", "eclipse", "fx", "core"], ["org", "eclipse", "fx", "ui", "workbench", "fx", "internal"], ["org", "eclipse", "fx", "ui", "workbench", "renderers", "fx"]], "deep": 8, "interest_field": "org.eclipse.fx.core", "interest_length": 3, "interest_start": 0, "interest_end": 2}]

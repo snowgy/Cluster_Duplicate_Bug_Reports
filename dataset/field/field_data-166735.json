@@ -1,1 +1,1 @@
-[[["org"], ["utility"], ["sun"], ["java"], ["junit"]], [["oracle"], ["org"], ["java"]]]
+[{"field": [["org"], ["utility"], ["junit"]], "deep": 1, "interest_field": "org", "interest_length": 24, "interest_start": 0, "interest_end": 23}, {"field": [["oracle"], ["org"], ["java"]], "deep": 1, "interest_field": "oracle", "interest_length": 7, "interest_start": 0, "interest_end": 6}]

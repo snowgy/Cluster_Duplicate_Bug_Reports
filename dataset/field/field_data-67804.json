@@ -1,1 +1,1 @@
-[[["org", "eclipse", "test"], ["org", "eclipse", "core", "runtime", "adaptor"], ["sun", "reflect"], ["org", "eclipse", "core", "launcher"]]]
+[{"field": [["org", "eclipse", "test"], ["org", "eclipse", "core", "runtime", "adaptor"], ["org", "eclipse", "core", "launcher"]], "deep": 6, "interest_field": "org.eclipse.test", "interest_length": 4, "interest_start": 0, "interest_end": 3}]

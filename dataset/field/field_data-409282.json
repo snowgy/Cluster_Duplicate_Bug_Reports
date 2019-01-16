@@ -1,1 +1,1 @@
-[[["org"], ["sun"], ["java"]], [["org", "eclipse", "jetty", "spdy"]]]
+[{"field": [["org", "eclipse"], ["org", "junit"], ["org", "apache"]], "deep": 2, "interest_field": "org.junit", "interest_length": 16, "interest_start": 3, "interest_end": 18}, {"field": [["org", "eclipse", "jetty", "spdy"]], "deep": 5, "interest_field": "org.eclipse.jetty.spdy", "interest_length": 3, "interest_start": 0, "interest_end": 2}]

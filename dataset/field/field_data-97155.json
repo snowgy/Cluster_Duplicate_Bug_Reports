@@ -1,1 +1,1 @@
-[[["java", "lang"], ["org", "apache", "log4j"], ["java", "lang", "reflect"]], [["java", "lang"], ["org", "apache"], ["org", "eclipse"]]]
+[{"field": [["org", "apache", "log4j"]], "deep": 4, "interest_field": "org.apache.log4j", "interest_length": 2, "interest_start": 0, "interest_end": 1}, {"field": [["org", "apache", "log4j"], ["org", "eclipse", "ui"], ["org", "eclipse", "core"]], "deep": 3, "interest_field": "org.eclipse.ui", "interest_length": 7, "interest_start": 2, "interest_end": 8}]

@@ -1,1 +1,1 @@
-[[["org", "eclipse", "php", "internal", "debug", "core", "zend"], ["org", "eclipse", "php", "internal", "debug", "core", "xdebug"], ["org", "eclipse", "php", "internal", "debug", "core", "daemon"]]]
+[{"field": [["org", "eclipse", "php", "internal", "debug", "core", "zend"], ["org", "eclipse", "php", "internal", "debug", "core", "xdebug"], ["org", "eclipse", "php", "internal", "debug", "core", "daemon"]], "deep": 7, "interest_field": "org.eclipse.php.internal.debug.core.xdebug", "interest_length": 9, "interest_start": 1, "interest_end": 9}]

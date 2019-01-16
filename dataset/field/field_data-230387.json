@@ -1,1 +1,1 @@
-[[["org", "eclipse", "emf"], ["org", "hibernate", "tuple"], ["org", "hibernate", "persister"], ["org", "hibernate", "engine"], ["org", "hibernate", "event"], ["org", "hibernate", "impl"], ["org", "eclipse", "net4j"]]]
+[{"field": [["org", "eclipse", "emf"], ["org", "hibernate", "tuple"], ["org", "hibernate", "persister"], ["org", "hibernate", "engine"], ["org", "hibernate", "event"], ["org", "hibernate", "impl"], ["org", "eclipse", "net4j"]], "deep": 3, "interest_field": "org.hibernate.engine", "interest_length": 9, "interest_start": 16, "interest_end": 24}]

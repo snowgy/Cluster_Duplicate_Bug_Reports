@@ -1,1 +1,1 @@
-[[], [["xdc", "services", "intern", "xsr"], ["org", "mozilla", "javascript"]]]
+[{"field": [], "deep": 0, "interest_field": null, "interest_length": 0, "interest_start": 0, "interest_end": 0}, {"field": [["xdc", "services", "intern", "xsr"], ["org", "mozilla", "javascript"]], "deep": 5, "interest_field": "xdc.services.intern.xsr", "interest_length": 4, "interest_start": 0, "interest_end": 3}]

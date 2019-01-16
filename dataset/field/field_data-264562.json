@@ -1,1 +1,1 @@
-[[["org"], ["Report"], ["myAnt"]], [["org", "eclipse", "birt", "core", "framework", "osgi"], ["org", "eclipse", "birt", "core", "framework"]]]
+[{"field": [["org"], ["Report"], ["myAnt"]], "deep": 1, "interest_field": "org", "interest_length": 12, "interest_start": 3, "interest_end": 14}, {"field": [["org", "eclipse", "birt", "core", "framework", "osgi"], ["org", "eclipse", "birt", "core", "framework"]], "deep": 7, "interest_field": "org.eclipse.birt.core.framework.osgi", "interest_length": 1, "interest_start": 0, "interest_end": 0}]

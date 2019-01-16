@@ -1,1 +1,1 @@
-[[["org"], ["ActionHandler"], ["Runner"], ["sun"], ["java"]], [["org"], ["sun"], ["java"]]]
+[{"field": [["org"], ["ActionHandler"], ["Runner"]], "deep": 1, "interest_field": "org", "interest_length": 118, "interest_start": 0, "interest_end": 117}, {"field": [["org", "eclipse", "swt"], ["org", "eclipse", "ui"], ["org", "eclipse", "e4"]], "deep": 3, "interest_field": "org.eclipse.swt", "interest_length": 5, "interest_start": 0, "interest_end": 4}]

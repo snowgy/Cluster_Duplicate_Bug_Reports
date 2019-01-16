@@ -1,1 +1,1 @@
-[[["org", "eclipse", "swtbot"], ["org", "eclipse", "ui"], ["java", "lang"], ["org", "eclipse", "mylyn"], ["org", "eclipse", "test"], ["org", "eclipse", "swt"]]]
+[{"field": [["org", "eclipse", "swtbot"], ["org", "eclipse", "ui"], ["org", "eclipse", "mylyn"], ["org", "eclipse", "test"], ["org", "eclipse", "swt"]], "deep": 3, "interest_field": "org.eclipse.swt", "interest_length": 8, "interest_start": 41, "interest_end": 48}]

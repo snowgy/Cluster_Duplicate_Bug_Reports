@@ -1,1 +1,1 @@
-[[["java"], ["org"], ["sun"], ["aQute"]], [["aQute", "libg", "version"], ["aQute", "lib", "osgi"]]]
+[{"field": [["org", "osgi"], ["org", "apache"], ["aQute", "lib"], ["org", "codehaus"]], "deep": 2, "interest_field": "org.apache", "interest_length": 18, "interest_start": 26, "interest_end": 43}, {"field": [["aQute", "libg", "version"], ["aQute", "lib", "osgi"]], "deep": 4, "interest_field": "aQute.libg.version", "interest_length": 1, "interest_start": 0, "interest_end": 0}]

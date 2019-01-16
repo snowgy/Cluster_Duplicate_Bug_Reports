@@ -1,1 +1,1 @@
-[[["org", "apache", "felix", "resolver"], ["org", "eclipse", "osgi", "container"]], [["org"], ["sun"], ["java"]]]
+[{"field": [["org", "apache", "felix", "resolver"], ["org", "eclipse", "osgi", "container"]], "deep": 5, "interest_field": "org.eclipse.osgi.container", "interest_length": 7, "interest_start": 3, "interest_end": 9}, {"field": [["org", "apache", "felix"], ["org", "eclipse", "osgi"], ["org", "eclipse", "core"], ["org", "eclipse", "equinox"]], "deep": 3, "interest_field": "org.eclipse.osgi", "interest_length": 17, "interest_start": 3, "interest_end": 19}]

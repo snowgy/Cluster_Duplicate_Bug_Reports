@@ -1,1 +1,1 @@
-[[["org", "eclipse", "emf", "transaction"], ["org", "eclipse", "emf", "workspace"], ["org", "eclipse", "core", "commands"]]]
+[{"field": [["org", "eclipse", "emf", "transaction"], ["org", "eclipse", "emf", "workspace"], ["org", "eclipse", "core", "commands"]], "deep": 4, "interest_field": "org.eclipse.emf.transaction", "interest_length": 4, "interest_start": 0, "interest_end": 3}]

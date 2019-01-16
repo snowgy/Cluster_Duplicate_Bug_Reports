@@ -1,1 +1,1 @@
-[[["org", "aspectj", "apache", "bcel", "generic"]], [["org", "aspectj", "apache", "bcel", "generic"], ["org", "aspectj", "weaver", "bcel"]]]
+[{"field": [["org", "aspectj", "apache", "bcel", "generic"]], "deep": 6, "interest_field": "org.aspectj.apache.bcel.generic", "interest_length": 1, "interest_start": 0, "interest_end": 0}, {"field": [["org", "aspectj", "apache", "bcel", "generic"], ["org", "aspectj", "weaver", "bcel"]], "deep": 6, "interest_field": "org.aspectj.apache.bcel.generic", "interest_length": 5, "interest_start": 0, "interest_end": 4}]

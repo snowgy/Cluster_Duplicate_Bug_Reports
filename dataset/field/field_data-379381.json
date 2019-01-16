@@ -1,1 +1,1 @@
-[[["java", "lang"], ["org", "eclipse", "virgo", "kernel"], ["org", "eclipse", "osgi", "internal"], ["org", "eclipse", "osgi", "framework"], ["org", "eclipse", "virgo", "util"]]]
+[{"field": [["org", "eclipse", "virgo", "kernel"], ["org", "eclipse", "osgi", "internal"], ["org", "eclipse", "osgi", "framework"], ["org", "eclipse", "virgo", "util"]], "deep": 4, "interest_field": "org.eclipse.virgo.kernel", "interest_length": 10, "interest_start": 9, "interest_end": 18}]

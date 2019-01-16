@@ -1,1 +1,1 @@
-[[["org", "eclipse", "osgi"], ["org", "eclipse", "core"], ["org", "eclipse", "ui"], ["org", "eclipse", "swt"], ["org", "eclipse", "jwt"], ["org", "eclipse", "jface"], ["org", "eclipse", "equinox"]]]
+[{"field": [["org", "eclipse", "osgi"], ["org", "eclipse", "core"], ["org", "eclipse", "ui"], ["org", "eclipse", "swt"], ["org", "eclipse", "jwt"], ["org", "eclipse", "jface"], ["org", "eclipse", "equinox"]], "deep": 3, "interest_field": "org.eclipse.ui", "interest_length": 29, "interest_start": 11, "interest_end": 39}]

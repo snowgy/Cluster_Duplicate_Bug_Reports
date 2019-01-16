@@ -1,1 +1,1 @@
-[[["java"], ["org"], ["sun"]], [["org"], ["sun"], ["java"]]]
+[{"field": [["java", "io"], ["org", "eclipse", "equinox"], ["org", "eclipse", "buckminster"], ["org", "eclipse", "core"]], "deep": 3, "interest_field": "org.eclipse.buckminster", "interest_length": 11, "interest_start": 9, "interest_end": 19}, {"field": [["org", "eclipse", "buckminster"], ["org", "eclipse", "equinox"], ["org", "eclipse", "core"], ["java", "io"]], "deep": 3, "interest_field": "org.eclipse.buckminster", "interest_length": 11, "interest_start": 0, "interest_end": 10}]

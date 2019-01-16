@@ -1,1 +1,1 @@
-[[["org", "eclipse"], ["hudson", "plugins"], ["hudson"], ["hudson", "remoting"]], [], []]
+[{"field": [["org", "eclipse"], ["hudson", "plugins"], ["hudson"], ["hudson", "remoting"]], "deep": 2, "interest_field": "hudson.remoting", "interest_length": 4, "interest_start": 7, "interest_end": 10}, {"field": [], "deep": 0, "interest_field": null, "interest_length": 0, "interest_start": 0, "interest_end": 0}, {"field": [], "deep": 0, "interest_field": null, "interest_length": 0, "interest_start": 0, "interest_end": 0}]

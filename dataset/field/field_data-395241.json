@@ -1,1 +1,1 @@
-[[["org", "eclipse", "paho", "sample", "mqttv3app"]], [["javax", "crypto"]]]
+[{"field": [["org", "eclipse", "paho", "sample", "mqttv3app"]], "deep": 6, "interest_field": "org.eclipse.paho.sample.mqttv3app", "interest_length": 3, "interest_start": 0, "interest_end": 2}, {"field": [["javax", "crypto"]], "deep": 3, "interest_field": "javax.crypto", "interest_length": 1, "interest_start": 0, "interest_end": 0}]

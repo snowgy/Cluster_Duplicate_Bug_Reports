@@ -1,1 +1,1 @@
-[[["org", "eclipse", "birt", "report", "engine", "api", "impl"]], [["java", "util"]]]
+[{"field": [["org", "eclipse", "birt", "report", "engine", "api", "impl"]], "deep": 8, "interest_field": "org.eclipse.birt.report.engine.api.impl", "interest_length": 1, "interest_start": 0, "interest_end": 0}, {"field": [["java", "util"]], "deep": 3, "interest_field": "java.util", "interest_length": 2, "interest_start": 0, "interest_end": 1}]

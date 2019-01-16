@@ -1,1 +1,1 @@
-[[], [["java", "math"], ["org", "eclipse", "draw2d", "geometry"]]]
+[{"field": [], "deep": 0, "interest_field": null, "interest_length": 0, "interest_start": 0, "interest_end": 0}, {"field": [["java", "math"], ["org", "eclipse", "draw2d", "geometry"]], "deep": 5, "interest_field": "java.math", "interest_length": 3, "interest_start": 0, "interest_end": 2}]

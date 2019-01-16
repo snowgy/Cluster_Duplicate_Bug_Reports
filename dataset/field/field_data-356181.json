@@ -1,1 +1,1 @@
-[[["org", "eclipse", "emf", "cdo", "server", "internal", "hibernate"], ["org", "eclipse", "emf", "cdo", "internal", "server"], ["java", "util", "concurrent"]]]
+[{"field": [["org", "eclipse", "emf", "cdo", "server", "internal", "hibernate"], ["org", "eclipse", "emf", "cdo", "internal", "server"], ["java", "util", "concurrent"]], "deep": 8, "interest_field": "java.util.concurrent", "interest_length": 3, "interest_start": 4, "interest_end": 6}]

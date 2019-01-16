@@ -1,1 +1,1 @@
-[[["java", "lang"], ["org", "eclipse", "core", "runtime"], ["org", "eclipse", "core", "internal"], ["org", "eclipse", "wst", "validation"]]]
+[{"field": [["org", "eclipse", "core", "runtime"], ["org", "eclipse", "core", "internal"], ["org", "eclipse", "wst", "validation"]], "deep": 4, "interest_field": "org.eclipse.core.internal", "interest_length": 6, "interest_start": 10, "interest_end": 15}]

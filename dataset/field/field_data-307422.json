@@ -1,1 +1,1 @@
-[[["javax", "servlet", "http"], ["org", "mortbay", "jetty"]], [["javax", "servlet", "http"], ["org", "mortbay", "jetty"]]]
+[{"field": [["javax", "servlet", "http"], ["org", "mortbay", "jetty"]], "deep": 4, "interest_field": "org.mortbay.jetty", "interest_length": 4, "interest_start": 3, "interest_end": 6}, {"field": [["javax", "servlet", "http"], ["org", "mortbay", "jetty"]], "deep": 4, "interest_field": "org.mortbay.jetty", "interest_length": 4, "interest_start": 3, "interest_end": 6}]

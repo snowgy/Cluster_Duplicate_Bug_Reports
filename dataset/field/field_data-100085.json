@@ -1,1 +1,1 @@
-[[["org", "eclipse", "jface"], ["org", "eclipse", "core"], ["org", "eclipse", "ui"], ["org", "eclipse", "swt"], ["java", "lang", "reflect"]]]
+[{"field": [["org", "eclipse", "jface"], ["org", "eclipse", "core"], ["org", "eclipse", "ui"], ["org", "eclipse", "swt"]], "deep": 3, "interest_field": "org.eclipse.swt", "interest_length": 5, "interest_start": 4, "interest_end": 8}]

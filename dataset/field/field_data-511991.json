@@ -1,1 +1,1 @@
-[[], [["org"], ["hudson"], ["java"]], [["com"], ["javax"], ["org"]]]
+[{"field": [], "deep": 0, "interest_field": null, "interest_length": 0, "interest_start": 0, "interest_end": 0}, {"field": [["org", "springframework"], ["hudson", "security"], ["org", "eclipse"], ["hudson", "util"]], "deep": 2, "interest_field": "org.eclipse", "interest_length": 22, "interest_start": 27, "interest_end": 48}, {"field": [["com"], ["javax"], ["org"]], "deep": 1, "interest_field": "com", "interest_length": 8, "interest_start": 0, "interest_end": 7}]

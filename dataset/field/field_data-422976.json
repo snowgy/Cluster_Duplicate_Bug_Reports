@@ -1,1 +1,1 @@
-[[["org", "eclipse", "nebula"], ["org", "eclipse", "draw2d"], ["org", "eclipse", "swt"], ["org", "eclipse", "e4"], ["org", "eclipse", "core"], ["org", "eclipse", "ui"]]]
+[{"field": [["org", "eclipse", "nebula"], ["org", "eclipse", "draw2d"], ["org", "eclipse", "swt"], ["org", "eclipse", "e4"], ["org", "eclipse", "core"], ["org", "eclipse", "ui"]], "deep": 3, "interest_field": "org.eclipse.draw2d", "interest_length": 7, "interest_start": 6, "interest_end": 12}]

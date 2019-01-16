@@ -1,1 +1,1 @@
-[[["org"], ["ch"], ["sun"], ["java"]]]
+[{"field": [["org", "eclipse", "recommenders"], ["org", "eclipse", "core"], ["org", "eclipse", "osgi"], ["org", "eclipse", "m2e"], ["ch", "qos", "logback"], ["org", "eclipse", "jface"], ["org", "eclipse", "swt"], ["org", "eclipse", "e4"], ["org", "eclipse", "ui"], ["org", "eclipse", "equinox"]], "deep": 3, "interest_field": "org.eclipse.swt", "interest_length": 8, "interest_start": 29, "interest_end": 36}]

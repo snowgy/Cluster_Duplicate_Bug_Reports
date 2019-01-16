@@ -1,1 +1,1 @@
-[[["java"], ["com"], ["org"]], [["org", "eclipse", "osgi", "internal", "loader"], ["java", "lang"]]]
+[{"field": [["com", "google", "inject"], ["org", "eclipse", "ocl"], ["org", "eclipse", "xtext"]], "deep": 3, "interest_field": "com.google.inject", "interest_length": 18, "interest_start": 0, "interest_end": 17}, {"field": [["org", "eclipse", "osgi", "internal", "loader"]], "deep": 6, "interest_field": "org.eclipse.osgi.internal.loader", "interest_length": 4, "interest_start": 0, "interest_end": 3}]

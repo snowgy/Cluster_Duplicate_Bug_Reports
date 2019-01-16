@@ -1,1 +1,1 @@
-[[["org"], ["eu"], ["sun"], ["java"]], [["java"], ["eu"], ["org"]]]
+[{"field": [["org", "eclipse", "swt"], ["org", "eclipse", "jface"], ["eu", "geclipse", "vtk"], ["org", "eclipse", "ui"], ["org", "eclipse", "core"], ["org", "eclipse", "equinox"]], "deep": 3, "interest_field": "org.eclipse.swt", "interest_length": 16, "interest_start": 35, "interest_end": 50}, {"field": [["java"], ["eu"], ["org"]], "deep": 1, "interest_field": "eu", "interest_length": 5, "interest_start": 2, "interest_end": 6}]

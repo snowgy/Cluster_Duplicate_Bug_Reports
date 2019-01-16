@@ -1,1 +1,1 @@
-[[["org", "eclipse", "tptp", "platform", "instrumentation", "ui", "internal", "launcher", "deleg", "application"], ["org", "eclipse", "tptp", "trace", "ui", "provisional", "launcher"], ["java", "lang"]]]
+[{"field": [["org", "eclipse", "tptp", "platform", "instrumentation", "ui", "internal", "launcher", "deleg", "application"], ["org", "eclipse", "tptp", "trace", "ui", "provisional", "launcher"]], "deep": 11, "interest_field": "org.eclipse.tptp.platform.instrumentation.ui.internal.launcher.deleg.application", "interest_length": 2, "interest_start": 0, "interest_end": 1}]

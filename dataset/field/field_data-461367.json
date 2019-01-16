@@ -1,1 +1,1 @@
-[[["org", "eclipse", "xtext"], ["org", "eclipse", "debug"], ["org", "eclipse", "jdt"], ["org", "eclipse", "core"], ["org", "eclipse", "swt"], ["org", "eclipse", "e4"], ["org", "eclipse", "ui"], ["org", "eclipse", "equinox"]]]
+[{"field": [["org", "eclipse", "xtext"], ["org", "eclipse", "debug"], ["org", "eclipse", "jdt"], ["org", "eclipse", "core"], ["org", "eclipse", "swt"], ["org", "eclipse", "e4"], ["org", "eclipse", "ui"], ["org", "eclipse", "equinox"]], "deep": 3, "interest_field": "org.eclipse.debug", "interest_length": 5, "interest_start": 8, "interest_end": 12}]

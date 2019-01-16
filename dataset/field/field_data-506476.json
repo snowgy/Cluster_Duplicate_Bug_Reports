@@ -1,1 +1,1 @@
-[[["org", "apache", "maven", "wagon"], ["org", "eclipse", "aether", "transport"], ["org", "eclipse", "aether", "connector"]]]
+[{"field": [["org", "apache", "maven", "wagon"], ["org", "eclipse", "aether", "transport"], ["org", "eclipse", "aether", "connector"]], "deep": 4, "interest_field": "org.apache.maven.wagon", "interest_length": 15, "interest_start": 0, "interest_end": 14}]

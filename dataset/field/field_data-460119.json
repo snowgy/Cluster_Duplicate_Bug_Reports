@@ -1,1 +1,1 @@
-[[["com", "example"]], [["org", "eclipse", "nebula", "visualization", "xygraph", "figures"], ["org", "eclipse", "draw2d"]]]
+[{"field": [["com", "example"]], "deep": 3, "interest_field": "com.example", "interest_length": 1, "interest_start": 0, "interest_end": 0}, {"field": [["org", "eclipse", "nebula", "visualization", "xygraph", "figures"], ["org", "eclipse", "draw2d"]], "deep": 7, "interest_field": "org.eclipse.draw2d", "interest_length": 15, "interest_start": 7, "interest_end": 21}]

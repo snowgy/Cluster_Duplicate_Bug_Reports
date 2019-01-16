@@ -1,1 +1,1 @@
-[[["org", "eclipse", "ptp"], ["org", "eclipse", "jface"], ["org", "eclipse", "swt"], ["org", "eclipse", "remote"], ["org", "eclipse", "ui"], ["org", "eclipse", "e4"], ["org", "eclipse", "core"], ["org", "eclipse", "equinox"]]]
+[{"field": [["org", "eclipse", "ptp"], ["org", "eclipse", "jface"], ["org", "eclipse", "swt"], ["org", "eclipse", "remote"], ["org", "eclipse", "ui"], ["org", "eclipse", "e4"], ["org", "eclipse", "core"], ["org", "eclipse", "equinox"]], "deep": 3, "interest_field": "org.eclipse.swt", "interest_length": 19, "interest_start": 9, "interest_end": 27}]

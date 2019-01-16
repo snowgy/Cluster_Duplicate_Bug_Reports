@@ -1,1 +1,1 @@
-[[], [["org"], ["sun"], ["java"], ["junit"]]]
+[{"field": [], "deep": 0, "interest_field": null, "interest_length": 0, "interest_start": 0, "interest_end": 0}, {"field": [["org", "eclipse", "emf", "internal"], ["org", "eclipse", "emf", "common"], ["org", "eclipse", "emf", "cdo"], ["junit", "framework"], ["org", "eclipse", "net4j", "util"]], "deep": 4, "interest_field": "org.eclipse.emf.common", "interest_length": 4, "interest_start": 2, "interest_end": 5}]

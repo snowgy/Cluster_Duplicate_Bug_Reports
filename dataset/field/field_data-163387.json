@@ -1,1 +1,1 @@
-[[["org", "eclipse", "tptp", "test", "report"], ["org", "eclipse", "hyades", "test", "core"], ["org", "eclipse", "hyades", "automation", "server"], ["org", "eclipse", "hyades", "automation", "core"]]]
+[{"field": [["org", "eclipse", "tptp", "test", "report"], ["org", "eclipse", "hyades", "test", "core"], ["org", "eclipse", "hyades", "automation", "server"], ["org", "eclipse", "hyades", "automation", "core"]], "deep": 5, "interest_field": "org.eclipse.hyades.automation.server", "interest_length": 2, "interest_start": 2, "interest_end": 3}]

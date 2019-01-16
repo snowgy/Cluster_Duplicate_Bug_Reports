@@ -1,7 +1,6 @@
 import json, os
 from report_loader import ReportLoader
 
-# FIELD_DIR = '../dataset/field_copy'
 FIELD_DIR = '../dataset/field'
 
 # 加载文件/处理文件相关格式
@@ -15,28 +14,47 @@ class FieldLoader:
 class FieldCreater:
   def __init__(self):
     self.reportLoader = ReportLoader()
+    self.fliter_package = [
+        "dalvik.system",
+        "java.lang",
+        "sun",
+        "android",
+    ]
+
+  def jump(self, package_name):
+    for fliter_name in self.fliter_package:
+      if package_name.startswith(fliter_name):
+        return True
+    return False
 
   def save(self, id, fields):
     with open(FIELD_DIR + '/field_data-' + str(id) + '.json', 'w') as outfile:
       json.dump(fields, outfile)
     
-  # 获取 package 列表, return ->[[org, eclipse, xxx, yyy], ...]
+  ## 获取 package 列表, return ->[[org, eclipse, xxx, yyy], ...]
   def fetch_packages(self, stack_calls):
     packages = []
     for call_item in stack_calls:
       # print(call_item)
-      packages.append(call_item['package'].split("."))
+      pkg = call_item['package']
+      if self.jump(pkg):
+        continue
+      packages.append(pkg.split("."))
     return packages
 
 
   ## 获取该 stack calls 所在领域，如：
-  # ['org', 'eclipse', 'swt']
+  # [['org', 'eclipse', 'swt']
   # ['org', 'eclipse', 'e4']
   # ['org', 'eclipse', 'core']
   # ['org', 'eclipse', 'ui']
-  # ['org', 'eclipse', 'equinox']
+  # ['org', 'eclipse', 'equinox']]
   def fetch_field(self, packages):
-    if len(packages) == 0: return []
+    if len(packages) == 0:
+      return {
+        'field': [],
+        'deep': 0
+      }
 
     def remove_dups(list_):
       _list = []
@@ -79,10 +97,46 @@ class FieldCreater:
     # print('cal_deeps')
     deep_index = cal_deeps(packages)
     # print('cal_deeps done, fetch_preffix_packages')
-    filed = fetch_preffix_packages(packages, deep_index)
+    field = fetch_preffix_packages(packages, deep_index)
     # print('fetch_preffix_packages done')
 
-    return filed
+    return {
+      'field': field,
+      'deep': deep_index + 1 # deep length, not index
+    }
+
+  ## 获取重心领域，如：org.eclipse.swt 及其连续覆盖长度
+  def fetch_interest_area(self, field_deep, packages):
+    if len(packages) == 0 or field_deep == 0:
+      return {
+        'package': None,
+        'length': 0,
+        'start_index': 0,
+        'end_index': 0
+      }
+    target_package = []
+    target_count = 0
+    target_end_index = 0
+    current_package = packages[0][:field_deep]
+    current_count = 0
+    for i in range(0, len(packages)):
+      now = packages[i][:field_deep]
+      if now == current_package:
+        current_count += 1
+      else:
+        current_count = 1
+        current_package = now
+      # 与目标包进行判断
+      if current_count > target_count:
+        target_package = now
+        target_count = current_count
+        target_end_index = i
+    return {
+      'package': '.'.join(target_package), # 包名，最有可能为目标区域的包
+      'length': target_count, # 包重复次数，也可理解为包内调用链次数
+      'start_index': target_end_index - target_count + 1, # 区域开始角标
+      'end_index': target_end_index # 区域结束角标
+    }
 
   def start(self, id):
     report = self.reportLoader.load_report(id)
@@ -92,7 +146,20 @@ class FieldCreater:
       stack_arr = stack_arrs[i]
       packages = self.fetch_packages(stack_arr['calls'])
       # print(packages)
-      field = self.fetch_field(packages)
+      field_info = self.fetch_field(packages)
+      field_area = field_info['field']
+      field_deep = field_info['deep']
+      # print(field_info)
+      interest = self.fetch_interest_area(field_deep, packages)
+      field = {
+        'field': field_area, # [[]...]
+        'deep': field_deep, # 3
+        'interest_field': interest['package'], # org.eclipse.swt
+        'interest_length': interest['length'], # 38
+        'interest_start': interest['start_index'], # 0
+        'interest_end': interest['end_index'] # 37
+      }
+      # print(field)
       result.append(field)
     self.save(id, result)
 
@@ -100,6 +167,8 @@ class FieldCreater:
 def main():
   print('Start...')
   fieldCreater = FieldCreater()
+  # fieldCreater.start(450132)
+
   reportLoader = ReportLoader()
   ids = reportLoader.load_id_from_dir()
   print('Total ids: ', len(ids))

@@ -1,1 +1,1 @@
-[[["org", "eclipse", "persistence", "exceptions"]], [["org", "eclipse", "persistence", "dynamic"], ["java", "lang"]]]
+[{"field": [["org", "eclipse", "persistence", "exceptions"]], "deep": 5, "interest_field": "org.eclipse.persistence.exceptions", "interest_length": 1, "interest_start": 0, "interest_end": 0}, {"field": [["org", "eclipse", "persistence", "dynamic"]], "deep": 5, "interest_field": "org.eclipse.persistence.dynamic", "interest_length": 3, "interest_start": 0, "interest_end": 2}]
