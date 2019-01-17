@@ -25,7 +25,19 @@ if __name__ == '__main__':
     t_stk_ids = dict()
     t = 0
     for stk_id in stk_ids:
-        t_stk_ids.setdefault(stk_id, L.load_report(stk_id)['duplicated_stack_id'])
+        # t_stk_ids.setdefault(stk_id, L.load_report(stk_id)['duplicated_stack_id'])
+        tmp = []
+        for i in L.load_report(stk_id)['duplicated_stack_id']:
+            try:
+                t = int(i)
+                if t in stk_ids:
+                    tmp.append(i)
+                # else:
+                #     print(i)
+            except:
+                pass
+        t_stk_ids.setdefault(stk_id, tmp)
+
 
     jsObj = json.dumps(t_stk_ids)
 
