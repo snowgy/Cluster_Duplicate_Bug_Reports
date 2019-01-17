@@ -23,7 +23,7 @@ if __name__ == '__main__':
                     err = stks[random.randint(i + 1, length-1)][0]
                 except:
                     continue
-            result += cmb[0] + ',' + cmb[1] + ',' + err + ',\n'
+            result += cmb[0] + ' ' + cmb[1] + ' ' + err + '\n'
 
     # print(result)
     # jsObj = json.dumps(result)
