@@ -15,12 +15,20 @@ if __name__ == '__main__':
             if c<dev:
                 tmp1 += line
             else:
-                tmp2 += line
+                tmp2 += line[:-1] + ' '
 
-    f1 = open('true_data_1.txt', 'w')
-    f1.write(tmp1)
-    f1.close()
+    # f1 = open('true_data_1.txt', 'w')
+    # f1.write(tmp1)
+    # f1.close()
+    tmp3 = set()
+    for i in tmp2.split(' '):
+        tmp3.add(i)
 
-    f2 = open('true_data_2.txt', 'w')
-    f2.write(tmp2)
-    f2.close()
+    tmp4 = ''
+    for i in tmp3:
+        tmp4 += i + ' '
+
+    print(tmp4)
+    f4 = open('true_data_2.txt', 'w')
+    f4.write(tmp4)
+    f4.close()
