@@ -37,7 +37,7 @@ class FieldIndex:
         length = len(fieldb[i])
         max_length = length if length > max_length else max_length
       return max_length
-    # 取 短领域 匹配
+    # 取短领域 匹配
     list_length = len(field1) if len(field1) < len(field2) else len(field2)
     max_deep_length = fetch_max_deep(field1, field2)
     # print(max_deep_length)
@@ -60,8 +60,47 @@ class FieldIndex:
 # 计算两个 callstack 调用链的相似度
 class CallStackIndex:
   def calculate(self, callstack1, callstack2):
-    return 1
+    # print(callstack1)
+    pc_list1 = CallStackIndex.generate_package_tuple(self, callstack1)
+    # for i in range(0, len(pc_list)):
+    #   print(pc_list[i])
+    # return 1
+    pc_list2 = CallStackIndex.generate_package_tuple(self, callstack2)
+    score = 0
+    # 选出较短的调用链和较长的比较
+    if pc_list1 < pc_list2:
+      short_list = pc_list1
+      long_list = pc_list2
+    else:
+      short_list = pc_list2
+      long_list = pc_list1
+    for s_item in short_list:
+      for l_item in long_list:
+        if s_item[0] == l_item[0] and s_item[1] == l_item[1]:
+          score += 1
+          break
+        elif s_item[0] == l_item[0] or s_item[1] == l_item[1]:
+          score += 0.5
+          break
+        elif s_item[0] == l_item[1] or s_item[1] == l_item[0]:
+          score += 0.3
+          break
+    if len(short_list) == 0:
+      ratio = 0
+    else:
+      ratio = score/len(short_list)
+    # print(ratio)
+    return ratio
 
+  # 把调用链内provider与caller组成的tuple放到一个list中   
+  def generate_package_tuple(self, callstack):
+    # provider caller tuple list
+    pc_list = []
+    for item in callstack:
+      # print(item)
+      # print('-----------------------')
+      pc_list.append((item['provider']['package'], item['caller']['package']))
+    return pc_list
 
 
 
@@ -145,6 +184,13 @@ class Starter:
 def main():
   starter = Starter()
   result = starter.calculate(450135, 450134)
-  print(result)
+  cal = CallStackIndex()
+  
+  call_stacks1 = starter.callStackLoader.load_call_stack(450135)
+  call_stacks2 = starter.callStackLoader.load_call_stack(450134)
+  # print(call_stacks1[0]['inner'])
+  test = cal.calculate(call_stacks1[0]['inner'], call_stacks2[0]['inner'])
+  # print('test:', test)
+  # print(result)
 
 main()
