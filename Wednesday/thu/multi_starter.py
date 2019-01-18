@@ -9,12 +9,16 @@ class MultiStarter:
   def __init__(self):
     self.starter = Starter()
     self.reportLoader = ReportLoader()
+  
+  def fliter_id(self, id):
+    return id < 400000 or id > 500000
 
   def start_all(self, thread_id, start_index, size):
     ids = self.reportLoader.load_id_from_dir()
     index = 0
     end_index = start_index + size
     for id1 in ids:
+      if self.fliter_id(id1): continue
       index += 1
       if index < start_index: continue
       if index > end_index: break
@@ -23,6 +27,7 @@ class MultiStarter:
       # go:
       with open(MIDDLE_RESULT_DIR + '/starter_result_' + str(id1) + '.csv', 'w') as writeFile:
         for id2 in ids:
+          if self.fliter_id(id2): continue
           if id1 == id2: continue
           dict = self.starter.calculate(id1, id2)
           line = [id1, id2, dict['exception'], dict['field_isdup'], dict['field_dup_index'], dict[ 'field_deep'], dict['field_length'], dict['field_interest_issame'], dict['field_interest_length'], dict['callstack_inner'], dict['callstack_outer_1'], dict['callstack_outer_2'], dict[ 'callstack_all']]
