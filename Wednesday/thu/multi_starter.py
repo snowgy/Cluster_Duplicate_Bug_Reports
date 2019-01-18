@@ -19,12 +19,12 @@ class MultiStarter:
       if index > end_index: break
       print("%2d"%(thread_id), ">> progress: %.4f" %((index - start_index)/size), "| current_id: ", id1)
       # go:
-      for id2 in ids:
-        if id1 == id2: continue
-        dict = self.starter.calculate(id1, id2)
-        line = [id1, id2, dict['exception'], dict['field_isdup'], dict['field_dup_index'], dict[ 'field_deep'], dict['field_length'], dict['field_interest_issame'], dict['field_interest_length'], dict['callstack_inner'], dict['callstack_outer_1'], dict['callstack_outer_2'], dict[ 'callstack_all']]
-        # print(dict)
-        with open(MIDDLE_RESULT_DIR + '/starter_result_' + str(thread_id) + '.csv', 'a') as writeFile:
+      with open(MIDDLE_RESULT_DIR + '/starter_result_' + str(thread_id) + '.csv', 'a') as writeFile:
+        for id2 in ids:
+          if id1 == id2: continue
+          dict = self.starter.calculate(id1, id2)
+          line = [id1, id2, dict['exception'], dict['field_isdup'], dict['field_dup_index'], dict[ 'field_deep'], dict['field_length'], dict['field_interest_issame'], dict['field_interest_length'], dict['callstack_inner'], dict['callstack_outer_1'], dict['callstack_outer_2'], dict[ 'callstack_all']]
+          # print(dict)
           writer = csv.writer(writeFile)
           writer.writerow(line)
         writeFile.close()

@@ -1,5 +1,5 @@
 import numpy as np
-from sympy import *
+from sympy import symbols, log, diff
 import math
 import start
 import pandas as pd
