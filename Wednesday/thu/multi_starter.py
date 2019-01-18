@@ -1,6 +1,7 @@
 from start import Starter
 from report_loader import ReportLoader
 import csv, threading
+import multiprocessing as mp
 
 MIDDLE_RESULT_DIR = '../../dataset/middle_result'
 
@@ -28,15 +29,15 @@ class MultiStarter:
           writer = csv.writer(writeFile)
           writer.writerow(line)
         writeFile.close()
-  
+
   def run_all(self):
     for i in range(0, 11):
       size = 400
       start_index = i * size
       print("start index: ", start_index, ", size: ", size)
-      t = threading.Thread(target=self.start_all, args=(i, start_index, size))
+      t = mp.Process(target=self.start_all, args=(i, start_index, size))
       t.start()
 
-
 ## main:
-MultiStarter().run_all()
+if __name__ == '__main__':
+  MultiStarter().run_all()
