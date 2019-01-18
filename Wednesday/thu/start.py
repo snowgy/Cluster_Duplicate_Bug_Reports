@@ -190,7 +190,7 @@ def main():
   call_stacks2 = starter.callStackLoader.load_call_stack(450134)
   # print(call_stacks1[0]['inner'])
   test = cal.calculate(call_stacks1[0]['inner'], call_stacks2[0]['inner'])
-  # print('test:', test)
-  # print(result)
+  print('test:', test)
+  print(result)
 
-main()
+# main()

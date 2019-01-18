@@ -107,10 +107,10 @@ class Sim:
         print(data1)
 
 def main():
-    sim= Sim('../../dataset/traning.txt','../../dataset/testing.txt')
+    sim= Sim('./sim_data/traning.txt','./sim_data/testing.txt')
     sim.do_w_tranning()
     print(sim.testing())
-    sim.form_csv('../../dataset/true_data_2.txt')
+    sim.form_csv('../../dataset/result.txt')
 
 
 main()
