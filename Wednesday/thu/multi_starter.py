@@ -20,7 +20,7 @@ class MultiStarter:
       if index > end_index: break
       print("%2d"%(thread_id), ">> progress: %.4f" %((index - start_index)/size), "| current_id: ", id1)
       # go:
-      with open(MIDDLE_RESULT_DIR + '/starter_result_' + str(thread_id) + '.csv', 'a') as writeFile:
+      with open(MIDDLE_RESULT_DIR + '/starter_result_' + str(id1) + '.csv', 'w') as writeFile:
         for id2 in ids:
           if id1 == id2: continue
           dict = self.starter.calculate(id1, id2)
