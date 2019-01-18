@@ -12,7 +12,7 @@ class MultiStarter:
     self.reportLoader = ReportLoader()
   
   def fliter_id(self, id):
-    return id < 400000 or id > 500000
+    return id < 450000 or id > 500000
 
   def start_all(self, thread_id, start_index, size):
     ids = self.reportLoader.load_id_from_dir()
