@@ -28,18 +28,29 @@ class FieldIndex:
     # 计算重合指数
     if len(field1) == 0 or len(field2) == 0: return 0.0
     if field1 == field2: return 1.0
-    deep1 = len(field1[0])
-    deep2 = len(field2[0])
+    def fetch_max_deep(fielda, fieldb):
+      max_length = 0
+      for i in range(0, len(fielda)):
+        length = len(fielda[i])
+        max_length = length if length > max_length else max_length
+      for i in range(0, len(fieldb)):
+        length = len(fieldb[i])
+        max_length = length if length > max_length else max_length
+      return max_length
     # 取 短领域 匹配
     list_length = len(field1) if len(field1) < len(field2) else len(field2)
-    deep_length = deep1 if deep1 < deep2 else deep2
-    score_weight = self.weights[0-deep_length:]
+    max_deep_length = fetch_max_deep(field1, field2)
+    # print(max_deep_length)
+    score_weight = self.weights[0-max_deep_length:]
     # print(score_weight)
     # print(field1)
     # print(field2)
     total_count = 0
     right_count = 0
     for i in range(0, list_length):
+      deep1 = len(field1[i])
+      deep2 = len(field2[i])
+      deep_length = deep1 if deep1 < deep2 else deep2
       for j in range(0, deep_length):
         total_count += score_weight[j]
         if field1[i][j] == field2[i][j]:
