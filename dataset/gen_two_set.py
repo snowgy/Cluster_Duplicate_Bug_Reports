@@ -17,9 +17,9 @@ if __name__ == '__main__':
             else:
                 tmp2 += line[:-1] + ' '
 
-    # f1 = open('true_data_1.txt', 'w')
-    # f1.write(tmp1)
-    # f1.close()
+    f1 = open('true_data_1.txt', 'w')
+    f1.write(tmp1)
+    f1.close()
     tmp3 = set()
     for i in tmp2.split(' '):
         tmp3.add(i)
