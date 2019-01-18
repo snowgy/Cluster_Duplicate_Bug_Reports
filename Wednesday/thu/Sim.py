@@ -110,7 +110,7 @@ def main():
     sim= Sim('./sim_data/traning.txt','./sim_data/testing.txt')
     sim.do_w_tranning()
     print(sim.testing())
-    sim.form_csv('../../dataset/result.txt')
+    sim.form_csv('../../dataset/true_data.txt')
 
 
 main()
