@@ -1,7 +1,7 @@
 import json, os
 from report_loader import ReportLoader
 
-FIELD_DIR = '../dataset/field'
+FIELD_DIR = '../../dataset/field'
 
 # 加载文件/处理文件相关格式
 class FieldLoader:

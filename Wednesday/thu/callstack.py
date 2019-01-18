@@ -3,7 +3,7 @@ from field import FieldLoader
 import json, os
 
 # CALL_STACK_DIR = '../Wednesday/thu/demodata'
-CALL_STACK_DIR = '../dataset/call_stack'
+CALL_STACK_DIR = '../../dataset/call_stack'
 
 # 加载文件/处理文件相关格式
 class CallStackLoader:
