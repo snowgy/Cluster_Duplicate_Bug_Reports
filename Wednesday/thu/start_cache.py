@@ -7,7 +7,7 @@ class StarterCache:
      pass
     
   def load_result(self, report_id1, report_id2):
-    key = str(report_id1) + '-' + str(report_id2)
+    # key = str(report_id1) + '-' + str(report_id2)
     with open(MIDDLE_RESULT_DIR + '/starter_result_' + str(report_id1) + '.csv', 'r') as readFile:
       rows = csv.reader(readFile)
       lines = list(rows)

@@ -18,7 +18,8 @@ class MultiStarter:
       index += 1
       if index < start_index: continue
       if index > end_index: break
-      print("%2d"%(thread_id), ">> progress: %.4f" %((index - start_index)/size), "| current_id: ", id1)
+      print("%2d"%(thread_id), "current index:", index - start_index)
+      # print("%2d"%(thread_id), ">> progress: %.4f" %((index - start_index)/size), "| current_id: ", id1)
       # go:
       with open(MIDDLE_RESULT_DIR + '/starter_result_' + str(id1) + '.csv', 'w') as writeFile:
         for id2 in ids:
