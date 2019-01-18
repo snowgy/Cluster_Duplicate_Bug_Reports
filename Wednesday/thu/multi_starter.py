@@ -3,7 +3,8 @@ from report_loader import ReportLoader
 import csv, threading
 import multiprocessing as mp
 
-MIDDLE_RESULT_DIR = '../../dataset/middle_result'
+# MIDDLE_RESULT_DIR = '../../dataset/middle_result'
+MIDDLE_RESULT_DIR = '../../dataset/middle_result2'
 
 class MultiStarter:
   def __init__(self):
