@@ -1,0 +1,1 @@
+{"stack_id": 114863, "component": "Chart", "importance": "P3 normal", "reported_time": "2005-11-02 21:31", "modified_time": "2005-11-07 21:08", "stack_arr": [{"exception": "java.lang.RuntimeException", "calls": [{"package": "org.eclipse.emf.common.util", "class": "BasicEList", "method": "get", "filename": "BasicEList", "line": "511"}]}], "duplicated_stack_id": []}

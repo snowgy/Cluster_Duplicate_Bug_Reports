@@ -1,0 +1,1 @@
+{"stack_id": 409476, "component": "Client", "importance": "P3 normal", "reported_time": "2013-05-30 06:20", "modified_time": "2013-06-03 12:33", "stack_arr": [{"exception": "java.lang.IllegalStateException", "calls": [{"package": "org.apache.log4j", "class": "Log4jLoggerFactory", "method": "<clinit>", "filename": "Log4jLoggerFactory", "line": "49"}]}], "duplicated_stack_id": []}

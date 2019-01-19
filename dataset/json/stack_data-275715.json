@@ -1,0 +1,1 @@
+{"stack_id": 275715, "component": "ecf.core", "importance": "P3 critical", "reported_time": "2009-05-11 15:04", "modified_time": "2009-05-11 15:18", "stack_arr": [{"exception": "java.lang.ClassCastException", "calls": [{"package": "java.lang.reflect", "class": "Method", "method": "invoke", "filename": "Method", "line": "597"}]}], "duplicated_stack_id": []}

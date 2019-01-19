@@ -1,0 +1,1 @@
+{"stack_id": 345817, "component": "Debug", "importance": "P3 normal", "reported_time": "2011-05-14 13:45", "modified_time": "2011-05-16 11:09", "stack_arr": [{"exception": "java.lang.Error", "calls": [{"package": "DialogDemo.main", "class": "DialogDemo", "method": "main", "filename": "DialogDemo", "line": "607"}]}], "duplicated_stack_id": []}

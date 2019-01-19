@@ -1,0 +1,1 @@
+{"stack_id": 416146, "component": "Compiler", "importance": "P3 normal", "reported_time": "2013-08-29 09:51", "modified_time": "2014-03-19 06:44", "stack_arr": [{"exception": "error", "calls": [{"package": "org.aspectj.weaver", "class": "ResolvedMemberImpl", "method": "parameterizedWith", "filename": "ResolvedMemberImpl", "line": "759"}]}], "duplicated_stack_id": []}

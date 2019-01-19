@@ -1,0 +1,1 @@
+{"stack_id": 27826, "component": "Debug", "importance": "P3 normal", "reported_time": "2002-12-06 08:26", "modified_time": "2003-01-21 14:41", "stack_arr": [{"exception": "java.lang.InternalError", "calls": [{"package": "org.eclipse.jdi.internal", "class": "LocationImpl", "method": "read", "filename": "LocationImpl", "line": "152"}]}], "duplicated_stack_id": []}

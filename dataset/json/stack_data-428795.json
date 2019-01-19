@@ -1,0 +1,1 @@
+{"stack_id": 428795, "component": "Core", "importance": "P3 normal", "reported_time": "2014-02-21 14:36", "modified_time": "2014-03-07 07:31", "stack_arr": [{"exception": "error", "calls": [{"package": "org.eclipse.jdt.internal.compiler.ast", "class": "MessageSend", "method": "analyseCode", "filename": "MessageSend", "line": "123"}]}], "duplicated_stack_id": []}

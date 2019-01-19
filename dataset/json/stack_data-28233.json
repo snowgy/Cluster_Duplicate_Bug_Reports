@@ -1,0 +1,1 @@
+{"stack_id": 28233, "component": "Resources", "importance": "P3 normal", "reported_time": "2002-12-12 20:33", "modified_time": "2003-02-07 17:32", "stack_arr": [{"exception": "Error", "calls": [{"package": "org.eclipse.core.runtime", "class": "Platform", "method": "run", "filename": "Platform", "line": "413"}]}], "duplicated_stack_id": []}

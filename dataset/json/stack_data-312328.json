@@ -1,0 +1,1 @@
+{"stack_id": 312328, "component": "MOXy", "importance": "P3 normal", "reported_time": "2010-05-10 15:53", "modified_time": "2010-05-10 16:12", "stack_arr": [{"exception": "java.lang.NoSuchMethodException", "calls": [{"package": "java.lang", "class": "Class", "method": "getDeclaredMethod", "filename": "Class", "line": "1937"}]}], "duplicated_stack_id": []}

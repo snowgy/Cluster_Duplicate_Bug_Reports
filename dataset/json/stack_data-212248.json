@@ -1,0 +1,1 @@
+{"stack_id": 212248, "component": "TPTP", "importance": "P3 normal", "reported_time": "2007-12-07 04:30", "modified_time": "2016-05-05 10:59", "stack_arr": [{"exception": "Error", "calls": [{"package": "org.eclipse.tptp.platform.execution.client.core.internal", "class": "NodeImpl", "method": "connect", "filename": "NodeImpl", "line": "146"}]}], "duplicated_stack_id": []}

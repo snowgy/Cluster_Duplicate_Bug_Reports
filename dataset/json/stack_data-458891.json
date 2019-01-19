@@ -1,0 +1,1 @@
+{"stack_id": 458891, "component": "Git", "importance": "P3 normal", "reported_time": "2015-02-01 07:40", "modified_time": "2015-02-01 09:41", "stack_arr": [{"exception": "hudson.plugins.git.GitException", "calls": [{"package": "hudson.plugins.git", "class": "GitAPI", "method": "launchCommandIn", "filename": "GitAPI", "line": "771"}]}], "duplicated_stack_id": ["458892"]}

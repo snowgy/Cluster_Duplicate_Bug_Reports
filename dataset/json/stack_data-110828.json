@@ -1,0 +1,1 @@
+{"stack_id": 110828, "component": "jst.j2ee", "importance": "P3 major", "reported_time": "2005-09-27 12:21", "modified_time": "2006-09-22 21:07", "stack_arr": [{"exception": "IllegalArgumentException", "calls": [{"package": "org.eclipse.core.internal.utils", "class": "Assert", "method": "isLegal", "filename": "Assert", "line": "60"}]}], "duplicated_stack_id": []}

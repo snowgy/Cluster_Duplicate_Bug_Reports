@@ -1,0 +1,1 @@
+{"stack_id": 72876, "component": "Core", "importance": "P3 normal", "reported_time": "2004-08-30 10:08", "modified_time": "2004-10-28 06:41", "stack_arr": [{"exception": "exception", "calls": [{"package": "org.eclipse.jdt.internal.core", "class": "SourceType", "method": "newTypeHierarchy", "filename": "SourceType", "line": "649"}]}], "duplicated_stack_id": []}

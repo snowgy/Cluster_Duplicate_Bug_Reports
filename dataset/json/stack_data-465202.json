@@ -1,0 +1,1 @@
+{"stack_id": 465202, "component": "maven", "importance": "P3 normal", "reported_time": "2015-04-22 10:30", "modified_time": "2015-04-29 10:41", "stack_arr": [{"exception": "java.lang.ClassNotFoundException", "calls": [{"package": "java.net", "class": "URLClassLoader", "method": "findClass", "filename": "URLClassLoader", "line": "381"}]}], "duplicated_stack_id": []}

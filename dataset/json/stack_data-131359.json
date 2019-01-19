@@ -1,0 +1,1 @@
+{"stack_id": 131359, "component": "TPTP", "importance": "P3 normal", "reported_time": "2006-03-10 13:19", "modified_time": "2016-05-05 11:00", "stack_arr": [{"exception": "java.io.FileNotFoundException", "calls": [{"package": "java.io", "class": "FileInputStream", "method": "<init>", "filename": "FileInputStream", "line": "137"}]}], "duplicated_stack_id": ["131947", "134281"]}

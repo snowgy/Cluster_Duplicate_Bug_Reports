@@ -1,0 +1,1 @@
+{"stack_id": 526276, "component": "cdt-core", "importance": "P3 normal", "reported_time": "2017-10-19 12:48", "modified_time": "2017-10-29 13:32", "stack_arr": [{"exception": "exception", "calls": [{"package": "org.eclipse.cdt.ui.templateengine.processes", "class": "OpenFiles", "method": "isOpen", "filename": "OpenFiles", "line": "69"}]}], "duplicated_stack_id": []}

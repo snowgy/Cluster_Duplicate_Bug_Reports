@@ -1,0 +1,1 @@
+{"stack_id": 373130, "component": "LTWeaving", "importance": "P3 normal", "reported_time": "2012-03-02 14:27", "modified_time": "2012-03-02 17:50", "stack_arr": [{"exception": "java.io.NotSerializableException", "calls": [{"package": "xxx.yyyyy", "class": "ZZZClass", "method": "writeExternal_aroundBody4", "filename": "ZZZClass", "line": "70"}]}], "duplicated_stack_id": []}

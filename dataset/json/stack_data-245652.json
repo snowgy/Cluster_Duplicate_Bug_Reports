@@ -1,0 +1,1 @@
+{"stack_id": 245652, "component": "JPA", "importance": "P2 normal", "reported_time": "2008-08-29 04:39", "modified_time": "2011-11-16 11:25", "stack_arr": [{"exception": "exception", "calls": [{"package": "client", "class": "Client", "method": "main", "filename": "Client", "line": "17"}]}], "duplicated_stack_id": []}

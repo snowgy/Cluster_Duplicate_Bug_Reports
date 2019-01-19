@@ -1,0 +1,1 @@
+{"stack_id": 105111, "component": "wst.common", "importance": "P3 normal", "reported_time": "2005-07-25 22:20", "modified_time": "2010-03-26 20:32", "stack_arr": [{"exception": "java.lang.ClassCastException", "calls": [{"package": "org.eclipse.jface.viewers", "class": "ContentViewer", "method": "setInput", "filename": "ContentViewer", "line": "244"}]}], "duplicated_stack_id": []}

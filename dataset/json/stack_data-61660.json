@@ -1,0 +1,1 @@
+{"stack_id": 61660, "component": "UI", "importance": "P3 normal", "reported_time": "2004-05-10 16:55", "modified_time": "2004-05-20 14:12", "stack_arr": [{"exception": "error", "calls": [{"package": "org.eclipse.osgi.framework.eventmgr", "class": "EventThread", "method": "run", "filename": "EventThread", "line": "107"}]}], "duplicated_stack_id": ["62684", "62795"]}

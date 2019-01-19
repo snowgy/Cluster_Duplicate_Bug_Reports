@@ -1,0 +1,1 @@
+{"stack_id": 96637, "component": "UI", "importance": "P3 normal", "reported_time": "2005-05-25 12:12", "modified_time": "2005-05-27 11:03", "stack_arr": [{"exception": "Exception", "calls": [{"package": "org.eclipse.jdt.core", "class": "JavaCore", "method": "run", "filename": "JavaCore", "line": "3680"}]}], "duplicated_stack_id": []}

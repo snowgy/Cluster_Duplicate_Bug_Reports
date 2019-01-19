@@ -1,0 +1,1 @@
+{"stack_id": 185626, "component": "STP", "importance": "P3 normal", "reported_time": "2007-05-04 18:46", "modified_time": "2012-09-21 14:40", "stack_arr": [{"exception": "java.lang.ClassNotFoundException", "calls": [{"package": "org.apache.cxf.tools.util", "class": "AnnotationUtil", "method": "loadClass", "filename": "AnnotationUtil", "line": "80"}]}], "duplicated_stack_id": []}

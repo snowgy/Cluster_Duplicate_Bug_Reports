@@ -1,0 +1,1 @@
+{"stack_id": 331281, "component": "Core", "importance": "P3 normal", "reported_time": "2010-11-28 06:15", "modified_time": "2010-12-07 04:00", "stack_arr": [{"exception": "java.lang.Error", "calls": [{"package": "Welcome.main", "class": "Welcome", "method": "main", "filename": "Welcome", "line": "19"}]}], "duplicated_stack_id": []}

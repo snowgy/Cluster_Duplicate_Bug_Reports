@@ -1,0 +1,1 @@
+{"stack_id": 300969, "component": "aggregator", "importance": "P3 major", "reported_time": "2010-01-27 05:47", "modified_time": "2010-01-27 06:27", "stack_arr": [{"exception": "java.lang.NullPointerException", "calls": [{"package": "org.eclipse.core.internal.jobs", "class": "Worker", "method": "run", "filename": "Worker", "line": "55"}]}], "duplicated_stack_id": []}

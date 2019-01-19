@@ -1,0 +1,1 @@
+{"stack_id": 113111, "component": "Core", "importance": "P1 critical", "reported_time": "2005-10-19 13:15", "modified_time": "2005-10-28 18:04", "stack_arr": [{"exception": "exception", "calls": [{"package": "org.eclipse.jdt.internal.corext.util", "class": "TypeInfo", "method": "resolveType", "filename": "TypeInfo", "line": "223"}]}], "duplicated_stack_id": []}

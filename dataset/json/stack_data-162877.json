@@ -1,0 +1,1 @@
+{"stack_id": 162877, "component": "Report", "importance": "P3 normal", "reported_time": "2006-10-31 06:49", "modified_time": "2007-03-12 15:01", "stack_arr": [{"exception": "error", "calls": [{"package": "design", "class": "GeraArquivo", "method": "buildDataSource", "filename": "GeraArquivo", "line": "167"}]}], "duplicated_stack_id": []}

@@ -1,0 +1,1 @@
+{"stack_id": 57073, "component": "Incubator", "importance": "P3 normal", "reported_time": "2004-04-01 13:58", "modified_time": "2005-09-27 09:12", "stack_arr": [{"exception": "error", "calls": [{"package": "play.actions", "class": "SampleAction", "method": "run", "filename": "SampleAction", "line": "38"}]}], "duplicated_stack_id": []}

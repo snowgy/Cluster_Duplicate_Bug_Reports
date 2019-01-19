@@ -1,0 +1,1 @@
+{"stack_id": 531094, "component": "Core", "importance": "P3 major", "reported_time": "2018-02-13 06:40", "modified_time": "2018-08-16 00:09", "stack_arr": [{"exception": "java.lang.Error", "calls": [{"package": "OneLinerMapInitializer.main", "class": "OneLinerMapInitializer", "method": "main", "filename": "OneLinerMapInitializer", "line": "22"}]}], "duplicated_stack_id": []}

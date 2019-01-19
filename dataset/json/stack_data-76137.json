@@ -1,0 +1,1 @@
+{"stack_id": 76137, "component": "Core", "importance": "P3 normal", "reported_time": "2004-10-12 21:29", "modified_time": "2004-10-27 10:26", "stack_arr": [{"exception": "java.lang.IllegalStateException", "calls": [{"package": "org.eclipse.core.runtime", "class": "Platform", "method": "run", "filename": "Platform", "line": "747"}]}], "duplicated_stack_id": []}

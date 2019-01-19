@@ -1,0 +1,1 @@
+{"stack_id": 43224, "component": "UI", "importance": "P3 normal", "reported_time": "2003-09-17 11:30", "modified_time": "2003-09-18 04:00", "stack_arr": [{"exception": "java.lang.NoSuchMethodError", "calls": [{"package": "org.eclipse.jdt.core", "class": "JavaCore", "method": "run", "filename": "JavaCore", "line": "2974"}]}], "duplicated_stack_id": []}

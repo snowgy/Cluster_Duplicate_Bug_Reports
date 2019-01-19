@@ -1,0 +1,1 @@
+{"stack_id": 288238, "component": "TPTP", "importance": "P1 major", "reported_time": "2009-09-01 08:01", "modified_time": "2016-05-05 10:49", "stack_arr": [{"exception": "exception", "calls": [{"package": "java.lang", "class": "Thread", "method": "run", "filename": "Thread", "line": "735"}]}], "duplicated_stack_id": []}

@@ -1,0 +1,1 @@
+{"stack_id": 312213, "component": "Xtext", "importance": "P3 major", "reported_time": "2010-05-10 04:12", "modified_time": "2017-09-19 15:40", "stack_arr": [{"exception": "java.lang.IllegalStateException", "calls": [{"package": "org.eclipse.xtext.generator", "class": "LanguageConfig", "method": "setUri", "filename": "LanguageConfig", "line": "112"}]}], "duplicated_stack_id": []}

@@ -1,0 +1,1 @@
+{"stack_id": 484457, "component": "RWT", "importance": "P3 normal", "reported_time": "2015-12-16 03:05", "modified_time": "2015-12-16 03:12", "stack_arr": [{"exception": "Error", "calls": [{"package": "de.zft.maintelrob.gui.views", "class": "LogicView", "method": "initGUI", "filename": "LogicView", "line": "168"}]}, {"exception": "Error", "calls": []}], "duplicated_stack_id": []}

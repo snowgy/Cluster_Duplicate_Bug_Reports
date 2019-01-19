@@ -1,0 +1,1 @@
+{"stack_id": 83017, "component": "Runtime", "importance": "P3 normal", "reported_time": "2005-01-17 14:56", "modified_time": "2005-01-17 15:44", "stack_arr": [{"exception": "java.lang.NoClassDefFoundError", "calls": [{"package": "org.eclipse.jdt.internal.ui", "class": "JavaPlugin", "method": "start", "filename": "JavaPlugin", "line": "376"}]}], "duplicated_stack_id": []}

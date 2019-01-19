@@ -1,0 +1,1 @@
+{"stack_id": 499633, "component": "JGit", "importance": "P3 normal", "reported_time": "2016-08-12 20:55", "modified_time": "2016-08-19 19:12", "stack_arr": [{"exception": "java.io.IOException", "calls": [{"package": "org.eclipse.jgit.api", "class": "AddCommandTest", "method": "testCleanFilterEnvironment", "filename": "AddCommandTest", "line": "172"}]}], "duplicated_stack_id": []}

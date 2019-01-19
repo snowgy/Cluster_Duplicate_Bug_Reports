@@ -1,0 +1,1 @@
+{"stack_id": 178471, "component": "Teneo", "importance": "P3 major", "reported_time": "2007-03-20 20:29", "modified_time": "2008-01-28 16:56", "stack_arr": [{"exception": "java.sql.BatchUpdateException", "calls": [{"package": "org.hibernate.jdbc", "class": "AbstractBatcher", "method": "executeBatch", "filename": "AbstractBatcher", "line": "242"}]}], "duplicated_stack_id": []}

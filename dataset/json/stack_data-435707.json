@@ -1,0 +1,1 @@
+{"stack_id": 435707, "component": "Core", "importance": "P3 major", "reported_time": "2014-05-24 19:21", "modified_time": "2015-01-20 09:15", "stack_arr": [{"exception": "java.lang.ClassFormatError", "calls": [{"package": "v2.test", "class": "M", "method": "main", "filename": "M", "line": "5"}]}], "duplicated_stack_id": []}

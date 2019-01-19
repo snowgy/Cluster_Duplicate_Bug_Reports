@@ -1,0 +1,1 @@
+{"stack_id": 106541, "component": "APT", "importance": "P3 major", "reported_time": "2005-08-09 14:54", "modified_time": "2005-10-28 21:30", "stack_arr": [{"exception": "java.lang.ClassNotFoundException", "calls": [{"package": "java.lang", "class": "ClassLoader", "method": "loadClass", "filename": "ClassLoader", "line": "251"}]}], "duplicated_stack_id": []}

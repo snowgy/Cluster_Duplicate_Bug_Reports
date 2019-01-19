@@ -1,0 +1,1 @@
+{"stack_id": 209779, "component": "Core", "importance": "P3 normal", "reported_time": "2007-11-14 07:19", "modified_time": "2008-05-30 08:09", "stack_arr": [{"exception": "java.lang.ClassCastException", "calls": [{"package": "ForEachTest.main", "class": "ForEachTest", "method": "main", "filename": "ForEachTest", "line": "11"}]}], "duplicated_stack_id": []}

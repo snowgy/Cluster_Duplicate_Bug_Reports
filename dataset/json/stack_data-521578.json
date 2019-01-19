@@ -1,0 +1,1 @@
+{"stack_id": 521578, "component": "IDE", "importance": "P3 major", "reported_time": "2017-08-30 05:17", "modified_time": "2017-08-30 09:54", "stack_arr": [{"exception": "org.eclipse.swt.SWTException", "calls": [{"package": "org.eclipse.swt", "class": "SWT", "method": "error", "filename": "SWT", "line": "4533"}]}], "duplicated_stack_id": []}

@@ -1,0 +1,1 @@
+{"stack_id": 214570, "component": "Framework", "importance": "P3 critical", "reported_time": "2008-01-07 23:32", "modified_time": "2008-02-28 16:37", "stack_arr": [{"exception": "exception", "calls": [{"package": "org.eclipse.equinox.launcher", "class": "Main", "method": "findMax", "filename": "Main", "line": "871"}]}], "duplicated_stack_id": []}

@@ -1,0 +1,1 @@
+{"stack_id": 410971, "component": "Core", "importance": "P3 normal", "reported_time": "2013-06-17 23:00", "modified_time": "2013-08-06 08:01", "stack_arr": [{"exception": "error", "calls": [{"package": "org.eclipse.jdt.internal.compiler.codegen", "class": "ExceptionLabel", "method": "placeEnd", "filename": "ExceptionLabel", "line": "41"}]}], "duplicated_stack_id": []}

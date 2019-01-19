@@ -1,0 +1,1 @@
+{"stack_id": 521248, "component": "UI", "importance": "P3 normal", "reported_time": "2017-08-22 08:26", "modified_time": "2017-08-22 08:27", "stack_arr": [{"exception": "exception", "calls": [{"package": "org.eclipse.jdt.internal.core", "class": "ModularClassFile", "method": "getType", "filename": "ModularClassFile", "line": "117"}]}], "duplicated_stack_id": []}

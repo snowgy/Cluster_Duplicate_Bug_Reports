@@ -1,0 +1,1 @@
+{"stack_id": 499258, "component": "Core", "importance": "P3 critical", "reported_time": "2016-08-05 21:57", "modified_time": "2017-02-13 06:02", "stack_arr": [{"exception": "error", "calls": [{"package": "org.eclipse.jdt.internal.compiler.ast", "class": "FieldReference", "method": "analyseCode", "filename": "FieldReference", "line": "154"}]}], "duplicated_stack_id": []}
