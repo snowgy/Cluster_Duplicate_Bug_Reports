@@ -14,13 +14,14 @@ def save(filename, rows):
   outfile.close()
 
 def start():
-  TEST_SIZE = 800
-  TRAIN_SIZE = 200
+  TEST_SIZE = 300
+  TRAIN_SIZE = 1200
   test = []
   train = []
   data = load_data()
   total_size = len(data)
   ratio = int(total_size / (TEST_SIZE + TRAIN_SIZE)) - 1
+  if ratio == 0: ratio = 1
   index = 0
   for line in data:
     if index % ratio == 0:
