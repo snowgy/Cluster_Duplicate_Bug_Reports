@@ -1,6 +1,7 @@
 import json
 import os
 
+# 来自 https://github.com/ZhangShurong/rebucket/blob/master/test.py
 
 def purity(real_buckets, BUCKETS, flag=False):
     buckets = []
@@ -94,6 +95,7 @@ def wrong(real_buckets, BUCKETS, flag=False):
                         print("Real bucket is " + str(real_bucket))
             print("Wrong bucket is " + str(bucket))
 
+    print('wrong_set: ', wrong_set)
     return len(real_set) - len(wrong_set)
 
 
