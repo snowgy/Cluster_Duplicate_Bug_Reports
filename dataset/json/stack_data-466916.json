@@ -1,1 +1,0 @@
-{"stack_id": 466916, "component": "CBI p2 Repository Aggregator", "importance": "P3 normal", "reported_time": "2015-05-09 13:56", "modified_time": "2016-09-16 15:58", "stack_arr": [{"exception": "org.eclipse.core.runtime.CoreException", "calls": []}, {"exception": "org.eclipse.osgi.signedcontent.InvalidContentException", "calls": []}], "duplicated_stack_id": []}

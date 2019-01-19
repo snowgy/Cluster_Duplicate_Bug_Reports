@@ -1,0 +1,1 @@
+{"stack_id": 432178, "component": "LTWeaving", "importance": "P3 blocker", "reported_time": "2014-04-07 13:30", "modified_time": "2014-04-15 19:51", "stack_arr": [{"exception": "java.lang.NoSuchMethodError", "calls": [{"package": "A.main", "class": "A", "method": "main", "filename": "A", "line": "6"}]}], "duplicated_stack_id": []}

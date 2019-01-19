@@ -1,1 +1,0 @@
-{"stack_id": 39253, "component": "UI", "importance": "P3 critical", "reported_time": "2003-06-24 03:36", "modified_time": "2003-06-24 11:02", "stack_arr": [{"exception": "org.eclipse.swt.SWTException", "calls": []}], "duplicated_stack_id": []}

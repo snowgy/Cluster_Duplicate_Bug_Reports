@@ -1,1 +1,0 @@
-{"stack_id": 87157, "component": "Core", "importance": "P3 minor", "reported_time": "2005-03-04 11:47", "modified_time": "2005-03-07 05:45", "stack_arr": [{"exception": "java.lang.AbstractMethodError", "calls": [{"package": "C2.main", "class": "C2", "method": "main", "filename": "C2", "line": "12"}]}], "duplicated_stack_id": []}

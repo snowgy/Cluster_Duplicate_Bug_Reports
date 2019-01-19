@@ -1,1 +1,0 @@
-{"stack_id": 101921, "component": "jst.server", "importance": "P3 critical", "reported_time": "2005-06-27 16:21", "modified_time": "2005-12-13 10:25", "stack_arr": [{"exception": "error", "calls": [{"package": "org.jboss.naming", "class": "NamingService", "method": "startService", "filename": "NamingService", "line": "235"}]}], "duplicated_stack_id": []}

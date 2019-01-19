@@ -1,1 +1,0 @@
-[{"field": [["org", "eclipse", "core", "runtime"], ["org", "eclipse", "ui", "internal"], ["org", "eclipse", "ui", "progress"], ["org", "eclipse", "core", "launcher"]], "deep": 4, "interest_field": "org.eclipse.core.runtime", "interest_length": 3, "interest_start": 3, "interest_end": 5}]

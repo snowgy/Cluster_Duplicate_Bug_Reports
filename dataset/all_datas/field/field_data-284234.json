@@ -1,0 +1,1 @@
+[{"field": [["org", "eclipse", "gmf", "mappings", "impl"], ["org", "eclipse", "gmf", "mappings", "provider"], ["org", "eclipse", "emf", "edit", "provider"], ["org", "eclipse", "gmf", "mappings", "presentation"]], "deep": 5, "interest_field": "org.eclipse.gmf.mappings.presentation", "interest_length": 2, "interest_start": 3, "interest_end": 4}]

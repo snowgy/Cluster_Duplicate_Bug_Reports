@@ -1,0 +1,1 @@
+{"stack_id": 185210, "component": "Core", "importance": "P3 normal", "reported_time": "2007-05-02 15:54", "modified_time": "2007-05-07 11:18", "stack_arr": [{"exception": "java.lang.NoClassDefFoundError", "calls": []}, {"exception": "Error", "calls": []}, {"exception": "java.lang.NoClassDefFoundError", "calls": []}], "duplicated_stack_id": []}

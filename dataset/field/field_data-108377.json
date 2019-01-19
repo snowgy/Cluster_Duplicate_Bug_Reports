@@ -1,1 +1,0 @@
-[{"field": [], "deep": 0, "interest_field": null, "interest_length": 0, "interest_start": 0, "interest_end": 0}, {"field": [["A", "<init>"], ["A", "main"]], "deep": 3, "interest_field": "A.<init>", "interest_length": 1, "interest_start": 0, "interest_end": 0}]

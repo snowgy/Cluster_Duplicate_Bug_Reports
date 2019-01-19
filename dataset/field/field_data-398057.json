@@ -1,1 +1,0 @@
-[{"field": [["org", "hibernate", "jdbc"], ["org", "hibernate", "engine"], ["org", "hibernate", "persister"], ["org", "hibernate", "action"], ["org", "hibernate", "event"], ["org", "hibernate", "internal"], ["org", "eclipse", "emf"], ["org", "eclipse", "net4j"]], "deep": 3, "interest_field": "org.eclipse.net4j", "interest_length": 7, "interest_start": 20, "interest_end": 26}]

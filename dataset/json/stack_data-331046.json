@@ -1,1 +1,0 @@
-{"stack_id": 331046, "component": "jetty", "importance": "P3 enhancement", "reported_time": "2010-11-24 12:11", "modified_time": "2012-05-04 12:27", "stack_arr": [{"exception": "org.eclipse.virgo.kernel.deployer.core.DeploymentException", "calls": []}], "duplicated_stack_id": []}

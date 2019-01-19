@@ -1,0 +1,1 @@
+{"stack_id": 349667, "component": "JGit", "importance": "P3 normal", "reported_time": "2011-06-17 05:55", "modified_time": "2011-08-18 13:03", "stack_arr": [{"exception": "org.eclipse.jgit.api.errors.RefNotFoundException", "calls": []}], "duplicated_stack_id": []}

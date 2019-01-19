@@ -1,1 +1,0 @@
-{"stack_id": 69706, "component": "Compiler", "importance": "P3 blocker", "reported_time": "2004-07-09 05:39", "modified_time": "2004-10-21 04:32", "stack_arr": [{"exception": "error", "calls": [{"package": "exceedsoft.test", "class": "PERSTTests", "method": "main", "filename": "PERSTTests", "line": "15"}]}], "duplicated_stack_id": []}

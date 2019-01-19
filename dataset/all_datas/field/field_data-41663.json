@@ -1,0 +1,1 @@
+[{"field": [["org", "eclipse", "core", "internal", "utils"], ["org", "eclipse", "core", "internal", "resources"], ["org", "eclipse", "core", "internal", "events"], ["org", "eclipse", "core", "internal", "jobs"]], "deep": 5, "interest_field": "org.eclipse.core.internal.resources", "interest_length": 2, "interest_start": 3, "interest_end": 4}]

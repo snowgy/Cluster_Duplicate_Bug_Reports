@@ -1,1 +1,0 @@
-[{"field": [["org", "apache", "axis"], ["org", "apache", "axis", "description"], ["org", "apache", "axis", "providers"], ["org", "apache", "axis", "handlers"], ["org", "apache", "axis", "deployment"], ["org", "apache", "axis", "configuration"]], "deep": 4, "interest_field": "org.apache.axis.deployment", "interest_length": 4, "interest_start": 4, "interest_end": 7}]

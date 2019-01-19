@@ -1,1 +1,0 @@
-{"stack_id": 394839, "component": "other", "importance": "P3 normal", "reported_time": "2012-11-21 15:57", "modified_time": "2012-11-21 20:10", "stack_arr": [{"exception": "java.lang.StringIndexOutOfBoundsException", "calls": [{"package": "java.lang", "class": "String", "method": "substring", "filename": "String", "line": "1931"}]}], "duplicated_stack_id": []}

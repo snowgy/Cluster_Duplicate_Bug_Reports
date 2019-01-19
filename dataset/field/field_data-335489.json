@@ -1,1 +1,0 @@
-[{"field": [["org", "eclipse", "birt", "report", "service"]], "deep": 6, "interest_field": "org.eclipse.birt.report.service", "interest_length": 1, "interest_start": 0, "interest_end": 0}, {"field": [["org", "postgresql", "core", "v3"]], "deep": 5, "interest_field": "org.postgresql.core.v3", "interest_length": 1, "interest_start": 0, "interest_end": 0}]

@@ -1,0 +1,1 @@
+[{"field": [["org", "eclipse", "virgo", "kernel", "install", "pipeline"], ["org", "eclipse", "virgo", "kernel", "deployer", "core"], ["org", "eclipse", "virgo", "kernel", "deployer", "management"]], "deep": 6, "interest_field": "org.eclipse.virgo.kernel.install.pipeline", "interest_length": 6, "interest_start": 0, "interest_end": 5}]

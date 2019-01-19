@@ -1,0 +1,1 @@
+[{"field": [["org", "eclipse"], ["junit", "framework"], ["org", "junit"]], "deep": 2, "interest_field": "org.eclipse", "interest_length": 31, "interest_start": 14, "interest_end": 44}, {"field": [["org"], ["com"], ["javax"]], "deep": 1, "interest_field": "com", "interest_length": 13, "interest_start": 9, "interest_end": 21}]

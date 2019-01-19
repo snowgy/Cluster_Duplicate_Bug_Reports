@@ -1,1 +1,0 @@
-{"stack_id": 328074, "component": "ecf.protocols", "importance": "P3 enhancement", "reported_time": "2010-10-18 16:05", "modified_time": "2014-05-01 11:24", "stack_arr": [{"exception": "java.io.IOException", "calls": []}, {"exception": "ch.ethz.iks.slp.ServiceLocationException", "calls": []}], "duplicated_stack_id": []}

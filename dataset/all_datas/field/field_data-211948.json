@@ -1,0 +1,1 @@
+[{"field": [["org", "eclipse", "core", "internal", "resources"], ["org", "eclipse", "birt", "report", "designer", "internal", "ui", "util"], ["org", "eclipse", "birt", "report", "designer", "internal", "ui", "ide", "adapters"]], "deep": 10, "interest_field": "org.eclipse.core.internal.resources", "interest_length": 6, "interest_start": 0, "interest_end": 5}]

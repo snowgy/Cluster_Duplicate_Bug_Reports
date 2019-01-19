@@ -1,0 +1,1 @@
+{"stack_id": 103689, "component": "jst.j2ee", "importance": "P3 blocker", "reported_time": "2005-07-13 13:39", "modified_time": "2005-07-15 17:11", "stack_arr": [{"exception": "java.lang.InstantiationException", "calls": [{"package": "java.lang", "class": "Class", "method": "newInstance", "filename": "Class", "line": "1481"}]}], "duplicated_stack_id": []}

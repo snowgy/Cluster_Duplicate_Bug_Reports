@@ -1,1 +1,0 @@
-{"stack_id": 96230, "component": "jst.jem", "importance": "P3 normal", "reported_time": "2005-05-21 12:56", "modified_time": "2005-07-29 11:05", "stack_arr": [{"exception": "java.awt.AWTError", "calls": []}, {"exception": "java.lang.ClassNotFoundException", "calls": []}], "duplicated_stack_id": []}

@@ -1,0 +1,1 @@
+[{"field": [["org", "eclipse", "osgi"], ["org", "eclipse", "core"], ["org", "eclipse", "debug"], ["org", "eclipse", "swt"], ["org", "eclipse", "jface"], ["org", "eclipse", "ltk"], ["org", "eclipse", "jdt"], ["org", "eclipse", "ui"], ["org", "eclipse", "equinox"]], "deep": 3, "interest_field": "org.eclipse.swt", "interest_length": 16, "interest_start": 47, "interest_end": 62}]

@@ -1,1 +1,0 @@
-[{"field": [["io", "vertx", "core"], ["io", "netty", "channel"], ["io", "netty", "handler"], ["io", "netty", "util"]], "deep": 3, "interest_field": "io.netty.channel", "interest_length": 8, "interest_start": 10, "interest_end": 17}]

@@ -1,1 +1,0 @@
-{"stack_id": 53875, "component": "Core", "importance": "P3 normal", "reported_time": "2004-03-05 11:06", "modified_time": "2008-01-28 16:41", "stack_arr": [{"exception": "java.lang.RuntimeException", "calls": [{"package": "org.eclipse.xsd.impl.type", "class": "RegEx$RegexParser", "method": "<init>", "filename": "RegEx", "line": "2113"}]}], "duplicated_stack_id": []}

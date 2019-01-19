@@ -1,1 +1,0 @@
-{"stack_id": 382330, "component": "runtime", "importance": "P3 normal", "reported_time": "2012-06-12 04:44", "modified_time": "2012-06-26 05:09", "stack_arr": [{"exception": "junit.framework.AssertionFailedError", "calls": []}, {"exception": "java.io.FileNotFoundException", "calls": []}], "duplicated_stack_id": []}

@@ -1,0 +1,1 @@
+{"stack_id": 427216, "component": "Core", "importance": "P3 blocker", "reported_time": "2014-02-02 09:04", "modified_time": "2014-02-21 04:42", "stack_arr": [{"exception": "java.lang.NoSuchMethodError", "calls": [{"package": "Test.main", "class": "Test", "method": "main", "filename": "Test", "line": "8"}]}], "duplicated_stack_id": []}

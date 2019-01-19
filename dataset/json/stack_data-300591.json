@@ -1,1 +1,0 @@
-{"stack_id": 300591, "component": "Core", "importance": "P3 blocker", "reported_time": "2010-01-22 21:57", "modified_time": "2010-01-27 12:09", "stack_arr": [{"exception": "NoClassDefFoundError", "calls": []}], "duplicated_stack_id": []}

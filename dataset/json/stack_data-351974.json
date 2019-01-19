@@ -1,1 +1,0 @@
-{"stack_id": 351974, "component": "EDT", "importance": "P3 minor", "reported_time": "2011-07-13 09:49", "modified_time": "2017-02-23 14:20", "stack_arr": [{"exception": "org.eclipse.edt.mof.serialization.DeserializationException", "calls": []}], "duplicated_stack_id": []}

@@ -1,1 +1,0 @@
-{"stack_id": 520660, "component": "CI-Jenkins", "importance": "P3 major", "reported_time": "2017-08-08 04:56", "modified_time": "2018-03-07 17:03", "stack_arr": [{"exception": "org.apache.maven.lifecycle.LifecycleExecutionException", "calls": []}], "duplicated_stack_id": ["522076", "522198"]}

@@ -1,1 +1,0 @@
-{"stack_id": 88153, "component": "Compiler", "importance": "P3 major", "reported_time": "2005-03-16 05:27", "modified_time": "2005-08-24 12:25", "stack_arr": [{"exception": "error", "calls": [{"package": "org.aspectj.ajde.internal", "class": "CompilerAdapter", "method": "compile", "filename": "CompilerAdapter", "line": "122"}]}], "duplicated_stack_id": []}

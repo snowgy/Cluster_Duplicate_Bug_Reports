@@ -1,0 +1,1 @@
+{"stack_id": 216764, "component": "Geclipse", "importance": "P3 normal", "reported_time": "2008-01-28 09:00", "modified_time": "2014-01-09 16:13", "stack_arr": [{"exception": "org.globus.gram.GramException", "calls": []}], "duplicated_stack_id": []}

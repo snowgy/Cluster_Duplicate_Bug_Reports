@@ -1,0 +1,1 @@
+{"stack_id": 102199, "component": "jst.j2ee", "importance": "P3 blocker", "reported_time": "2005-06-29 16:04", "modified_time": "2005-07-11 10:46", "stack_arr": [{"exception": "exception", "calls": [{"package": "org.eclipse.emf.ecore.resource.impl", "class": "ResourceImpl", "method": "load", "filename": "ResourceImpl", "line": "977"}]}], "duplicated_stack_id": []}

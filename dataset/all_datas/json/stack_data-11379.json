@@ -1,0 +1,1 @@
+{"stack_id": 11379, "component": "UI", "importance": "P3 normal", "reported_time": "2002-03-14 13:12", "modified_time": "2002-05-23 18:24", "stack_arr": [{"exception": "java.lang.NoClassDefFoundError", "calls": [{"package": "SlimLauncher.main", "class": "SlimLauncher", "method": "main", "filename": "SlimLauncher", "line": "14"}]}], "duplicated_stack_id": []}

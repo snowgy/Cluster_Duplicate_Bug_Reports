@@ -1,1 +1,0 @@
-[{"field": [["com", "sun", "xml", "internal", "ws", "fault"], ["com", "sun", "xml", "internal", "ws", "client", "dispatch"], ["test"]], "deep": 8, "interest_field": "com.sun.xml.internal.ws.fault", "interest_length": 2, "interest_start": 0, "interest_end": 1}]

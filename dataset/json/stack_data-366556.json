@@ -1,1 +1,0 @@
-{"stack_id": 366556, "component": "JPA", "importance": "P3 blocker", "reported_time": "2011-12-13 10:36", "modified_time": "2013-02-06 09:44", "stack_arr": [{"exception": "exception", "calls": [{"package": "org.eclipse.persistence.internal.jpa", "class": "EJBQueryImpl", "method": "getFlushMode", "filename": "EJBQueryImpl", "line": "1324"}]}], "duplicated_stack_id": []}

@@ -1,0 +1,1 @@
+[{"field": [["org", "eclipse", "osgi", "framework", "internal"], ["org", "eclipse", "cdt", "dsf", "service"], ["org", "eclipse", "cdt", "dsf", "concurrent"]], "deep": 5, "interest_field": "org.eclipse.cdt.dsf.service", "interest_length": 3, "interest_start": 2, "interest_end": 4}]

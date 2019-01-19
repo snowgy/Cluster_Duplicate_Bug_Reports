@@ -1,0 +1,1 @@
+[{"field": [["hudson"]], "deep": 2, "interest_field": "hudson", "interest_length": 1, "interest_start": 0, "interest_end": 0}, {"field": [["java", "net"], ["hudson"]], "deep": 3, "interest_field": "java.net", "interest_length": 2, "interest_start": 0, "interest_end": 1}]

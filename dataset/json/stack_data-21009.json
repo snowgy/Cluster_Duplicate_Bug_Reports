@@ -1,1 +1,0 @@
-{"stack_id": 21009, "component": "SWT", "importance": "P2 normal      with      1       vote", "reported_time": "2002-06-26 10:24", "modified_time": "2006-09-26 12:20", "stack_arr": [{"exception": "ArrayIndexOutOfBoundsException", "calls": []}], "duplicated_stack_id": []}

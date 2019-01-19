@@ -1,1 +1,0 @@
-{"stack_id": 325314, "component": "SWT", "importance": "P3 normal", "reported_time": "2010-09-15 03:46", "modified_time": "2016-12-20 15:41", "stack_arr": [{"exception": "java.lang.UnsatisfiedLinkError", "calls": [{"package": "SWTInAWT.main", "class": "SWTInAWT", "method": "main", "filename": "SWTInAWT", "line": "16"}]}], "duplicated_stack_id": []}

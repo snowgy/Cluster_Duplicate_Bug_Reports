@@ -1,1 +1,0 @@
-[{"field": [], "deep": 0, "interest_field": null, "interest_length": 0, "interest_start": 0, "interest_end": 0}, {"field": [["org", "eclipse", "emf"], ["org", "eclipse", "m2m"], ["org", "eclipse", "ocl"], ["org", "eclipse", "papyrus"], ["org", "eclipse", "core"]], "deep": 3, "interest_field": "org.eclipse.m2m", "interest_length": 22, "interest_start": 12, "interest_end": 33}]

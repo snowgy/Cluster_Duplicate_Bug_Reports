@@ -1,0 +1,1 @@
+{"stack_id": 149824, "component": "UI", "importance": "P3 major", "reported_time": "2006-07-06 09:27", "modified_time": "2007-07-29 09:20", "stack_arr": [{"exception": "java.lang.NoClassDefFoundError", "calls": [{"package": "com.qualityeclipse.sample", "class": "ListViewerExample", "method": "main", "filename": "ListViewerExample", "line": "36"}]}], "duplicated_stack_id": []}

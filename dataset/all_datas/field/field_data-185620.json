@@ -1,0 +1,1 @@
+[{"field": [], "deep": 0, "interest_field": null, "interest_length": 0, "interest_start": 0, "interest_end": 0}, {"field": [["java", "io"], ["org", "eclipse", "osgi", "framework", "internal", "core"]], "deep": 7, "interest_field": "java.io", "interest_length": 7, "interest_start": 0, "interest_end": 6}]

@@ -1,1 +1,0 @@
-{"stack_id": 65930, "component": "Text", "importance": "P2 normal", "reported_time": "2004-06-07 04:01", "modified_time": "2004-06-11 06:20", "stack_arr": [{"exception": "exception", "calls": [{"package": "java.lang", "class": "Thread", "method": "run", "filename": "Thread", "line": "534"}]}], "duplicated_stack_id": []}

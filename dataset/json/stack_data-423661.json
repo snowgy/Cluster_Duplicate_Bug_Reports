@@ -1,1 +1,0 @@
-{"stack_id": 423661, "component": "Core", "importance": "P3 normal", "reported_time": "2013-12-10 04:20", "modified_time": "2013-12-10 08:01", "stack_arr": [{"exception": "error", "calls": [{"package": "org.eclipse.xtend.lib.macro", "class": "AbstractClassProcessor", "method": "doTransform", "filename": "AbstractClassProcessor", "line": "42"}]}], "duplicated_stack_id": []}

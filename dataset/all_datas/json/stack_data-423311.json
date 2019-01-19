@@ -1,0 +1,1 @@
+{"stack_id": 423311, "component": "Tooling", "importance": "P3 major", "reported_time": "2013-12-05 08:47", "modified_time": "2013-12-09 12:50", "stack_arr": [{"exception": "IncompatibleTypesError", "calls": []}], "duplicated_stack_id": []}

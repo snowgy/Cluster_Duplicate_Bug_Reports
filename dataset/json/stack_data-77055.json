@@ -1,1 +1,0 @@
-{"stack_id": 77055, "component": "SWT", "importance": "P3 normal", "reported_time": "2004-10-26 16:33", "modified_time": "2005-04-11 23:36", "stack_arr": [{"exception": "SWTException", "calls": []}], "duplicated_stack_id": []}

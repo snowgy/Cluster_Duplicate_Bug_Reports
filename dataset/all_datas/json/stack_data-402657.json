@@ -1,0 +1,1 @@
+{"stack_id": 402657, "component": "Git", "importance": "P3 normal", "reported_time": "2013-03-07 09:47", "modified_time": "2013-11-05 07:42", "stack_arr": [{"exception": "java.io.UnsupportedEncodingException", "calls": []}], "duplicated_stack_id": []}

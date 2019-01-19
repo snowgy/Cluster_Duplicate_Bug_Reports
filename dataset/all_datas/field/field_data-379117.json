@@ -1,0 +1,1 @@
+[{"field": [["org", "eclipse", "emf", "cdo", "eresource", "impl"], ["org", "eclipse", "emf", "cdo", "tests", "bugzilla"], ["junit", "framework"], ["org", "eclipse", "net4j", "util", "tests"], ["org", "eclipse", "emf", "cdo", "tests", "config"]], "deep": 6, "interest_field": "junit.framework", "interest_length": 4, "interest_start": 5, "interest_end": 8}]

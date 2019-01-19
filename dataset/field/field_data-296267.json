@@ -1,1 +1,0 @@
-[{"field": [["org", "mozilla", "javascript"], ["config"]], "deep": 4, "interest_field": "org.mozilla.javascript", "interest_length": 10, "interest_start": 0, "interest_end": 9}, {"field": [["xdc", "services", "global"], ["org", "mozilla", "javascript"]], "deep": 4, "interest_field": "xdc.services.global", "interest_length": 3, "interest_start": 0, "interest_end": 2}]

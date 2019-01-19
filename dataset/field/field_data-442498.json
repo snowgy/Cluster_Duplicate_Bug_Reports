@@ -1,1 +1,0 @@
-[{"field": [["org"], ["javax"], ["hudson"]], "deep": 1, "interest_field": "org", "interest_length": 82, "interest_start": 0, "interest_end": 81}, {"field": [["hudson"], ["org"], ["javax"]], "deep": 1, "interest_field": "org", "interest_length": 91, "interest_start": 15, "interest_end": 105}]

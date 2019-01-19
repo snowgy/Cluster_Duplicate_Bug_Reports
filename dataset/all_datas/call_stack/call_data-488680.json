@@ -1,0 +1,1 @@
+[{"exception": "PersistenceException", "inner": [], "outer_pre": [], "outer_suf": [], "all": []}, {"exception": "javax.persistence.PersistenceException", "inner": [], "outer_pre": [], "outer_suf": [], "all": []}, {"exception": "Exception", "inner": [], "outer_pre": [], "outer_suf": [], "all": []}]

@@ -1,1 +1,0 @@
-{"stack_id": 51362, "component": "Resources", "importance": "P3 normal", "reported_time": "2004-02-09 10:22", "modified_time": "2004-11-08 16:40", "stack_arr": [{"exception": "exception", "calls": [{"package": "org.eclipse.core.internal.resources", "class": "Project", "method": "open", "filename": "Project", "line": "689"}]}], "duplicated_stack_id": []}

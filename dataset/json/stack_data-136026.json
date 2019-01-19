@@ -1,1 +1,0 @@
-{"stack_id": 136026, "component": "Compiler", "importance": "P3 major", "reported_time": "2006-04-10 21:41", "modified_time": "2006-05-12 08:36", "stack_arr": [{"exception": "java.lang.VerifyError", "calls": [{"package": "bugs", "class": "CflowOrder", "method": "main", "filename": "CflowOrder", "line": "20"}]}, {"exception": "error", "calls": []}], "duplicated_stack_id": []}

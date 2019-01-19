@@ -1,1 +1,0 @@
-{"stack_id": 354295, "component": "MOXy", "importance": "P3 normal", "reported_time": "2011-08-09 15:27", "modified_time": "2011-08-10 09:37", "stack_arr": [{"exception": "org.xml.sax.SAXParseException", "calls": []}], "duplicated_stack_id": []}

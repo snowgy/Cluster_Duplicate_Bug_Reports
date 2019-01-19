@@ -1,0 +1,1 @@
+[{"field": [], "deep": 0, "interest_field": null, "interest_length": 0, "interest_start": 0, "interest_end": 0}, {"field": [["org", "eclipse", "jdt"], ["org", "eclipse", "objectteams"], ["org", "eclipse", "jface"]], "deep": 3, "interest_field": "org.eclipse.jdt", "interest_length": 10, "interest_start": 6, "interest_end": 15}]

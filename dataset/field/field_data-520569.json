@@ -1,1 +1,0 @@
-[{"field": [["org"], ["java"], ["com"]], "deep": 1, "interest_field": "org", "interest_length": 12, "interest_start": 26, "interest_end": 37}, {"field": [["org", "gradle"], ["org", "eclipse"], ["java", "util"]], "deep": 2, "interest_field": "org.gradle", "interest_length": 76, "interest_start": 15, "interest_end": 90}]

@@ -1,1 +1,0 @@
-{"stack_id": 432953, "component": "Editor", "importance": "P3 normal", "reported_time": "2014-04-16 13:47", "modified_time": "2014-12-17 10:09", "stack_arr": [{"exception": "TypeError", "calls": []}, {"exception": "Error", "calls": []}], "duplicated_stack_id": []}

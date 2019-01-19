@@ -1,1 +1,0 @@
-{"stack_id": 245374, "component": "Cosmos", "importance": "P3 normal", "reported_time": "2008-08-27 08:31", "modified_time": "2012-01-03 13:54", "stack_arr": [{"exception": "org.eclipse.birt.report.engine.api.EngineException", "calls": []}], "duplicated_stack_id": []}

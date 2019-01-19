@@ -1,1 +1,0 @@
-{"stack_id": 334935, "component": "CI-Jenkins", "importance": "P3 normal", "reported_time": "2011-01-20 13:50", "modified_time": "2011-03-02 09:27", "stack_arr": [{"exception": "java.io.IOException", "calls": []}], "duplicated_stack_id": []}

@@ -1,1 +1,0 @@
-{"stack_id": 262222, "component": "UI", "importance": "P3 major", "reported_time": "2009-01-23 14:10", "modified_time": "2009-01-23 14:14", "stack_arr": [{"exception": "org.eclipse.swt.SWTException", "calls": []}], "duplicated_stack_id": []}

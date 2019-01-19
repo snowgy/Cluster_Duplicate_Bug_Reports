@@ -1,0 +1,1 @@
+{"stack_id": 147296, "component": "cdt-build", "importance": "P3 major", "reported_time": "2006-06-15 10:21", "modified_time": "2006-06-16 06:01", "stack_arr": [{"exception": "ClassCastException", "calls": []}], "duplicated_stack_id": []}

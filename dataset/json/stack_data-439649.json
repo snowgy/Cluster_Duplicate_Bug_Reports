@@ -1,1 +1,0 @@
-{"stack_id": 439649, "component": "Wikitext", "importance": "P3 normal", "reported_time": "2014-07-15 14:12", "modified_time": "2014-07-15 18:37", "stack_arr": [{"exception": "exception", "calls": []}, {"exception": "org.osgi.framework.BundleException", "calls": []}], "duplicated_stack_id": []}

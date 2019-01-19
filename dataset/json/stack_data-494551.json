@@ -1,1 +1,0 @@
-{"stack_id": 494551, "component": "JGit", "importance": "P3 normal", "reported_time": "2016-05-25 10:35", "modified_time": "2018-02-04 10:45", "stack_arr": [{"exception": "org.eclipse.jgit.api.errors.JGitInternalException", "calls": []}, {"exception": "error", "calls": []}, {"exception": "org.eclipse.jgit.errors.MissingObjectException", "calls": []}], "duplicated_stack_id": []}

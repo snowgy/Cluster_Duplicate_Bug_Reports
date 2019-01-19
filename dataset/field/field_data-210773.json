@@ -1,1 +1,0 @@
-[{"field": [], "deep": 0, "interest_field": null, "interest_length": 0, "interest_start": 0, "interest_end": 0}, {"field": [["junit", "framework"], ["org", "eclipse", "core", "tests", "session"], ["org", "eclipse", "equinox", "security", "junit"]], "deep": 6, "interest_field": "junit.framework", "interest_length": 3, "interest_start": 0, "interest_end": 2}]

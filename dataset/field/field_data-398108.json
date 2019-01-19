@@ -1,1 +1,0 @@
-[{"field": [["org", "apache"], ["org", "eclipse"], ["com", "mm"], ["org", "springframework"]], "deep": 2, "interest_field": "org.apache", "interest_length": 16, "interest_start": 16, "interest_end": 31}, {"field": [["org", "apache", "felix", "framework"]], "deep": 5, "interest_field": "org.apache.felix.framework", "interest_length": 3, "interest_start": 0, "interest_end": 2}]

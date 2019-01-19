@@ -1,1 +1,0 @@
-{"stack_id": 390261, "component": "Core", "importance": "P3 critical", "reported_time": "2012-09-24 15:33", "modified_time": "2012-10-30 04:52", "stack_arr": [{"exception": "SWTError", "calls": []}], "duplicated_stack_id": []}

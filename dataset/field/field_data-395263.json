@@ -1,1 +1,0 @@
-[{"field": [["hudson", "remoting"], ["hudson", "maven"], ["hudson", "model"]], "deep": 2, "interest_field": "hudson.maven", "interest_length": 2, "interest_start": 1, "interest_end": 2}, {"field": [["hudson", "remoting"], ["java", "io"], ["java", "util"]], "deep": 2, "interest_field": "java.io", "interest_length": 14, "interest_start": 4, "interest_end": 17}]

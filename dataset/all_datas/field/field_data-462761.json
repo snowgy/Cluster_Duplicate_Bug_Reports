@@ -1,0 +1,1 @@
+[{"field": [["jdk"], ["javax"], ["io"]], "deep": 1, "interest_field": "jdk", "interest_length": 8, "interest_start": 0, "interest_end": 7}, {"field": [["jdk", "internal", "dynalink", "beans"], ["jdk", "nashorn", "internal", "runtime"]], "deep": 5, "interest_field": "jdk.nashorn.internal.runtime", "interest_length": 3, "interest_start": 1, "interest_end": 3}]

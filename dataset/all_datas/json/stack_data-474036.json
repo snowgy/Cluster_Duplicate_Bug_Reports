@@ -1,0 +1,1 @@
+{"stack_id": 474036, "component": "SWT", "importance": "P3 normal", "reported_time": "2015-07-31 09:43", "modified_time": "2015-08-21 05:29", "stack_arr": [{"exception": "VMError", "calls": []}], "duplicated_stack_id": []}

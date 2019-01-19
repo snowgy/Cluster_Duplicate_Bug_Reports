@@ -1,0 +1,1 @@
+{"stack_id": 437591, "component": "Xpand", "importance": "P3 major", "reported_time": "2014-06-17 09:39", "modified_time": "2015-06-19 15:03", "stack_arr": [{"exception": "org.eclipse.emf.ecore.xmi.PackageNotFoundException", "calls": []}, {"exception": "org.eclipse.emf.ecore.xmi.PackageNotFoundException", "calls": []}], "duplicated_stack_id": []}

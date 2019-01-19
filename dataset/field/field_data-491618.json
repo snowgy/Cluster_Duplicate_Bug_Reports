@@ -1,1 +1,0 @@
-[{"field": [["org", "eclipse", "egerrit"], ["org", "eclipse", "emf"], ["org", "eclipse", "core"], ["org", "eclipse", "ui"], ["org", "eclipse", "e4"], ["org", "eclipse", "swt"], ["org", "eclipse", "equinox"], ["org", "eclipse", "osgi"], ["org", "eclipse", "jface"]], "deep": 3, "interest_field": "org.eclipse.core", "interest_length": 20, "interest_start": 4, "interest_end": 23}]

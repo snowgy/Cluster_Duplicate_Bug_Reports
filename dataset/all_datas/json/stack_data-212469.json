@@ -1,0 +1,1 @@
+{"stack_id": 212469, "component": "OHF", "importance": "P3 critical", "reported_time": "2007-12-10 17:57", "modified_time": "2012-01-05 13:32", "stack_arr": [{"exception": "error", "calls": [{"package": "gov.nist.registry.ws", "class": "SubmitObjectsRequest", "method": "submit_to_backend_registry", "filename": "SubmitObjectsRequest", "line": "325"}]}], "duplicated_stack_id": []}

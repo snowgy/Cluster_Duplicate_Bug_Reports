@@ -1,1 +1,0 @@
-{"stack_id": 534786, "component": "JPA", "importance": "P3 blocker", "reported_time": "2018-05-16 18:55", "modified_time": "2018-05-16 18:57", "stack_arr": [{"exception": "org.springframework.orm.jpa.JpaSystemException", "calls": []}, {"exception": "Exception", "calls": []}], "duplicated_stack_id": []}

@@ -1,1 +1,0 @@
-[{"field": [["org", "eclipse", "egit", "github", "core", "client"], ["org", "eclipse", "egit", "github", "core", "service"], ["org", "eclipse", "mylyn", "internal", "github", "core"]], "deep": 6, "interest_field": "org.eclipse.egit.github.core.client", "interest_length": 3, "interest_start": 0, "interest_end": 2}]

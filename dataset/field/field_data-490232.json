@@ -1,1 +1,0 @@
-[{"field": [["ch"], ["hudson"], ["java"]], "deep": 1, "interest_field": "hudson", "interest_length": 3, "interest_start": 2, "interest_end": 4}, {"field": [["java", "net"], ["ch", "ethz", "ssh2", "transport"], ["ch", "ethz", "ssh2"]], "deep": 5, "interest_field": "java.net", "interest_length": 5, "interest_start": 0, "interest_end": 4}]

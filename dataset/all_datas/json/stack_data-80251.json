@@ -1,0 +1,1 @@
+{"stack_id": 80251, "component": "UI", "importance": "P3 normal", "reported_time": "2004-12-06 05:55", "modified_time": "2004-12-06 10:30", "stack_arr": [{"exception": "org.eclipse.ltk.internal.core.refactoring.AssertionFailedException", "calls": []}, {"exception": "exception", "calls": []}], "duplicated_stack_id": []}

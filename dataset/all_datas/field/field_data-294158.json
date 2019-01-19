@@ -1,0 +1,1 @@
+[{"field": [], "deep": 0, "interest_field": null, "interest_length": 0, "interest_start": 0, "interest_end": 0}, {"field": [["org", "eclipse", "buckminster", "galileo", "builder"], ["org", "eclipse", "equinox", "internal", "app"]], "deep": 6, "interest_field": "org.eclipse.buckminster.galileo.builder", "interest_length": 4, "interest_start": 0, "interest_end": 3}]

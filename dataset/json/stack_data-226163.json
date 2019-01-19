@@ -1,1 +1,0 @@
-{"stack_id": 226163, "component": "Compiler", "importance": "P3 minor", "reported_time": "2008-04-08 13:52", "modified_time": "2008-10-28 16:57", "stack_arr": [{"exception": "error", "calls": []}], "duplicated_stack_id": ["251475", "252278", "252465"]}

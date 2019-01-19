@@ -1,1 +1,0 @@
-[{"field": [["oracle", "toplink", "internal", "helper"], ["oracle", "toplink", "internal", "descriptors"], ["oracle", "toplink", "descriptors", "changetracking"], ["oracle", "toplink", "internal", "sessions"]], "deep": 4, "interest_field": "oracle.toplink.internal.sessions", "interest_length": 4, "interest_start": 7, "interest_end": 10}]

@@ -1,1 +1,0 @@
-{"stack_id": 53006, "component": "Resources", "importance": "P3 normal", "reported_time": "2004-02-24 18:42", "modified_time": "2004-05-10 10:17", "stack_arr": [{"exception": "Exception", "calls": []}, {"exception": "org.eclipse.core.internal.resources.ResourceException", "calls": []}], "duplicated_stack_id": []}

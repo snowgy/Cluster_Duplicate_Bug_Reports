@@ -1,0 +1,1 @@
+{"stack_id": 303703, "component": "JPA", "importance": "P2 normal", "reported_time": "2010-02-23 17:52", "modified_time": "2011-06-06 11:32", "stack_arr": [{"exception": "java.lang.NoSuchMethodException", "calls": []}], "duplicated_stack_id": ["319411"]}

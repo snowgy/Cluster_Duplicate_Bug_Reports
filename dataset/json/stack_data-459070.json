@@ -1,1 +1,0 @@
-{"stack_id": 459070, "component": "Core", "importance": "P3 critical", "reported_time": "2015-02-03 13:59", "modified_time": "2015-06-26 10:40", "stack_arr": [{"exception": "org.eclipse.mat.SnapshotException", "calls": [{"package": "org.eclipse.mat.hprof", "class": "Pass1Parser", "method": "read", "filename": "Pass1Parser", "line": "208"}]}], "duplicated_stack_id": []}

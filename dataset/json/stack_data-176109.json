@@ -1,1 +1,0 @@
-{"stack_id": 176109, "component": "Core", "importance": "P3 normal", "reported_time": "2007-03-01 17:11", "modified_time": "2011-05-27 02:41", "stack_arr": [{"exception": "error", "calls": []}, {"exception": "org.eclipse.ocl.SemanticException", "calls": []}], "duplicated_stack_id": []}

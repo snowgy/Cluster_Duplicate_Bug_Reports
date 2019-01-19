@@ -1,1 +1,0 @@
-{"stack_id": 390871, "component": "JAXB", "importance": "P3 normal", "reported_time": "2012-10-01 17:21", "modified_time": "2012-12-04 11:02", "stack_arr": [{"exception": "ClassCastException", "calls": []}], "duplicated_stack_id": []}

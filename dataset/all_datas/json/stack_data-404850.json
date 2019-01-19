@@ -1,0 +1,1 @@
+{"stack_id": 404850, "component": "Core", "importance": "P3 normal", "reported_time": "2013-04-03 16:28", "modified_time": "2013-05-07 01:31", "stack_arr": [{"exception": "error", "calls": [{"package": "org.eclipse.jdt.internal.compiler.codegen", "class": "StackMapFrame", "method": "addStackItem", "filename": "StackMapFrame", "line": "81"}]}], "duplicated_stack_id": []}

@@ -1,1 +1,0 @@
-{"stack_id": 404346, "component": "EclipseBot", "importance": "P3 blocker", "reported_time": "2013-03-26 06:02", "modified_time": "2013-07-04 07:53", "stack_arr": [{"exception": "org.eclipse.swt.SWTException", "calls": []}], "duplicated_stack_id": []}

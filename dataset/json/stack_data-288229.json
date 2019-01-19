@@ -1,1 +1,0 @@
-{"stack_id": 288229, "component": "XML/XMI", "importance": "P3 normal", "reported_time": "2009-09-01 04:35", "modified_time": "2009-09-01 13:21", "stack_arr": [{"exception": "org.eclipse.emf.ecore.xmi.FeatureNotFoundException", "calls": []}], "duplicated_stack_id": []}

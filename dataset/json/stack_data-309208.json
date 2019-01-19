@@ -1,1 +1,0 @@
-{"stack_id": 309208, "component": "cdt-refactoring", "importance": "P3 major", "reported_time": "2010-04-14 16:04", "modified_time": "2010-04-15 14:19", "stack_arr": [{"exception": "java.lang.ClassCastException", "calls": []}, {"exception": "exception", "calls": []}], "duplicated_stack_id": []}

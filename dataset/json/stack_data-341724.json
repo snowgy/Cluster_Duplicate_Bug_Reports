@@ -1,1 +1,0 @@
-{"stack_id": 341724, "component": "ecf.providers", "importance": "P3 enhancement", "reported_time": "2011-04-03 14:20", "modified_time": "2011-04-22 13:46", "stack_arr": [{"exception": "error", "calls": [{"package": "org.jivesoftware.smack", "class": "XMPPConnection", "method": "proceedTLSReceived", "filename": "XMPPConnection", "line": "1258"}]}], "duplicated_stack_id": []}

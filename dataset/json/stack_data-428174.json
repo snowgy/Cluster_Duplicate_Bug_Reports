@@ -1,1 +1,0 @@
-{"stack_id": 428174, "component": "Foundation", "importance": "P3 normal      with      4       votes", "reported_time": "2014-02-14 05:03", "modified_time": "2016-11-02 11:40", "stack_arr": [{"exception": "javax.persistence.RollbackException", "calls": []}], "duplicated_stack_id": []}

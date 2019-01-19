@@ -1,1 +1,0 @@
-{"stack_id": 29959, "component": "Compiler", "importance": "P3 blocker", "reported_time": "2003-01-22 07:10", "modified_time": "2003-02-13 16:00", "stack_arr": [{"exception": "java.lang.VerifyError", "calls": [{"package": "Main.main", "class": "Main", "method": "main", "filename": "Foo", "line": "11"}]}], "duplicated_stack_id": []}

@@ -1,1 +1,0 @@
-{"stack_id": 62615, "component": "Text", "importance": "P3 normal", "reported_time": "2004-05-18 06:09", "modified_time": "2004-05-18 06:22", "stack_arr": [{"exception": "NullPointerException", "calls": [{"package": "java.lang", "class": "Throwable", "method": "<init>", "filename": "Throwable", "line": ""}]}], "duplicated_stack_id": []}

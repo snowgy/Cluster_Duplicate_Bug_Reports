@@ -1,1 +1,0 @@
-[{"field": [["org", "apache", "solr", "client", "solrj", "embedded"], ["org", "apache", "solr", "client", "solrj", "request"], ["org", "apache", "solr", "client", "solrj"], ["org", "eclipse", "orion", "internal", "server", "search"]], "deep": 6, "interest_field": "org.apache.solr.client.solrj", "interest_length": 2, "interest_start": 2, "interest_end": 3}]

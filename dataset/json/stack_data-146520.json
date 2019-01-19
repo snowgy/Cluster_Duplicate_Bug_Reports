@@ -1,1 +1,0 @@
-{"stack_id": 146520, "component": "Data", "importance": "P3 major", "reported_time": "2006-06-12 03:11", "modified_time": "2009-07-23 02:43", "stack_arr": [{"exception": "org.eclipse.birt.data.engine.core.DataException", "calls": []}], "duplicated_stack_id": []}

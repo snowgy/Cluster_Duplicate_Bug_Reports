@@ -1,1 +1,0 @@
-[{"field": [["copied", "org"], ["org", "eclipse"], ["org", "apache"]], "deep": 2, "interest_field": "org.apache", "interest_length": 2, "interest_start": 2, "interest_end": 3}, {"field": [["org", "eclipse"], ["copied", "org"], ["org", "apache"], ["org", "codehaus"]], "deep": 2, "interest_field": "org.apache", "interest_length": 13, "interest_start": 10, "interest_end": 22}]

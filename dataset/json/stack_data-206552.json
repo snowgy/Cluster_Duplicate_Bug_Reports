@@ -1,1 +1,0 @@
-{"stack_id": 206552, "component": "SWT", "importance": "P3 normal", "reported_time": "2007-10-16 20:16", "modified_time": "2007-10-19 03:57", "stack_arr": [{"exception": "java.lang.OutOfMemoryError", "calls": []}], "duplicated_stack_id": []}

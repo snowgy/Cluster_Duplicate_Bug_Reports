@@ -1,1 +1,0 @@
-{"stack_id": 467588, "component": "Core", "importance": "P3 normal", "reported_time": "2015-05-19 10:08", "modified_time": "2015-05-19 10:51", "stack_arr": [{"exception": "error", "calls": []}, {"exception": "org.gradle.internal.exceptions.LocationAwareException", "calls": []}], "duplicated_stack_id": []}

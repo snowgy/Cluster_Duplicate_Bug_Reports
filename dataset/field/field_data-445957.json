@@ -1,1 +1,0 @@
-[{"field": [["org", "eclipse", "recommenders"], ["org", "eclipse", "core"], ["org", "eclipse", "osgi"], ["org", "eclipse", "m2e"], ["ch", "qos", "logback"]], "deep": 3, "interest_field": "org.eclipse.m2e", "interest_length": 10, "interest_start": 20, "interest_end": 29}]

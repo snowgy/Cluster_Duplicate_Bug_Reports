@@ -1,1 +1,0 @@
-{"stack_id": 8824, "component": "Debug", "importance": "P2 normal", "reported_time": "2002-01-31 09:01", "modified_time": "2002-04-09 12:46", "stack_arr": [{"exception": "disposedorg.eclipse.swt.SWTException", "calls": [{"package": "org.eclipse.swt", "class": "SWT", "method": "error", "filename": "SWT", "line": "1887"}]}], "duplicated_stack_id": []}

@@ -1,1 +1,0 @@
-{"stack_id": 145605, "component": "SWT", "importance": "P3 critical", "reported_time": "2006-06-06 15:14", "modified_time": "2006-06-13 14:04", "stack_arr": [{"exception": "java.lang.ClassCastException", "calls": [{"package": "sun.awt.X11", "class": "XEmbeddedFrame", "method": "<init>", "filename": "XEmbeddedFrame", "line": "59"}]}], "duplicated_stack_id": []}

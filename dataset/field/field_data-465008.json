@@ -1,1 +1,0 @@
-[{"field": [["org", "eclipse", "recommenders"], ["org", "eclipse", "jdt"], ["org", "eclipse", "jface"], ["org", "eclipse", "core"], ["org", "eclipse", "swt"], ["org", "eclipse", "e4"], ["org", "eclipse", "ui"], ["org", "eclipse", "equinox"]], "deep": 3, "interest_field": "org.eclipse.recommenders", "interest_length": 6, "interest_start": 0, "interest_end": 5}]

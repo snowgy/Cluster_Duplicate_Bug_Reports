@@ -1,1 +1,0 @@
-[{"field": [["org", "polarion", "team", "svn", "connector", "svnkit"], ["org", "eclipse", "team", "svn", "core", "extension"], ["org", "eclipse", "team", "svn", "core", "utility"], ["org", "eclipse", "team", "svn", "core", "operation"]], "deep": 6, "interest_field": "org.polarion.team.svn.connector.svnkit", "interest_length": 2, "interest_start": 0, "interest_end": 1}]

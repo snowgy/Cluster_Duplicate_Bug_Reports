@@ -1,0 +1,1 @@
+[{"field": [], "deep": 0, "interest_field": null, "interest_length": 0, "interest_start": 0, "interest_end": 0}, {"field": [["org", "eclipse", "core"], ["org", "eclipse", "ui"], ["org", "eclipse", "cdt"]], "deep": 3, "interest_field": "org.eclipse.cdt", "interest_length": 6, "interest_start": 3, "interest_end": 8}]

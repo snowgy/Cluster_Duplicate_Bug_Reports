@@ -1,1 +1,0 @@
-{"stack_id": 371406, "component": "Git", "importance": "P3 major", "reported_time": "2012-02-13 13:28", "modified_time": "2012-02-16 10:43", "stack_arr": [{"exception": "Error", "calls": []}, {"exception": "TypeError", "calls": []}], "duplicated_stack_id": []}

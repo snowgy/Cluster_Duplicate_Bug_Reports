@@ -1,1 +1,0 @@
-{"stack_id": 482040, "component": "CI-Jenkins", "importance": "P3 blocker", "reported_time": "2015-11-12 14:03", "modified_time": "2015-11-13 08:19", "stack_arr": [{"exception": "org.apache.http.conn.ConnectTimeoutException", "calls": []}], "duplicated_stack_id": []}

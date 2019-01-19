@@ -1,1 +1,0 @@
-[{"field": [["javax", "naming", "spi"], ["javax", "naming"], ["de", "emsw", "gosa", "service", "as"]], "deep": 6, "interest_field": "javax.naming", "interest_length": 3, "interest_start": 1, "interest_end": 3}, {"field": [["java"], ["com"], ["javax"]], "deep": 1, "interest_field": "java", "interest_length": 3, "interest_start": 0, "interest_end": 2}]

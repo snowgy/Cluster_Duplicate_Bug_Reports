@@ -1,1 +1,0 @@
-{"stack_id": 398312, "component": "Photran.Parser", "importance": "P3 normal", "reported_time": "2013-01-16 11:39", "modified_time": "2014-04-19 01:25", "stack_arr": [{"exception": "SyntaxException", "calls": []}], "duplicated_stack_id": []}

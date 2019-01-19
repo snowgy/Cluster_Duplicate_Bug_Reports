@@ -1,1 +1,0 @@
-{"stack_id": 75391, "component": "UI", "importance": "P3 minor", "reported_time": "2004-09-30 10:39", "modified_time": "2005-05-11 05:57", "stack_arr": [{"exception": "java.lang.NoClassDefFoundError", "calls": [{"package": "java.lang", "class": "ClassLoader", "method": "defineClass", "filename": "ClassLoader", "line": "539"}]}], "duplicated_stack_id": []}

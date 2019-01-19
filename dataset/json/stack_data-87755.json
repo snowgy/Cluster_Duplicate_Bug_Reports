@@ -1,1 +1,0 @@
-{"stack_id": 87755, "component": "Webtools.WST.Javascript", "importance": "P3 normal", "reported_time": "2005-03-11 06:41", "modified_time": "2010-03-03 11:35", "stack_arr": [{"exception": "SWTError", "calls": []}], "duplicated_stack_id": []}

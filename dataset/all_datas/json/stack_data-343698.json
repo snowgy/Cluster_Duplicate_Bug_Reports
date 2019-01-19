@@ -1,0 +1,1 @@
+{"stack_id": 343698, "component": "Runtime", "importance": "P3 major", "reported_time": "2011-04-24 05:09", "modified_time": "2012-04-18 13:42", "stack_arr": [{"exception": "org.apache.ode.bpel.common.FaultException", "calls": []}], "duplicated_stack_id": []}

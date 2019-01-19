@@ -1,1 +1,0 @@
-{"stack_id": 436474, "component": "Core", "importance": "P3 normal", "reported_time": "2014-06-03 11:21", "modified_time": "2014-08-06 01:30", "stack_arr": [{"exception": "java.lang.NoSuchMethodError", "calls": [{"package": "Scratch.main", "class": "Scratch", "method": "main", "filename": "Scratch", "line": "10"}]}], "duplicated_stack_id": []}

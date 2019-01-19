@@ -1,1 +1,0 @@
-[{"field": [["org", "apache", "catalina", "loader"], ["org", "apache", "catalina", "startup"], ["org", "apache", "catalina", "util"], ["org", "apache", "catalina", "core"]], "deep": 4, "interest_field": "org.apache.catalina.startup", "interest_length": 8, "interest_start": 2, "interest_end": 9}]

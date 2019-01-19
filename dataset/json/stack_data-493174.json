@@ -1,1 +1,0 @@
-{"stack_id": 493174, "component": "Electron", "importance": "P3 normal", "reported_time": "2016-05-06 16:55", "modified_time": "2016-05-25 15:00", "stack_arr": [{"exception": "TypeError", "calls": []}], "duplicated_stack_id": []}

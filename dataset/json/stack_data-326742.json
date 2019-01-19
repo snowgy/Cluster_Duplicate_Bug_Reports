@@ -1,1 +1,0 @@
-{"stack_id": 326742, "component": "CBI p2 Repository Aggregator", "importance": "P3 normal", "reported_time": "2010-10-01 04:01", "modified_time": "2016-09-16 15:57", "stack_arr": [{"exception": "java.lang.UnsupportedOperationException", "calls": []}], "duplicated_stack_id": []}

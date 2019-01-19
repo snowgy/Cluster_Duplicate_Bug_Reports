@@ -1,0 +1,1 @@
+[{"field": [["java"], ["ch"], ["org"]], "deep": 1, "interest_field": "java", "interest_length": 8, "interest_start": 0, "interest_end": 7}, {"field": [["java", "io"], ["java", "util"], ["ch", "ethz"]], "deep": 2, "interest_field": "java.io", "interest_length": 5, "interest_start": 3, "interest_end": 7}]

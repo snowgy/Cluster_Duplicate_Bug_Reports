@@ -1,1 +1,0 @@
-{"stack_id": 25389, "component": "Resources", "importance": "P3 normal", "reported_time": "2002-10-25 11:29", "modified_time": "2002-10-28 09:30", "stack_arr": [{"exception": "java.lang.ClassCastException", "calls": [{"package": "org.apache.xerces.parsers", "class": "SAXParser", "method": "<init>", "filename": "SAXParser", "line": "95"}]}], "duplicated_stack_id": []}

@@ -1,1 +1,0 @@
-[{"field": [["org", "jacoco", "core", "data"], ["hudson", "plugins", "jacoco"]], "deep": 5, "interest_field": "org.jacoco.core.data", "interest_length": 3, "interest_start": 0, "interest_end": 2}, {"field": [["hudson", "plugins"], ["hudson", "tasks"], ["hudson", "model"]], "deep": 2, "interest_field": "hudson.model", "interest_length": 8, "interest_start": 8, "interest_end": 15}]

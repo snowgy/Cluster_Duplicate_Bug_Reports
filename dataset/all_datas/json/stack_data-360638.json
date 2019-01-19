@@ -1,0 +1,1 @@
+{"stack_id": 360638, "component": "extensions", "importance": "P3 normal", "reported_time": "2011-10-12 05:36", "modified_time": "2011-10-12 05:36", "stack_arr": [{"exception": "exception", "calls": [{"package": "o.e.s.view.internal.filter", "class": "ProjectFilter", "method": "doFilter", "filename": "ProjectFilter", "line": "89"}]}], "duplicated_stack_id": []}

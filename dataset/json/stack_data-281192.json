@@ -1,1 +1,0 @@
-{"stack_id": 281192, "component": "IAM", "importance": "P3 normal", "reported_time": "2009-06-23 04:42", "modified_time": "2012-01-05 13:10", "stack_arr": [{"exception": "exception", "calls": [{"package": "org.eclipse.jface.operation", "class": "ModalContext$ModalContextThread", "method": "run", "filename": "ModalContext", "line": "121"}]}], "duplicated_stack_id": []}

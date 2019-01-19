@@ -1,1 +1,0 @@
-[{"field": [["org"], ["javax"], ["java"]], "deep": 1, "interest_field": "org", "interest_length": 27, "interest_start": 0, "interest_end": 26}, {"field": [["org", "eclipse", "persistence", "internal", "databaseaccess"]], "deep": 6, "interest_field": "org.eclipse.persistence.internal.databaseaccess", "interest_length": 2, "interest_start": 0, "interest_end": 1}]

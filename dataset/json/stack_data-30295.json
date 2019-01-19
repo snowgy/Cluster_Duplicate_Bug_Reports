@@ -1,1 +1,0 @@
-{"stack_id": 30295, "component": "Debug", "importance": "P3 normal", "reported_time": "2003-01-27 09:42", "modified_time": "2003-01-27 11:37", "stack_arr": [{"exception": "error", "calls": [{"package": "mypackage", "class": "MyClass", "method": "setAttribute", "filename": "MyClass", "line": "269"}]}], "duplicated_stack_id": []}

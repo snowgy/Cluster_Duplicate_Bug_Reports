@@ -1,0 +1,1 @@
+[{"field": [["org", "eclipse", "emf", "internal", "cdo", "object"], ["org", "eclipse", "emf", "cdo", "internal", "common"], ["org", "eclipse", "emf", "internal", "cdo", "transaction"]], "deep": 6, "interest_field": "org.eclipse.emf.internal.cdo.transaction", "interest_length": 3, "interest_start": 5, "interest_end": 7}]

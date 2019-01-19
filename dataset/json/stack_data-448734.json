@@ -1,1 +1,0 @@
-{"stack_id": 448734, "component": "Inject", "importance": "P3 normal", "reported_time": "2014-10-24 10:51", "modified_time": "2015-04-25 16:48", "stack_arr": [{"exception": "error", "calls": []}, {"exception": "java.lang.IllegalAccessError", "calls": []}], "duplicated_stack_id": []}

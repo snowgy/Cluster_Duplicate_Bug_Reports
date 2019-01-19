@@ -1,0 +1,1 @@
+{"stack_id": 372170, "component": "SWTBot", "importance": "P3 normal", "reported_time": "2012-02-21 16:53", "modified_time": "2016-03-24 08:02", "stack_arr": [{"exception": "IllegalArgumentException", "calls": []}], "duplicated_stack_id": []}

@@ -1,1 +1,0 @@
-{"stack_id": 309773, "component": "Mozilla", "importance": "P3 normal", "reported_time": "2010-04-20 04:47", "modified_time": "2010-04-21 06:02", "stack_arr": [{"exception": "java.io.FileNotFoundException", "calls": []}, {"exception": "java.io.FileNotFoundException", "calls": []}, {"exception": "java.io.FileNotFoundException", "calls": []}], "duplicated_stack_id": []}

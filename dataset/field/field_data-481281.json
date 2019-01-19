@@ -1,1 +1,0 @@
-[{"field": [["org", "eclipse", "equinox", "internal", "util", "pool"], ["org", "eclipse", "equinox", "internal", "util", "impl", "tpt", "threadpool"], ["org", "eclipse", "equinox", "internal", "util", "impl", "tpt", "timer"]], "deep": 9, "interest_field": "org.eclipse.equinox.internal.util.impl.tpt.threadpool", "interest_length": 3, "interest_start": 1, "interest_end": 3}]

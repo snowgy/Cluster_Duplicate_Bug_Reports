@@ -1,1 +1,0 @@
-{"stack_id": 34321, "component": "Resources", "importance": "P3 normal", "reported_time": "2003-03-10 09:52", "modified_time": "2003-03-10 16:54", "stack_arr": [{"exception": "java.lang.IllegalArgumentException", "calls": [{"package": "org.eclipse.core.boot", "class": "BootLoader", "method": "run", "filename": "BootLoader", "line": "461"}]}], "duplicated_stack_id": []}

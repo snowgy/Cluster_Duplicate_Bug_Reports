@@ -1,1 +1,0 @@
-[{"field": [], "deep": 0, "interest_field": null, "interest_length": 0, "interest_start": 0, "interest_end": 0}, {"field": [["org", "eclipse", "osgi"], ["org", "eclipse", "core"], ["org", "eclipse", "pde"], ["org", "eclipse", "equinox"]], "deep": 3, "interest_field": "org.eclipse.core", "interest_length": 15, "interest_start": 2, "interest_end": 16}]

@@ -1,1 +1,0 @@
-{"stack_id": 421567, "component": "General", "importance": "P3 major", "reported_time": "2013-11-12 14:29", "modified_time": "2015-06-24 10:45", "stack_arr": [{"exception": "org.eclipse.swt.SWTException", "calls": []}], "duplicated_stack_id": []}

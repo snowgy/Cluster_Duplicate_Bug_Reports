@@ -1,0 +1,1 @@
+{"stack_id": 349382, "component": "Photran.Managed Make", "importance": "P3 major", "reported_time": "2011-06-14 18:27", "modified_time": "2012-03-01 11:12", "stack_arr": [{"exception": "error", "calls": []}, {"exception": "Error", "calls": []}], "duplicated_stack_id": []}

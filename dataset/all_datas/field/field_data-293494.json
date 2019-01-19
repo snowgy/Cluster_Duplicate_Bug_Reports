@@ -1,0 +1,1 @@
+[{"field": [["java", "security"], ["java", "net"], ["org", "eclipse"]], "deep": 2, "interest_field": "org.eclipse", "interest_length": 13, "interest_start": 5, "interest_end": 17}, {"field": [["java", "net"]], "deep": 3, "interest_field": "java.net", "interest_length": 2, "interest_start": 0, "interest_end": 1}]

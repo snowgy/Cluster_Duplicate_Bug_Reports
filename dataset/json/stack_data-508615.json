@@ -1,1 +1,0 @@
-{"stack_id": 508615, "component": "Electron", "importance": "P3 normal", "reported_time": "2016-12-02 12:09", "modified_time": "2016-12-05 13:37", "stack_arr": [{"exception": "System.IO.PathTooLongException", "calls": []}, {"exception": "System.IO.IOException", "calls": []}], "duplicated_stack_id": []}

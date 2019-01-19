@@ -1,0 +1,1 @@
+[{"field": [["org", "kohsuke", "stapler", "export"], ["hudson", "model"]], "deep": 5, "interest_field": "org.kohsuke.stapler.export", "interest_length": 2, "interest_start": 0, "interest_end": 1}, {"field": [["org", "kohsuke"], ["hudson", "model"], ["hudson", "security"]], "deep": 2, "interest_field": "org.kohsuke", "interest_length": 3, "interest_start": 0, "interest_end": 2}]

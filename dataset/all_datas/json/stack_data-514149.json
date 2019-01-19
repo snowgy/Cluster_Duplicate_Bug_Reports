@@ -1,0 +1,1 @@
+{"stack_id": 514149, "component": "Framework", "importance": "P3 critical      with      1       vote", "reported_time": "2017-03-23 17:58", "modified_time": "2017-05-26 23:13", "stack_arr": [{"exception": "org.osgi.service.resolver.ResolutionException", "calls": []}, {"exception": "org.osgi.service.resolver.ResolutionException", "calls": []}], "duplicated_stack_id": []}

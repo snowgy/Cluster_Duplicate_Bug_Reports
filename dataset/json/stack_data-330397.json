@@ -1,1 +1,0 @@
-{"stack_id": 330397, "component": "JPA", "importance": "P3 enhancement      with      18       votes", "reported_time": "2010-11-16 14:38", "modified_time": "2016-03-25 05:30", "stack_arr": [{"exception": "com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException", "calls": []}], "duplicated_stack_id": []}

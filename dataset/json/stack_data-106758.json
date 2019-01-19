@@ -1,1 +1,0 @@
-{"stack_id": 106758, "component": "Framework", "importance": "P3 normal", "reported_time": "2005-08-11 12:02", "modified_time": "2006-03-24 10:27", "stack_arr": [{"exception": "exception", "calls": [{"package": "org.eclipse.core.runtime", "class": "Platform", "method": "asLocalURL", "filename": "Platform", "line": "507"}]}], "duplicated_stack_id": []}

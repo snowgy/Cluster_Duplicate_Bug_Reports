@@ -1,0 +1,1 @@
+[{"field": [], "deep": 0, "interest_field": null, "interest_length": 0, "interest_start": 0, "interest_end": 0}, {"field": [["org", "eclipse", "papyrus"], ["org", "eclipse", "gef"], ["org", "eclipse", "emf"]], "deep": 3, "interest_field": "org.eclipse.papyrus", "interest_length": 5, "interest_start": 0, "interest_end": 4}]

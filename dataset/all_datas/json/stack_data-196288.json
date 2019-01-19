@@ -1,0 +1,1 @@
+{"stack_id": 196288, "component": "Jira", "importance": "P2 major      with      4       votes", "reported_time": "2007-07-12 07:39", "modified_time": "2008-06-12 21:37", "stack_arr": [{"exception": "java.net.SocketTimeoutException", "calls": []}], "duplicated_stack_id": ["204644"]}

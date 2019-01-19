@@ -1,1 +1,0 @@
-{"stack_id": 528339, "component": "Servers", "importance": "P3 normal", "reported_time": "2017-12-08 11:25", "modified_time": "2017-12-12 14:25", "stack_arr": [{"exception": "Exception", "calls": [{"package": "org.eclipse.persistence.exceptions", "class": "DatabaseException", "method": "sqlException", "filename": "DatabaseException", "line": "331"}]}], "duplicated_stack_id": []}

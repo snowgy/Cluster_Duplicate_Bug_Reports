@@ -1,1 +1,0 @@
-{"stack_id": 92500, "component": "Compiler", "importance": "P3 normal", "reported_time": "2005-04-23 16:35", "modified_time": "2005-04-26 08:27", "stack_arr": [{"exception": "error", "calls": []}, {"exception": "java.lang.NoClassDefFoundError", "calls": [{"package": "Hello.main", "class": "Hello", "method": "main", "filename": "Hello", "line": "6"}]}], "duplicated_stack_id": []}

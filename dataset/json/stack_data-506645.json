@@ -1,1 +1,0 @@
-{"stack_id": 506645, "component": "Core", "importance": "P3 normal", "reported_time": "2016-10-27 13:28", "modified_time": "2018-08-16 00:09", "stack_arr": [{"exception": "error", "calls": [{"package": "org.eclipse.jdt.internal.compiler.lookup", "class": "FieldBinding", "method": "constant", "filename": "FieldBinding", "line": "218"}]}], "duplicated_stack_id": []}

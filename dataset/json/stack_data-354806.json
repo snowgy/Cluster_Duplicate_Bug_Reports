@@ -1,1 +1,0 @@
-{"stack_id": 354806, "component": "GEF-Legacy Zest", "importance": "P3 normal", "reported_time": "2011-08-16 06:09", "modified_time": "2011-08-17 00:49", "stack_arr": [{"exception": "org.xml.sax.SAXParseException", "calls": []}], "duplicated_stack_id": []}

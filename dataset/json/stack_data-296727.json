@@ -1,1 +1,0 @@
-{"stack_id": 296727, "component": "JPA", "importance": "P3 normal", "reported_time": "2009-12-02 12:48", "modified_time": "2010-02-01 15:51", "stack_arr": [{"exception": "java.net.ConnectException", "calls": []}, {"exception": "java.net.ConnectException", "calls": []}], "duplicated_stack_id": []}

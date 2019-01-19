@@ -1,1 +1,0 @@
-[{"field": [["org", "eclipse", "ecf", "core", "util"], ["org", "eclipse", "ecf", "provider", "generic"], ["org", "eclipse", "ecf", "provider", "xmpp"]], "deep": 5, "interest_field": "org.eclipse.ecf.provider.generic", "interest_length": 2, "interest_start": 1, "interest_end": 2}]

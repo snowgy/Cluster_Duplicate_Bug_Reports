@@ -1,0 +1,1 @@
+[{"field": [["org", "eclipse", "jetty", "jndi"], ["org", "eclipse", "jetty", "plus"], ["org", "eclipse", "jetty", "webapp"], ["org", "eclipse", "jetty", "util"]], "deep": 4, "interest_field": "org.eclipse.jetty.jndi", "interest_length": 2, "interest_start": 0, "interest_end": 1}]

@@ -1,1 +1,0 @@
-{"stack_id": 294590, "component": "providers", "importance": "P3 normal", "reported_time": "2009-11-09 07:50", "modified_time": "2010-01-27 06:06", "stack_arr": [{"exception": "error", "calls": []}, {"exception": "org.eclipse.team.svn.core.operation.UnreportableException", "calls": []}], "duplicated_stack_id": []}

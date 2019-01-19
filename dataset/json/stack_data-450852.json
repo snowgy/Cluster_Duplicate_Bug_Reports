@@ -1,1 +1,0 @@
-{"stack_id": 450852, "component": "Cross-Project", "importance": "P3 normal", "reported_time": "2014-11-10 10:41", "modified_time": "2015-01-06 14:46", "stack_arr": [{"exception": "org.eclipse.core.runtime.CoreException", "calls": []}], "duplicated_stack_id": []}

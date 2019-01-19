@@ -1,1 +1,0 @@
-[{"field": [["org", "eclipse", "swtbot"], ["org", "junit"], ["org", "eclipse", "egit"], ["org", "junit", "runners"], ["org", "junit", "internal"], ["org", "eclipse", "jdt"], ["org", "eclipse", "ui"]], "deep": 3, "interest_field": "org.junit.runners", "interest_length": 24, "interest_start": 25, "interest_end": 48}]

@@ -1,1 +1,0 @@
-[{"field": [["java"], ["org"], ["hudson"], ["groovy"]], "deep": 1, "interest_field": "hudson", "interest_length": 10, "interest_start": 21, "interest_end": 30}, {"field": [["org", "aspectj", "weaver", "bcel"]], "deep": 5, "interest_field": "org.aspectj.weaver.bcel", "interest_length": 1, "interest_start": 0, "interest_end": 0}]

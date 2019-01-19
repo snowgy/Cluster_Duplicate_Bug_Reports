@@ -1,1 +1,0 @@
-{"stack_id": 467688, "component": "CI-Jenkins", "importance": "P3 normal", "reported_time": "2015-05-20 06:28", "modified_time": "2015-05-20 08:45", "stack_arr": [{"exception": "error", "calls": []}, {"exception": "org.apache.maven.InternalErrorException", "calls": []}], "duplicated_stack_id": []}

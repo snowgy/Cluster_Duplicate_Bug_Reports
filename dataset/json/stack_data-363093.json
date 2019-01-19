@@ -1,1 +1,0 @@
-{"stack_id": 363093, "component": "Core", "importance": "P1 blocker", "reported_time": "2011-11-07 14:53", "modified_time": "2012-06-28 10:44", "stack_arr": [{"exception": "org.eclipse.core.runtime.CoreException", "calls": []}], "duplicated_stack_id": []}

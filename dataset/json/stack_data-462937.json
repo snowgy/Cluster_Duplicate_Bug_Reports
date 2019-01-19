@@ -1,1 +1,0 @@
-{"stack_id": 462937, "component": "Core", "importance": "P3 normal", "reported_time": "2015-03-24 06:39", "modified_time": "2015-05-26 05:11", "stack_arr": [{"exception": "org.eclipse.osgi.signedcontent.InvalidContentException", "calls": []}], "duplicated_stack_id": []}

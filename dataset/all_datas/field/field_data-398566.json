@@ -1,0 +1,1 @@
+[{"field": [["org", "eclipse", "jetty", "xml"], ["org", "eclipse", "jetty", "deploy"], ["org", "eclipse", "jetty", "util"], ["org", "eclipse", "jetty", "server"], ["org", "eclipse", "jetty", "start"]], "deep": 4, "interest_field": "org.eclipse.jetty.deploy", "interest_length": 8, "interest_start": 4, "interest_end": 11}]

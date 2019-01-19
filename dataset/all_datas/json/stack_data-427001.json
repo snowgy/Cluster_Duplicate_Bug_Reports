@@ -1,0 +1,1 @@
+{"stack_id": 427001, "component": "Core", "importance": "P3 major", "reported_time": "2014-01-30 09:30", "modified_time": "2015-05-23 14:10", "stack_arr": [{"exception": "exception", "calls": [{"package": "org.eclipse.ocl.examples.domain.utilities", "class": "DomainUtil", "method": "nonNullState", "filename": "DomainUtil", "line": "522"}]}], "duplicated_stack_id": []}

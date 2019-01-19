@@ -1,1 +1,0 @@
-{"stack_id": 174949, "component": "Terminal", "importance": "P3 normal", "reported_time": "2007-02-21 07:54", "modified_time": "2008-08-13 13:16", "stack_arr": [{"exception": "java.io.IOException", "calls": []}], "duplicated_stack_id": []}

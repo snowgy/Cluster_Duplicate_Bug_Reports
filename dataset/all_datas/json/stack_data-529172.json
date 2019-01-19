@@ -1,0 +1,1 @@
+{"stack_id": 529172, "component": "UI", "importance": "P3 normal", "reported_time": "2017-12-23 21:00", "modified_time": "2018-01-22 07:19", "stack_arr": [{"exception": "java.lang.SecurityException", "calls": [{"package": "main", "class": "test", "method": "main", "filename": "test", "line": "13"}]}], "duplicated_stack_id": []}

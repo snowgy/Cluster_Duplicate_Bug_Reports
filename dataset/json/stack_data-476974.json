@@ -1,1 +1,0 @@
-{"stack_id": 476974, "component": "Core", "importance": "P3 normal", "reported_time": "2015-09-09 09:46", "modified_time": "2015-10-06 15:42", "stack_arr": [{"exception": "junit.framework.AssertionFailedError", "calls": []}], "duplicated_stack_id": []}

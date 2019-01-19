@@ -1,1 +1,0 @@
-{"stack_id": 381860, "component": "Core", "importance": "P3 major", "reported_time": "2012-06-06 09:49", "modified_time": "2012-06-18 09:17", "stack_arr": [{"exception": "NonExistentFieldException", "calls": []}], "duplicated_stack_id": []}

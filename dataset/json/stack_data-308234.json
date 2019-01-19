@@ -1,1 +1,0 @@
-{"stack_id": 308234, "component": "Infrastructure", "importance": "P3 normal", "reported_time": "2010-04-06 12:39", "modified_time": "2011-05-23 09:24", "stack_arr": [{"exception": "exception", "calls": [{"package": "org.eclipse.gmt.modisco.examples.iseobjects", "class": "Utils", "method": "getInterface", "filename": "Utils", "line": "69"}]}], "duplicated_stack_id": []}

@@ -1,1 +1,0 @@
-[{"field": [["org", "aspectj", "weaver"]], "deep": 4, "interest_field": "org.aspectj.weaver", "interest_length": 1, "interest_start": 0, "interest_end": 0}, {"field": [["org", "aspectj"], ["org", "codehaus"], ["org", "apache"]], "deep": 2, "interest_field": "org.aspectj", "interest_length": 21, "interest_start": 0, "interest_end": 20}]

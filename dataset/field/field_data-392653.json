@@ -1,1 +1,0 @@
-[{"field": [], "deep": 0, "interest_field": null, "interest_length": 0, "interest_start": 0, "interest_end": 0}, {"field": [["org", "hibernate", "property"], ["org", "eclipse", "emf", "cdo", "server", "internal", "hibernate"]], "deep": 8, "interest_field": "org.hibernate.property", "interest_length": 1, "interest_start": 0, "interest_end": 0}]
