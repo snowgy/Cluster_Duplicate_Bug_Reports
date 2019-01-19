@@ -296,8 +296,8 @@ def main():
 
     # 启动代码：
     print('配置：')
-    start = 5
-    end = 6
+    start = 0
+    end = 100
     fliter = False
     showdiff = False
     print('开始角标：', start)
