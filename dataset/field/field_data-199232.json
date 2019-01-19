@@ -1,0 +1,1 @@
+[{"field": [["org", "apache", "axis", "message"], ["org", "apache", "axis", "encoding"], ["org", "apache", "axis"], ["org", "apache", "axis", "handlers"], ["org", "apache", "axis", "client"], ["org", "opcfoundation", "webservices", "XMLDA"], ["webclient"]], "deep": 4, "interest_field": "org.apache.axis.client", "interest_length": 6, "interest_start": 7, "interest_end": 12}]

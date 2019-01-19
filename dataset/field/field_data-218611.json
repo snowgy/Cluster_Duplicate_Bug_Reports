@@ -1,0 +1,1 @@
+[{"field": [["org", "eclipse", "core", "runtime"], ["eu", "geclipse", "efs", "gridftp"], ["eu", "geclipse", "core", "filesystem"], ["org", "eclipse", "core", "filesystem"], ["org", "eclipse", "core", "internal"]], "deep": 4, "interest_field": "org.eclipse.core.internal", "interest_length": 9, "interest_start": 4, "interest_end": 12}]

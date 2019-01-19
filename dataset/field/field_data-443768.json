@@ -1,0 +1,1 @@
+[{"field": [["org", "eclipse", "core", "internal"], ["org", "eclipse", "core", "filesystem"], ["org", "eclipse", "orion", "server"], ["org", "eclipse", "orion", "internal"]], "deep": 4, "interest_field": "org.eclipse.orion.internal", "interest_length": 4, "interest_start": 3, "interest_end": 6}]

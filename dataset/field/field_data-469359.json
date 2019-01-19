@@ -1,0 +1,1 @@
+[{"field": [["org", "eclipse", "php", "internal", "core", "corext", "dom"], ["org", "eclipse", "php", "internal", "ui", "editor", "hover"], ["org", "eclipse", "jface", "text"]], "deep": 8, "interest_field": "org.eclipse.php.internal.ui.editor.hover", "interest_length": 5, "interest_start": 1, "interest_end": 5}]

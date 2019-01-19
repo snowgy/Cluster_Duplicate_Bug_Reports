@@ -1,0 +1,1 @@
+[{"field": [["org", "eclipse", "core"], ["org", "eclipse", "jface"], ["com", "zend", "php"], ["org", "eclipse", "wst"], ["org", "eclipse", "ui"], ["org", "eclipse", "php"], ["org", "eclipse", "swt"], ["org", "eclipse", "dltk"], ["org", "eclipse", "equinox"]], "deep": 3, "interest_field": "org.eclipse.ui", "interest_length": 8, "interest_start": 21, "interest_end": 28}]

@@ -1,0 +1,1 @@
+[{"field": [["org", "eclipse", "datatools", "connectivity", "oda", "flatfile"], ["org", "eclipse", "datatools", "connectivity", "oda", "consumer"], ["org", "eclipse", "birt", "data", "engine", "odaconsumer"]], "deep": 6, "interest_field": "org.eclipse.datatools.connectivity.oda.flatfile", "interest_length": 4, "interest_start": 0, "interest_end": 3}]

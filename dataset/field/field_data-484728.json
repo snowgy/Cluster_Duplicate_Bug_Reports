@@ -1,0 +1,1 @@
+[{"field": [["org", "core", "sandfall", "game", "utils"], ["for_android", "for_adb"]], "deep": 6, "interest_field": "org.core.sandfall.game.utils", "interest_length": 2, "interest_start": 0, "interest_end": 1}, {"field": [["java", "net"]], "deep": 3, "interest_field": "java.net", "interest_length": 1, "interest_start": 0, "interest_end": 0}]

@@ -1,7 +1,7 @@
 import json, os
 
-# JSON_DIR = '../dataset/json_copy'
-JSON_DIR = '../../dataset/json'
+JSON_DIR = '../dataset/json'
+# JSON_DIR = '../../dataset/json'
 
 # 加载文件/处理文件相关格式
 class ReportLoader:

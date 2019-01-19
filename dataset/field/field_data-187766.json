@@ -1,0 +1,1 @@
+[{"field": [["org", "eclipse", "tptp", "platform", "execution", "client", "core", "internal"], ["org", "eclipse", "tptp", "platform", "jvmti", "client", "internal", "launcher", "util"]], "deep": 10, "interest_field": "org.eclipse.tptp.platform.execution.client.core.internal", "interest_length": 1, "interest_start": 0, "interest_end": 0}]

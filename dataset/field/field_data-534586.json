@@ -1,0 +1,1 @@
+[{"field": [["hudson"], ["org"], ["java"]], "deep": 1, "interest_field": "org", "interest_length": 4, "interest_start": 3, "interest_end": 6}, {"field": [["org", "jenkinsci", "plugins", "gitclient"], ["hudson", "plugins", "git"]], "deep": 5, "interest_field": "org.jenkinsci.plugins.gitclient", "interest_length": 4, "interest_start": 0, "interest_end": 3}]

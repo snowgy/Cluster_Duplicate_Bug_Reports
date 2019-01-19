@@ -1,0 +1,1 @@
+[{"field": [["org", "eclipse", "jdt", "internal", "core"], ["org", "eclipse", "jdt", "internal", "ui", "text", "javadoc"], ["org", "eclipse", "jdt", "internal", "ui", "text", "java", "hover"], ["org", "eclipse", "jface", "text"]], "deep": 9, "interest_field": "org.eclipse.jdt.internal.ui.text.java.hover", "interest_length": 6, "interest_start": 4, "interest_end": 9}]

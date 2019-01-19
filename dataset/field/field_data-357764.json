@@ -1,0 +1,1 @@
+[{"field": [["org", "eclipse", "draw2d"], ["org", "eclipse", "gef"], ["org", "eclipse", "graphiti"], ["org", "eclipse", "emf"], ["org", "eclipse", "core"], ["com", "sap", "bpl"], ["org", "eclipse", "swt"], ["org", "eclipse", "ui"]], "deep": 3, "interest_field": "org.eclipse.emf", "interest_length": 7, "interest_start": 20, "interest_end": 26}]

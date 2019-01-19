@@ -1,0 +1,1 @@
+[{"field": [["org", "eclipse", "pde", "internal", "core", "target", "impl"], ["org", "eclipse", "pde", "internal", "core"], ["org", "eclipse", "osgi", "framework", "internal", "core"]], "deep": 8, "interest_field": "org.eclipse.pde.internal.core.target.impl", "interest_length": 2, "interest_start": 0, "interest_end": 1}]

@@ -1,0 +1,1 @@
+[{"field": [["org", "eclipse", "core", "internal", "filesystem"], ["org", "eclipse", "core", "filesystem", "provider"], ["org", "eclipse", "core", "internal", "filesystem", "local"]], "deep": 7, "interest_field": "org.eclipse.core.internal.filesystem", "interest_length": 2, "interest_start": 0, "interest_end": 1}]

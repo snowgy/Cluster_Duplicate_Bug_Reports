@@ -1,0 +1,1 @@
+[{"field": [["org", "eclipse", "jetty", "websocket"], ["org", "eclipse", "jetty", "io"], ["org", "eclipse", "jetty", "util"]], "deep": 4, "interest_field": "org.eclipse.jetty.io", "interest_length": 6, "interest_start": 3, "interest_end": 8}]

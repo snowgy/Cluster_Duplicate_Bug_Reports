@@ -1,0 +1,1 @@
+[{"field": [["org", "eclipse", "core", "boot"], ["org", "eclipse", "core", "launcher"], ["org", "eclipse", "ui", "keys"], ["java", "util"], ["org", "eclipse", "ui", "internal"], ["org", "eclipse", "ui"]], "deep": 4, "interest_field": "org.eclipse.core.launcher", "interest_length": 3, "interest_start": 1, "interest_end": 3}]

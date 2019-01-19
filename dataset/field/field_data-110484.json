@@ -1,0 +1,1 @@
+[{"field": [["com", "ibm", "db2", "jcc", "a"], ["com", "ibm", "db2", "jcc", "c"]], "deep": 6, "interest_field": "com.ibm.db2.jcc.c", "interest_length": 4, "interest_start": 2, "interest_end": 5}]

@@ -1,0 +1,1 @@
+[{"field": [["org", "eclipse", "oomph", "internal", "version"], ["org", "eclipse", "core", "internal", "events"], ["org", "eclipse", "core", "runtime"], ["org", "eclipse", "core", "internal", "jobs"]], "deep": 5, "interest_field": "org.eclipse.core.internal.events", "interest_length": 5, "interest_start": 10, "interest_end": 14}]

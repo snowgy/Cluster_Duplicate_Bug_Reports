@@ -1,0 +1,1 @@
+[{"field": [["com", "ibm", "etools", "ejbdeploy"], ["com", "ibm", "etools", "ejbdeploy", "batch", "impl"], ["org", "eclipse", "core", "launcher"]], "deep": 7, "interest_field": "org.eclipse.core.launcher", "interest_length": 4, "interest_start": 3, "interest_end": 6}, {"field": [], "deep": 0, "interest_field": null, "interest_length": 0, "interest_start": 0, "interest_end": 0}]

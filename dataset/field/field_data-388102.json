@@ -1,0 +1,1 @@
+[{"field": [["JettyHttpClientMemoryLeak$1", "onException"], ["org", "eclipse", "jetty", "client"], ["org", "eclipse", "jetty", "io"], ["org", "eclipse", "jetty", "util"]], "deep": 4, "interest_field": "org.eclipse.jetty.client", "interest_length": 2, "interest_start": 1, "interest_end": 2}]

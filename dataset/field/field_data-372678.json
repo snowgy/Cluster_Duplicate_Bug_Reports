@@ -1,0 +1,1 @@
+[{"field": [["org", "eclipse", "jetty", "security"], ["org", "eclipse", "jetty", "util"], ["org", "eclipse", "jetty", "server"], ["org", "eclipse", "jetty", "servlet"], ["org", "eclipse", "jetty", "webapp"], ["org", "eclipse", "jetty", "embedded"]], "deep": 4, "interest_field": "org.eclipse.jetty.security", "interest_length": 4, "interest_start": 0, "interest_end": 3}]

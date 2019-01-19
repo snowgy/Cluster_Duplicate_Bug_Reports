@@ -1,0 +1,1 @@
+[{"field": [["org", "eclipse", "equinox", "internal", "p2"], ["org", "eclipse", "osgi", "framework", "eventmgr"], ["org", "eclipse", "equinox", "internal", "provisional"], ["org", "eclipse", "osgi", "framework", "internal"]], "deep": 5, "interest_field": "org.eclipse.osgi.framework.internal", "interest_length": 10, "interest_start": 14, "interest_end": 23}]

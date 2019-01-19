@@ -1,0 +1,1 @@
+[{"field": [["org", "eclipse", "osgi", "internal", "baseadaptor"], ["org", "eclipse", "osgi", "baseadaptor", "loader"], ["org", "eclipse", "osgi", "internal", "loader"]], "deep": 6, "interest_field": "org.eclipse.osgi.baseadaptor.loader", "interest_length": 5, "interest_start": 1, "interest_end": 5}]

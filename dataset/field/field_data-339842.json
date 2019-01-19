@@ -1,0 +1,1 @@
+[{"field": [["org", "eclipse", "wb", "internal", "core"], ["org", "eclipse", "wb", "core", "eval"], ["org", "eclipse", "wb", "core", "model"], ["org", "eclipse", "wb", "internal", "swing"], ["java", "awt", "event"], ["java", "awt"]], "deep": 5, "interest_field": "java.awt", "interest_length": 6, "interest_start": 15, "interest_end": 20}]

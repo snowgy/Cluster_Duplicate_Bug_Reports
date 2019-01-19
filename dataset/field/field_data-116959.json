@@ -1,0 +1,1 @@
+[{"field": [["org", "eclipse", "birt", "core", "framework"], ["org", "eclipse", "birt", "report", "engine", "api"], ["javax", "servlet", "http"]], "deep": 7, "interest_field": "javax.servlet.http", "interest_length": 2, "interest_start": 2, "interest_end": 3}]

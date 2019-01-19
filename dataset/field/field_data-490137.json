@@ -1,0 +1,1 @@
+[{"field": [["org", "eclipse", "buildship", "core", "launch"], ["org", "eclipse", "buildship", "core", "util"], ["org", "eclipse", "core", "internal", "jobs"]], "deep": 5, "interest_field": "org.eclipse.buildship.core.util", "interest_length": 3, "interest_start": 2, "interest_end": 4}]

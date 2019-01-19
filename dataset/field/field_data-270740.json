@@ -1,0 +1,1 @@
+[{"field": [["xxx"], ["org", "hibernate", "impl"], ["org", "eclipse", "emf"], ["org", "hibernate", "type"], ["org", "hibernate", "cache"], ["org", "hibernate", "event"], ["org", "hibernate", "engine"], ["org", "hibernate", "loader"], ["org", "hibernate", "hql"]], "deep": 3, "interest_field": "org.hibernate.loader", "interest_length": 7, "interest_start": 31, "interest_end": 37}]

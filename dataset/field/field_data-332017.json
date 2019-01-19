@@ -1,0 +1,1 @@
+[{"field": [["org", "eclipse", "papyrus"], ["org", "eclipse", "jface"], ["org", "eclipse", "swt"], ["org", "eclipse", "ui"], ["org", "eclipse", "draw2d"], ["org", "eclipse", "gef"], ["org", "eclipse", "core"], ["org", "eclipse", "equinox"]], "deep": 3, "interest_field": "org.eclipse.jface", "interest_length": 10, "interest_start": 10, "interest_end": 19}]

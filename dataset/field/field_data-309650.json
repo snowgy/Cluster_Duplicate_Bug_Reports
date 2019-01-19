@@ -1,0 +1,1 @@
+[{"field": [["org", "eclipse", "cdt", "dsf", "mi", "service", "command", "output"], ["org", "eclipse", "cdt", "dsf", "mi", "service", "command", "commands"], ["org", "eclipse", "cdt", "dsf", "mi", "service", "command"]], "deep": 9, "interest_field": "org.eclipse.cdt.dsf.mi.service.command.output", "interest_length": 3, "interest_start": 0, "interest_end": 2}]

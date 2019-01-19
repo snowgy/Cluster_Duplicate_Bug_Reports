@@ -4,11 +4,27 @@ from itertools import combinations
 from sklearn.metrics import classification_report
 from stack_package_index import StackPackageIndex
 from thu.report_loader import ReportLoader
+from thu.start import Starter
 
 # 计算某一 stack 与另一 stack 的结果
 class Algorithm:
     def __init__(self):
-        self.stackPackageIndex = StackPackageIndex()
+        # self.stackPackageIndex = StackPackageIndex()
+        self.starter = Starter()
+        self.weight = [
+            1.70078022,
+            1.11779898,
+            0.61420801,
+            0.2417314,
+            1.08324035,
+            0.36947893,
+            0.57899552,
+            1.177083,
+            0.74378687,
+            0.57052802,
+            0.9399134
+        ]
+        self.c = 3.15317225149984
         self.fliter_package = [
             "dalvik.system",
             "java.lang",
@@ -35,6 +51,34 @@ class Algorithm:
             if stack_info1['exception'] == stack_info2['exception']:
                 return equal_detail(stack_info1['apiprovider'], stack_info2['apiprovider']) \
                     and equal_detail(stack_info1['caller'], stack_info2['caller'])
+        return False
+
+    def fetch_thu_result(self, report_id1, report_id2, stack_arr1, stack_arr2):
+        def is_empty_stack(stack_arr):
+            calls = stack_arr['calls']
+            if len(calls) == 0: return True
+            return False
+        dict=self.starter.calculate(report_id1,report_id2)
+        # print(dict)
+        w1 = self.weight[0]
+        w2 = self.weight[1]
+        w3 = self.weight[2]
+        w4 = self.weight[3]
+        w5 = self.weight[4]
+        w6 = self.weight[5]
+        w7 = self.weight[6]
+        w8 = self.weight[7]
+        w9 = self.weight[8]
+        w10 = self.weight[9]
+        w11 = self.weight[10]
+        sim=dict['exception']*w1+dict['field_isdup']*w2+dict['field_dup_index']*w3+dict[ 'field_deep']*w4+dict['field_length']*w5+dict['field_interest_issame']*w6+dict['field_interest_length']*w7+dict['callstack_inner']*w8+dict['callstack_outer_1']*w9+dict['callstack_outer_2']*w10+dict[ 'callstack_all']*w11
+        result = sim > self.c
+        if result:
+          # 判断是否为 空 堆栈信息
+            if is_empty_stack(stack_arr1) or is_empty_stack(stack_arr2):
+                return False
+            else:
+                return True
         return False
 
     def fetch_info(self, stack):
@@ -90,35 +134,38 @@ class Algorithm:
         # print(stack_2['exception'])
         # print(len(stack_1['calls']))
         # step1 计算 stack 是否为同领域，包含关系 或者 重合指数大于 80%
-        package_index = self.stackPackageIndex.calculate(stack_id1, stack_id2)
-        if not package_index['is_contain'] \
-          and package_index['dup_index'] < 0.8:
-          return False
+        # 废弃，采用普通计算 + 训练
+        # package_index = self.stackPackageIndex.calculate(stack_id1, stack_id2)
+        # if not package_index['is_contain'] \
+        #   and package_index['dup_index'] < 0.8:
+        #   return False
 
         if len(stack_1['calls']) == 0: return False
         if len(stack_2['calls']) == 0: return False
         stack_info1 = self.fetch_info(stack_1)
         stack_info2 = self.fetch_info(stack_2)
-        return self.equals(stack_info1, stack_info2)
+        if self.equals(stack_info1, stack_info2):
+          return self.fetch_thu_result(stack_id1, stack_id2, stack_1, stack_2)
+        return False
 
     def start(self, report_set1, report_set2):
-        try:
-            if len(report_set1["stack_arr"]) == 0 \
-                or len(report_set1["stack_arr"]) == 0:
-                # print('len == 0')
-                return False
-            # #demo
-            # if self.calculate(report_set1["stack_arr"][0], report_set2["stack_arr"][0]):
-            #     return True
-            for stack_0 in report_set1["stack_arr"]:
-                for stack_1 in report_set2["stack_arr"]:
-                    if self.calculate(report_set1["stack_id"], report_set2["stack_id"], stack_0, stack_1):
-                        return True
+        # try:
+        if len(report_set1["stack_arr"]) == 0 \
+            or len(report_set1["stack_arr"]) == 0:
+            # print('len == 0')
             return False
-        except Exception as e:
-            print(report_set1["stack_id"], report_set2["stack_id"])
-            print(str(e))
-            return False
+        # #demo
+        # if self.calculate(report_set1["stack_arr"][0], report_set2["stack_arr"][0]):
+        #     return True
+        for stack_0 in report_set1["stack_arr"]:
+            for stack_1 in report_set2["stack_arr"]:
+                if self.calculate(report_set1["stack_id"], report_set2["stack_id"], stack_0, stack_1):
+                    return True
+        return False
+        # except Exception as e:
+            # print(report_set1["stack_id"], report_set2["stack_id"])
+            # print(str(e))
+            # return False
 
 # 结果处理
 class ResultUtils:
@@ -180,13 +227,21 @@ class ResultUtils:
             if list1[i] == True or list2[i] == True:
                 print(i, list1[i], list2[i])
 
-
+    def save_result(self, id, total_result):
+        with open('./result/result-' + str(id) + '.txt', 'w') as outfile:
+            for data in total_result:
+                for key, val in data.items():
+                    line = key + " " + ("TRUE" if val[0] else "FALSE") \
+                          + " " + ("TRUE" if val[1] else "FALSE")
+                    outfile.write(line + "\n")
+        outfile.close()
 
 
 def main():
     fileUtils = ReportLoader()
     algorithm = Algorithm()
     resultUtils = ResultUtils()
+    # total_result = [] # 400000 400001 True False
 
     # 两两计算，给出 my_id 和另一个 id，返回 True|False
     def cal_result(report1, report2):
@@ -205,6 +260,8 @@ def main():
                 continue
             report = fileUtils.load_report(report_id)  # 加载为 json
             result.append(cal_result(reportme, report))
+        ## 截获数据并存储
+        resultUtils.save_result(my_id, result)
         return result
     
     # 正式运算，耗时，可设定最大计算个数 count、偏移量 shift
@@ -239,20 +296,21 @@ def main():
 
     # 启动代码：
     print('配置：')
-    start = 10
-    end = 20
+    start = 5
+    end = 6
     fliter = False
-    showdiff = True
+    showdiff = False
     print('开始角标：', start)
     print('结束角标：', end)
     print('需要计算的 stack 数据量：', end - start)
     print('是否过滤可能人工未标注的结果：', fliter)
     print('是否打印预测不一致结果：', showdiff) # 即：预测结果与原始结果不一致的情况
 
-    result = run_demo(450178, fliter=fliter, showdiff=showdiff)
-    # result = run_all(count=(end - start), shift=start, fliter=fliter, showdiff=showdiff)
+    # result = run_demo(450178, fliter=fliter, showdiff=showdiff)
+    result = run_all(count=(end - start), shift=start, fliter=fliter, showdiff=showdiff)
     print('F1-Score 结果：')
     print(classification_report(result['real_list'], result['pred_list']))
+    # print(total_result)
     # print('run: stack_id:: 450132')
     # result = run_demo(450132)
     # print(classification_report(result['real_list'], result['pred_list']))

@@ -1,0 +1,1 @@
+[{"field": [["org", "eclipse", "emf", "cdo", "server", "internal"], ["org", "eclipse", "emf", "cdo", "internal", "server"], ["org", "eclipse", "emf", "cdo", "internal", "common"], ["org", "eclipse", "net4j", "signal"]], "deep": 6, "interest_field": "org.eclipse.net4j.signal", "interest_length": 3, "interest_start": 6, "interest_end": 8}]

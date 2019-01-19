@@ -1,0 +1,1 @@
+[{"field": [["org", "johna", "classloadbug"], ["org", "eclipse", "swt"], ["org", "eclipse", "ui"], ["org", "eclipse", "core"], ["org", "eclipse", "equinox"], ["org", "eclipse", "jdt"]], "deep": 3, "interest_field": "org.eclipse.swt", "interest_length": 5, "interest_start": 1, "interest_end": 5}]

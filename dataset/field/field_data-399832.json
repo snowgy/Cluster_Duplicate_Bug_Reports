@@ -1,0 +1,1 @@
+[{"field": [["org", "eclipse", "incquery", "runtime", "internal"], ["org", "eclipse", "incquery", "runtime", "rete"], ["org", "eclipse", "incquery", "runtime", "base"], ["org", "eclipse", "incquery", "runtime", "api"]], "deep": 5, "interest_field": "org.eclipse.incquery.runtime.rete", "interest_length": 7, "interest_start": 14, "interest_end": 20}]

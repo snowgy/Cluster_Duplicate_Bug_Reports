@@ -1,0 +1,1 @@
+[{"field": [["com", "ibm", "icu"], ["org", "eclipse", "draw2d"], ["org", "eclipse", "birt"], ["org", "eclipse", "swt"], ["org", "eclipse", "ui"], ["org", "eclipse", "core"], ["org", "eclipse", "equinox"]], "deep": 3, "interest_field": "org.eclipse.draw2d", "interest_length": 19, "interest_start": 26, "interest_end": 44}]

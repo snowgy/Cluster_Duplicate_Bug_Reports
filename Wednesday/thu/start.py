@@ -1,5 +1,5 @@
-from callstack import CallStackLoader
-from field import FieldLoader
+from thu.callstack import CallStackLoader
+from thu.field import FieldLoader
 
 # 判断是否为包含关系，暂时判断为 item deep 全等，list size 可不同
 class FieldContain:
@@ -181,16 +181,16 @@ class Starter:
     #   'is_dup': 1 # 是否为相同 bug，靠上面所有的数据得出该结论
     # }
 
-def main():
-  starter = Starter()
-  result = starter.calculate(450135, 450134)
-  cal = CallStackIndex()
+# def main():
+#   starter = Starter()
+#   result = starter.calculate(450135, 450134)
+#   cal = CallStackIndex()
   
-  call_stacks1 = starter.callStackLoader.load_call_stack(450135)
-  call_stacks2 = starter.callStackLoader.load_call_stack(450134)
-  # print(call_stacks1[0]['inner'])
-  test = cal.calculate(call_stacks1[0]['inner'], call_stacks2[0]['inner'])
-  print('test:', test)
-  print(result)
+#   call_stacks1 = starter.callStackLoader.load_call_stack(450135)
+#   call_stacks2 = starter.callStackLoader.load_call_stack(450134)
+#   # print(call_stacks1[0]['inner'])
+#   test = cal.calculate(call_stacks1[0]['inner'], call_stacks2[0]['inner'])
+#   print('test:', test)
+#   print(result)
 
 # main()

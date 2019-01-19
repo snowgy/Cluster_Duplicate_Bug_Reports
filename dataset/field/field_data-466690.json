@@ -1,0 +1,1 @@
+[{"field": [["org", "eclipse", "osgi", "internal", "loader"]], "deep": 6, "interest_field": "org.eclipse.osgi.internal.loader", "interest_length": 4, "interest_start": 0, "interest_end": 3}, {"field": [["java", "security"], ["java", "net"], ["org", "eclipse"]], "deep": 2, "interest_field": "org.eclipse", "interest_length": 50, "interest_start": 6, "interest_end": 55}]

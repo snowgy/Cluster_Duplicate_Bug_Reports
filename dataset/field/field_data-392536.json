@@ -1,0 +1,1 @@
+[{"field": [["org", "eclipse", "persistence", "internal", "descriptors"], ["org", "eclipse", "persistence", "internal", "sessions"], ["org", "eclipse", "persistence", "internal", "jpa"]], "deep": 5, "interest_field": "org.eclipse.persistence.internal.sessions", "interest_length": 4, "interest_start": 3, "interest_end": 6}]

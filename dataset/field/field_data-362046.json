@@ -1,0 +1,1 @@
+[{"field": [["org", "eclipse", "osgi", "framework", "internal"], ["org", "eclipse", "virgo", "kernel", "osgi"], ["org", "eclipse", "virgo", "kernel", "install"], ["org", "eclipse", "osgi", "framework", "eventmgr"]], "deep": 5, "interest_field": "org.eclipse.osgi.framework.internal", "interest_length": 13, "interest_start": 9, "interest_end": 21}]

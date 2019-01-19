@@ -1,0 +1,1 @@
+[{"field": [["org", "hibernate", "engine"], ["org", "hibernate", "event"], ["org", "hibernate", "impl"], ["org", "eclipse", "emf"]], "deep": 3, "interest_field": "org.hibernate.event", "interest_length": 8, "interest_start": 1, "interest_end": 8}]

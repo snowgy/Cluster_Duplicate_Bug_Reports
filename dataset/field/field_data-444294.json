@@ -1,0 +1,1 @@
+[{"field": [["org", "eclipse", "recommenders"], ["org", "eclipse", "core"], ["org", "eclipse", "osgi"], ["java", "security"], ["org", "eclipse", "equinox"], ["org", "eclipse", "oomph"]], "deep": 3, "interest_field": "org.eclipse.equinox", "interest_length": 18, "interest_start": 14, "interest_end": 31}]

@@ -1,0 +1,1 @@
+[{"field": [["com"], ["javax"], ["org"]], "deep": 1, "interest_field": "org", "interest_length": 23, "interest_start": 17, "interest_end": 39}, {"field": [["org", "eclipse", "core"], ["org", "eclipse", "ui"], ["eu", "geclipse", "jsdl"], ["org", "eclipse", "swt"]], "deep": 3, "interest_field": "eu.geclipse.jsdl", "interest_length": 4, "interest_start": 4, "interest_end": 7}]

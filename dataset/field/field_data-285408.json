@@ -1,0 +1,1 @@
+[{"field": [["org", "eclipse", "ecf", "provider", "filetransfer", "httpclient"], ["org", "eclipse", "ecf", "provider", "filetransfer", "retrieve"]], "deep": 7, "interest_field": "org.eclipse.ecf.provider.filetransfer.retrieve", "interest_length": 3, "interest_start": 1, "interest_end": 3}]

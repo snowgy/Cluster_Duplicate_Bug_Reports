@@ -1,0 +1,1 @@
+[{"field": [["org", "eclipse", "tycho", "versionbump"], ["org", "apache", "maven", "plugin"], ["org", "apache", "maven", "lifecycle"], ["org", "eclipse", "tycho", "p2"]], "deep": 4, "interest_field": "org.eclipse.tycho.p2", "interest_length": 3, "interest_start": 3, "interest_end": 5}]

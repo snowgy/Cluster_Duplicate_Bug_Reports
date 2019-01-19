@@ -1,0 +1,1 @@
+[{"field": [["javax", "ws", "rs", "ext"], ["javax", "ws", "rs", "core"]], "deep": 5, "interest_field": "javax.ws.rs.ext", "interest_length": 2, "interest_start": 0, "interest_end": 1}, {"field": [["org", "apache", "catalina", "loader"], ["javax", "ws", "rs", "ext"]], "deep": 5, "interest_field": "javax.ws.rs.ext", "interest_length": 3, "interest_start": 2, "interest_end": 4}]

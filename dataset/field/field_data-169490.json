@@ -1,0 +1,1 @@
+[{"field": [["org", "eclipse", "aperi", "disk", "common", "util"], ["org", "eclipse", "aperi", "disk", "control"], ["org", "eclipse", "aperi", "disk", "common", "util", "thread"]], "deep": 8, "interest_field": "org.eclipse.aperi.disk.control", "interest_length": 2, "interest_start": 1, "interest_end": 2}]

@@ -1,0 +1,1 @@
+[{"field": [["org", "eclipse", "core", "internal", "dtree"], ["org", "eclipse", "core", "internal", "watson"], ["org", "eclipse", "core", "internal", "resources"], ["org", "eclipse", "core", "internal", "localstore"]], "deep": 5, "interest_field": "org.eclipse.core.internal.localstore", "interest_length": 50, "interest_start": 3, "interest_end": 52}]

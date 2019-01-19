@@ -1,0 +1,1 @@
+[{"field": [["org", "jboss", "as", "ejb3", "tx"], ["org", "jboss", "invocation"], ["org", "jboss", "as", "ejb3", "component", "interceptors"]], "deep": 7, "interest_field": "org.jboss.as.ejb3.tx", "interest_length": 4, "interest_start": 0, "interest_end": 3}]

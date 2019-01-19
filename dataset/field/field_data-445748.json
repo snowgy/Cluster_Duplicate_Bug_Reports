@@ -1,0 +1,1 @@
+[{"field": [["org", "eclipse", "recommenders"], ["org", "eclipse", "core"], ["org", "eclipse", "osgi"], ["org", "eclipse", "m2e"], ["ch", "qos", "logback"], ["org", "eclipse", "swt"], ["org", "eclipse", "e4"], ["org", "eclipse", "ui"], ["org", "eclipse", "equinox"]], "deep": 3, "interest_field": "ch.qos.logback", "interest_length": 7, "interest_start": 13, "interest_end": 19}]

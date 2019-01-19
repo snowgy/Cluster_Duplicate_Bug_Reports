@@ -1,0 +1,1 @@
+[{"field": [["org", "eclipse", "mylyn", "internal", "bugzilla", "core"]], "deep": 7, "interest_field": "org.eclipse.mylyn.internal.bugzilla.core", "interest_length": 2, "interest_start": 0, "interest_end": 1}, {"field": [["java"], ["com"], ["org"]], "deep": 1, "interest_field": "java", "interest_length": 4, "interest_start": 5, "interest_end": 8}]

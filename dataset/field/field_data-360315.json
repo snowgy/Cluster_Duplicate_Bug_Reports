@@ -1,0 +1,1 @@
+[{"field": [["org", "eclipse", "ecf", "provider"], ["org", "eclipse", "ecf", "internal"], ["org", "apache", "commons", "httpclient"]], "deep": 4, "interest_field": "org.apache.commons.httpclient", "interest_length": 6, "interest_start": 4, "interest_end": 9}]

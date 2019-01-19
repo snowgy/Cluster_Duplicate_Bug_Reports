@@ -1,0 +1,1 @@
+[{"field": [["org", "eclipse", "ecf", "protocol", "msn"], ["org", "eclipse", "ecf", "internal", "provider"], ["imclient", "connect"], ["org", "eclipse", "core", "internal", "jobs"]], "deep": 5, "interest_field": "org.eclipse.ecf.protocol.msn", "interest_length": 3, "interest_start": 0, "interest_end": 2}]

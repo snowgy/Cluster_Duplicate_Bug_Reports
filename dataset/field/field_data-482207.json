@@ -1,0 +1,1 @@
+[{"field": [["io", "vertx", "core", "http"], ["io", "vertx", "core", "http", "impl"], ["io", "vertx", "ext", "dropwizard", "impl"]], "deep": 6, "interest_field": "io.vertx.ext.dropwizard.impl", "interest_length": 2, "interest_start": 2, "interest_end": 3}]

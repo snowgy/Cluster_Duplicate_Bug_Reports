@@ -1,0 +1,1 @@
+[{"field": [["javax", "servlet", "http"], ["org", "eclipse", "jetty", "server"], ["org", "eclipse", "jetty", "io"], ["org", "eclipse", "jetty", "util"]], "deep": 4, "interest_field": "org.eclipse.jetty.server", "interest_length": 13, "interest_start": 1, "interest_end": 13}]

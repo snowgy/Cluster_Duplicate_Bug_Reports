@@ -1,0 +1,1 @@
+[{"field": [["hudson", "node_monitors"], ["hudson", "remoting"], ["java", "util"]], "deep": 2, "interest_field": "java.util", "interest_length": 4, "interest_start": 5, "interest_end": 8}, {"field": [["org", "hudsonci"], ["org", "eclipse"], ["hudson", "node_monitors"]], "deep": 2, "interest_field": "org.hudsonci", "interest_length": 1, "interest_start": 0, "interest_end": 0}]

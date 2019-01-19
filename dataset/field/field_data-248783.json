@@ -1,0 +1,1 @@
+[{"field": [["org", "eclipse", "equinox", "internal", "p2", "core", "helpers"], ["org", "eclipse", "equinox", "p2", "tests", "reconciler", "dropins"], ["junit", "framework"], ["org", "eclipse", "equinox", "p2", "tests"]], "deep": 8, "interest_field": "junit.framework", "interest_length": 7, "interest_start": 4, "interest_end": 10}]

@@ -1,0 +1,1 @@
+[{"field": [["eglx"], ["org"], ["eunitgen"]], "deep": 1, "interest_field": "eglx", "interest_length": 3, "interest_start": 0, "interest_end": 2}, {"field": [["org", "eclipse", "edt", "javart"]], "deep": 5, "interest_field": "org.eclipse.edt.javart", "interest_length": 1, "interest_start": 0, "interest_end": 0}]

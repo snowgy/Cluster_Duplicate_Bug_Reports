@@ -1,0 +1,1 @@
+[{"field": [["hudson", "remoting"], ["hudson"]], "deep": 3, "interest_field": "hudson.remoting", "interest_length": 3, "interest_start": 0, "interest_end": 2}, {"field": [["hudson", "remoting"], ["java", "io"], ["hudson"], ["hudson", "model"]], "deep": 2, "interest_field": "java.io", "interest_length": 11, "interest_start": 3, "interest_end": 13}]

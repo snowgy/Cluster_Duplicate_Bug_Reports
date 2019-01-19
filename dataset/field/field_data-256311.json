@@ -1,0 +1,1 @@
+[{"field": [["org", "eclipse", "dd", "dsf", "debug"], ["org", "eclipse", "dd", "dsf", "concurrent"], ["org", "eclipse", "dd", "dsf", "ui"], ["org", "eclipse", "swt", "widgets"]], "deep": 5, "interest_field": "org.eclipse.dd.dsf.concurrent", "interest_length": 2, "interest_start": 1, "interest_end": 2}]

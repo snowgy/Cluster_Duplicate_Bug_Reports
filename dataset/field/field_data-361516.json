@@ -1,0 +1,1 @@
+[{"field": [["org", "eclipse", "mat", "inspections"], ["org", "eclipse", "mat", "query"], ["org", "eclipse", "mat", "snapshot"], ["org", "eclipse", "mat", "ui"], ["org", "eclipse", "core", "internal"]], "deep": 4, "interest_field": "org.eclipse.mat.inspections", "interest_length": 3, "interest_start": 0, "interest_end": 2}]

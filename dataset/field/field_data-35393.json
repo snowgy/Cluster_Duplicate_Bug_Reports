@@ -1,0 +1,1 @@
+[{"field": [["org", "eclipse", "jface"], ["org", "eclipse", "ui"], ["org", "eclipse", "core"], ["EclipseRuntimeLauncher", "main"], ["org", "eclipse", "jdt"]], "deep": 3, "interest_field": "org.eclipse.ui", "interest_length": 2, "interest_start": 6, "interest_end": 7}]

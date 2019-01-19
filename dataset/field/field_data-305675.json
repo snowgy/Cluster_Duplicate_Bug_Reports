@@ -1,0 +1,1 @@
+[{"field": [["org"], ["javax"], ["winstone"], ["hudson"]], "deep": 1, "interest_field": "org", "interest_length": 84, "interest_start": 0, "interest_end": 83}, {"field": [["org", "apache", "commons", "jelly", "tags", "core"]], "deep": 7, "interest_field": "org.apache.commons.jelly.tags.core", "interest_length": 1, "interest_start": 0, "interest_end": 0}]

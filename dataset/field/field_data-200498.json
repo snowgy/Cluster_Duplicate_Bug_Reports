@@ -1,0 +1,1 @@
+[{"field": [["org", "eclipse", "jface"], ["org", "eclipse", "birt"], ["org", "eclipse", "draw2d"], ["org", "eclipse", "swt"]], "deep": 3, "interest_field": "org.eclipse.draw2d", "interest_length": 23, "interest_start": 7, "interest_end": 29}]

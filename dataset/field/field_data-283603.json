@@ -1,0 +1,1 @@
+[{"field": [["org", "eclipse", "draw3d"], ["org", "eclipse", "draw2d"], ["org", "eclipse", "emf"], ["org", "eclipse", "gef3d"], ["org", "eclipse", "gmf"], ["org", "eclipse", "swt"]], "deep": 3, "interest_field": "org.eclipse.draw2d", "interest_length": 8, "interest_start": 26, "interest_end": 33}]

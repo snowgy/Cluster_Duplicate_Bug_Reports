@@ -1,0 +1,1 @@
+[{"field": [["org", "eclipse", "emf", "codegen", "ecore", "generator"], ["org", "eclipse", "emf", "codegen", "ecore", "genmodel", "generator"], ["org", "apache", "tuscany", "sdo", "generate"]], "deep": 8, "interest_field": "org.eclipse.emf.codegen.ecore.genmodel.generator", "interest_length": 3, "interest_start": 1, "interest_end": 3}]

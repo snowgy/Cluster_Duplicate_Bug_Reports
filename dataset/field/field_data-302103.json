@@ -1,0 +1,1 @@
+[{"field": [["org", "eclipse", "birt", "data", "engine", "olap"], ["org", "eclipse", "birt", "report", "engine", "data"], ["org", "eclipse", "birt", "report", "engine", "executor"]], "deep": 6, "interest_field": "org.eclipse.birt.data.engine.olap", "interest_length": 4, "interest_start": 0, "interest_end": 3}]

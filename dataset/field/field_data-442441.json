@@ -1,0 +1,1 @@
+[{"field": [["org", "eclipse", "papyrus"], ["org", "eclipse", "gef"], ["org", "eclipse", "gmf"], ["org", "eclipse", "draw2d"], ["org", "eclipse", "swt"], ["org", "eclipse", "e4"], ["org", "eclipse", "core"], ["org", "eclipse", "ui"], ["org", "eclipse", "equinox"]], "deep": 3, "interest_field": "org.eclipse.gef", "interest_length": 6, "interest_start": 7, "interest_end": 12}]

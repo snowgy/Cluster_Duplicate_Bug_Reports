@@ -1,0 +1,1 @@
+[{"field": [["org", "eclipse", "tptp", "trace", "ui", "internal"], ["org", "eclipse", "tptp", "platform", "jvmti", "client"], ["org", "eclipse", "tptp", "trace", "ui", "provisional"]], "deep": 6, "interest_field": "org.eclipse.tptp.platform.jvmti.client", "interest_length": 4, "interest_start": 2, "interest_end": 5}]

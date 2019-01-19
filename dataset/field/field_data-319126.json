@@ -1,0 +1,1 @@
+[{"field": [["org", "eclipse", "ecf", "provider", "remoteservice"], ["org", "eclipse", "ecf", "internal", "osgi"], ["org", "eclipse", "osgi", "internal", "serviceregistry"]], "deep": 5, "interest_field": "org.eclipse.ecf.internal.osgi", "interest_length": 2, "interest_start": 1, "interest_end": 2}]

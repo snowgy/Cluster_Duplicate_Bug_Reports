@@ -1,0 +1,1 @@
+[{"field": [["org"], ["java"], ["weblogic"], ["iims"], ["jsp_servlet"]], "deep": 1, "interest_field": "weblogic", "interest_length": 12, "interest_start": 12, "interest_end": 23}, {"field": [["org", "aspectj", "apache", "bcel", "generic"]], "deep": 6, "interest_field": "org.aspectj.apache.bcel.generic", "interest_length": 6, "interest_start": 0, "interest_end": 5}]

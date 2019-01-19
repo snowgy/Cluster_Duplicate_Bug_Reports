@@ -1,0 +1,1 @@
+[{"field": [["java", "io"], ["org", "eclipse", "ptp", "internal", "rdt"], ["org", "eclipse", "ptp", "rdt", "sync"], ["org", "eclipse", "core", "internal", "jobs"]], "deep": 5, "interest_field": "org.eclipse.ptp.internal.rdt", "interest_length": 3, "interest_start": 1, "interest_end": 3}]

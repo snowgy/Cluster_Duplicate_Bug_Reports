@@ -1,0 +1,1 @@
+[{"field": [["org", "apache", "lucene"], ["org", "apache", "maven"], ["org", "eclipse", "m2e"], ["org", "eclipse", "core"]], "deep": 3, "interest_field": "org.apache.lucene", "interest_length": 9, "interest_start": 0, "interest_end": 8}]

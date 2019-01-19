@@ -1,0 +1,1 @@
+[{"field": [["com", "skype", "connector"], ["com", "skype"]], "deep": 4, "interest_field": "com.skype", "interest_length": 2, "interest_start": 1, "interest_end": 2}, {"field": [["com", "skype", "connector"]], "deep": 4, "interest_field": "com.skype.connector", "interest_length": 1, "interest_start": 0, "interest_end": 0}]

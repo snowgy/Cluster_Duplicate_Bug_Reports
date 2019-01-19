@@ -1,0 +1,1 @@
+[{"field": [["org", "eclipse", "aether", "transport"], ["org", "eclipse", "aether", "spi"], ["org", "eclipse", "aether", "connector"]], "deep": 4, "interest_field": "org.eclipse.aether.transport", "interest_length": 3, "interest_start": 0, "interest_end": 2}]

@@ -1,0 +1,1 @@
+[{"field": [["org", "eclipse", "jetty", "webapp"], ["org", "eclipse", "lyo", "oslc4j", "client"], ["org", "eclipse", "lyo", "oslc4j", "stockquote", "servlet"], ["java", "util"]], "deep": 7, "interest_field": "org.eclipse.jetty.webapp", "interest_length": 4, "interest_start": 0, "interest_end": 3}]

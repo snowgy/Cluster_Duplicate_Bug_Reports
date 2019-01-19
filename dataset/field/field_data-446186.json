@@ -1,0 +1,1 @@
+[{"field": [["org", "apache"], ["org", "tmatesoft"], ["org", "polarion"]], "deep": 2, "interest_field": "org.tmatesoft", "interest_length": 3, "interest_start": 1, "interest_end": 3}, {"field": [["org", "tmatesoft"], ["org", "polarion"], ["org", "eclipse"]], "deep": 2, "interest_field": "org.tmatesoft", "interest_length": 23, "interest_start": 0, "interest_end": 22}]
