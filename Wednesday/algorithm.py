@@ -5,7 +5,10 @@ from sklearn.metrics import classification_report
 from stack_package_index import StackPackageIndex
 from thu.report_loader import ReportLoader
 from thu.start import Starter
+from multiprocessing import Pool
+import time
 
+start_time = time.time()
 # 计算某一 stack 与另一 stack 的结果
 class Algorithm:
     def __init__(self):
@@ -239,7 +242,7 @@ class ResultUtils:
         outfile.close()
 
 
-def main():
+def main(count=100, shift=0, fliter=False, showdiff=False):
     fileUtils = ReportLoader()
     algorithm = Algorithm()
     resultUtils = ResultUtils()
@@ -297,27 +300,56 @@ def main():
         return formated_result
 
     # 启动代码：
-    print('配置：')
+    # print('配置：')
     start = 0
-    end = 100
+    end = 10
     fliter = False
     showdiff = False
-    print('开始角标：', start)
-    print('结束角标：', end)
-    print('需要计算的 stack 数据量：', end - start)
-    print('是否过滤可能人工未标注的结果：', fliter)
-    print('是否打印预测不一致结果：', showdiff) # 即：预测结果与原始结果不一致的情况
+    # print('开始角标：', start)
+    # print('结束角标：', end)
+    # print('需要计算的 stack 数据量：', end - start)
+    # print('是否过滤可能人工未标注的结果：', fliter)
+    # print('是否打印预测不一致结果：', showdiff) # 即：预测结果与原始结果不一致的情况
+
+
 
     # result = run_demo(450178, fliter=fliter, showdiff=showdiff)
-    result = run_all(count=(end - start), shift=start, fliter=fliter, showdiff=showdiff)
-    print('F1-Score 结果：')
-    print(classification_report(result['real_list'], result['pred_list']))
+    # result = run_all(count=(end - start), shift=start, fliter=fliter, showdiff=showdiff)
+    # print('F1-Score 结果：')
+    # print(classification_report(result['real_list'], result['pred_list']))
     # print(total_result)
     # print('run: stack_id:: 450132')
     # result = run_demo(450132)
     # print(classification_report(result['real_list'], result['pred_list']))
 
-main()
+    results = []
+    index = 0
+    ids = fileUtils.load_id_from_dir()
+    print('进度大概是', shift, '/15000  eta:', (time.time()-start_time)/shift*(15000-shift), 's')
+    # print('总共将要比对的 report 数量：', len(ids))
+    # print('==================== 开始计算！====================')
+    for report_id in ids:  # 遍历文件夹
+        index += 1
+        if index <= shift: continue
+        if index >= count + shift + 1:  # 设定最多处理的条数，否则每次都跑完所有的数据会很耗时
+            return resultUtils.combine(results)
+        ## start
+        # print('进度：%.3f%%' % (100 * (index - shift) / count), '\tcurrent stack_id: ' + str(report_id))
+        result = cal_report_to_others(report_id, ids)
+        if showdiff:
+            resultUtils.show_diff(result, fliter=fliter)  # 会打印运算过程中与真实结果不一致的 id，便于手动检验，非 debug 时可删去该过程
+        formated_result = resultUtils.format(result, fliter=fliter)
+        results.append(formated_result)
+    return resultUtils.combine(results)
+
+
+if __name__ == '__main__':
+    p = Pool(64)
+    for i in range(15000):
+        p.apply_async(main, args=(1, i))
+    p.close()
+    p.join()
+
 
 def test():
     fileUtils = ReportLoader()
