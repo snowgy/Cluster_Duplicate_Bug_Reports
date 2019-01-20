@@ -308,8 +308,8 @@ def main():
     print('是否过滤可能人工未标注的结果：', fliter)
     print('是否打印预测不一致结果：', showdiff) # 即：预测结果与原始结果不一致的情况
 
-    # result = run_demo(450178, fliter=fliter, showdiff=showdiff)
-    result = run_all(count=(end - start), shift=start, fliter=fliter, showdiff=showdiff)
+    result = run_demo(100310, fliter=fliter, showdiff=showdiff)
+    # result = run_all(count=(end - start), shift=start, fliter=fliter, showdiff=showdiff)
     print('F1-Score 结果：')
     print(classification_report(result['real_list'], result['pred_list']))
     # print(total_result)

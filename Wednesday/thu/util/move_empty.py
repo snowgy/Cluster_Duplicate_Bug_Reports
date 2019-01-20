@@ -42,4 +42,16 @@ def start():
       count += 1
   print("total count: ", count)
 
-start()
+def start2(): # 去除部分数据，（数据太多了。。
+  ids = load_id_from_dir()
+  count = 0
+  for id in ids:
+    if id > 450000 and id < 480000:
+      report = load_report(id)
+      if not is_empty(report):
+        print("save report: ", id)
+        save_report(id, report)
+        count += 1
+  print("total count: ", count)
+
+start2()

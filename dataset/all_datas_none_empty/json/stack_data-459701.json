@@ -1,0 +1,1 @@
+{"stack_id": 459701, "component": "Diagram", "importance": "P2 major", "reported_time": "2015-02-11 12:04", "modified_time": "2015-05-28 09:16", "stack_arr": [{"exception": "java.lang.ClassCastException", "calls": [{"package": "org.eclipse.emf.ecore.impl", "class": "BasicEObjectImpl", "method": "eSet", "filename": "BasicEObjectImpl", "line": "1071"}]}], "duplicated_stack_id": []}

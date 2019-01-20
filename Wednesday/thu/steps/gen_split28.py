@@ -1,6 +1,8 @@
 OUT_DIR = "../sim_data"
 # MAX_SIZE = 1000
 
+# STEP 3
+
 def load_data():
   result = []
   with open('stack_test_and_train_data.txt', 'r') as f:
