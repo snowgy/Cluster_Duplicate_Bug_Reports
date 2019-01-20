@@ -1,0 +1,1 @@
+[{"field": [["org", "eclipse"], ["mytests", "util"], ["org", "junit"]], "deep": 2, "interest_field": "org.eclipse", "interest_length": 32, "interest_start": 30, "interest_end": 61}, {"field": [["org", "eclipse", "emf", "internal", "cdo", "view"]], "deep": 7, "interest_field": "org.eclipse.emf.internal.cdo.view", "interest_length": 4, "interest_start": 0, "interest_end": 3}]

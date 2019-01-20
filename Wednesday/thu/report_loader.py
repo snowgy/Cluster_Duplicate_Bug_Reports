@@ -13,6 +13,7 @@ class ReportLoader:
         ids = []
         filenames = os.listdir(path)
         for filename in filenames:  # 遍历文件夹
+            if len(filename) < 10: continue
             report_id = int(filename[11:-5])
             ids.append(report_id)
         return ids

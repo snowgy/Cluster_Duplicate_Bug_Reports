@@ -1,0 +1,1 @@
+[{"field": [["java", "nio", "file"], ["org", "eclipse", "jgit"], ["org", "eclipse", "egit"], ["org", "eclipse", "jface"], ["org", "eclipse", "core"], ["org", "eclipse", "ui"], ["org", "eclipse", "swt"]], "deep": 3, "interest_field": "org.eclipse.jface", "interest_length": 12, "interest_start": 28, "interest_end": 39}]
