@@ -8,6 +8,7 @@ def gen_1():
     t_result = {}
     p_result = {}
     for file in files:
+        if len(file) < 10: continue
         f = open(path + "/" + file)
         line = f.readline()
         p_dup = []
