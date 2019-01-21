@@ -25,7 +25,7 @@ def gen_1():
         p_result.setdefault(tmpid, p_dup)
         f.close()
 
-    for i in range(5):
+    for i in range(2):
         for stk_id in t_result:
             for dup_id in t_result[stk_id]:
                 try:
@@ -45,7 +45,7 @@ def gen_1():
     fileObject.write(jsObj)
     fileObject.close()
 
-    for i in range(5):
+    for i in range(2):
         for stk_id in p_result:
             for dup_id in p_result[stk_id]:
                 try:
@@ -81,7 +81,8 @@ def gen_2():
                 if dup_stk not in visited:
                     visited.add(dup_stk)
                     tmp.append(dup_stk)
-        result.append(tmp)
+        if tmp is not []:
+            result.append(tmp)
 
     jsObj = json.dumps(result)
     fileObject = open('./formatted_result/p_result_2.json', 'w')
@@ -102,7 +103,8 @@ def gen_2():
                 if dup_stk not in visited:
                     visited.add(dup_stk)
                     tmp.append(dup_stk)
-        result.append(tmp)
+        if tmp is not []:
+            result.append(tmp)
 
     jsObj = json.dumps(result)
     fileObject = open('./formatted_result/t_result_2.json', 'w')
