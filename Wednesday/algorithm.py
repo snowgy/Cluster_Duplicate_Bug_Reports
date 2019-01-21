@@ -325,7 +325,7 @@ def main(count=100, shift=0, fliter=False, showdiff=False):
     results = []
     index = 0
     ids = fileUtils.load_id_from_dir()
-    print('进度大概是', shift, '/15000  eta:', (time.time()-start_time)/shift*(15000-shift), 's')
+    print('进度大概是', shift, '/1962  eta:', (time.time()-start_time)/shift*(1962-shift), 's')
     # print('总共将要比对的 report 数量：', len(ids))
     # print('==================== 开始计算！====================')
     for report_id in ids:  # 遍历文件夹
@@ -345,7 +345,7 @@ def main(count=100, shift=0, fliter=False, showdiff=False):
 
 if __name__ == '__main__':
     p = Pool(64)
-    for i in range(15000):
+    for i in range(1962):
         p.apply_async(main, args=(1, i))
     p.close()
     p.join()

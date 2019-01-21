@@ -1,1 +1,0 @@
-[{"field": [["org", "eclipse", "recommenders"], ["org", "eclipse", "core"], ["org", "eclipse", "osgi"], ["org", "eclipse", "wst"], ["org", "eclipse", "jst"], ["org", "eclipse", "ltk"], ["org", "eclipse", "jface"]], "deep": 3, "interest_field": "org.eclipse.wst", "interest_length": 10, "interest_start": 11, "interest_end": 20}]
