@@ -325,7 +325,7 @@ def main(count=100, shift=0, fliter=False, showdiff=False):
     results = []
     index = 0
     ids = fileUtils.load_id_from_dir()
-    print('进度大概是', shift, '/1962  eta:', (time.time()-start_time)/shift*(1962-shift), 's')
+    print('进度大概是', shift, '/1961  eta:', (time.time()-start_time)/shift*(1962-shift), 's')
     # print('总共将要比对的 report 数量：', len(ids))
     # print('==================== 开始计算！====================')
     for report_id in ids:  # 遍历文件夹
@@ -336,15 +336,15 @@ def main(count=100, shift=0, fliter=False, showdiff=False):
         ## start
         # print('进度：%.3f%%' % (100 * (index - shift) / count), '\tcurrent stack_id: ' + str(report_id))
         result = cal_report_to_others(report_id, ids)
-        if showdiff:
-            resultUtils.show_diff(result, fliter=fliter)  # 会打印运算过程中与真实结果不一致的 id，便于手动检验，非 debug 时可删去该过程
+        # if showdiff:
+        #     resultUtils.show_diff(result, fliter=fliter)  # 会打印运算过程中与真实结果不一致的 id，便于手动检验，非 debug 时可删去该过程
         formated_result = resultUtils.format(result, fliter=fliter)
         results.append(formated_result)
     return resultUtils.combine(results)
 
 
 if __name__ == '__main__':
-    p = Pool(64)
+    p = Pool(16)
     for i in range(1962):
         p.apply_async(main, args=(1, i))
     p.close()
