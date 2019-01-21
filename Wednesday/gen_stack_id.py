@@ -2,7 +2,7 @@ import json, os, itertools
 
 ## STEP 1
 
-JSON_DIR = '../../../dataset/json'
+JSON_DIR = '../dataset/json'
 
 data = {}
 
@@ -22,11 +22,11 @@ def load_id_from_dir(path=JSON_DIR):
   return ids
 
 def save(data):
-  with open('./stack_dups_data.json', 'w') as outfile:
+  with open('./thu/steps/stack_dups_data.json', 'w') as outfile:
     json.dump(data, outfile)
 
 def load_data():
-  data_file = open('./stack_dups_data.json')
+  data_file = open('./thu/steps/stack_dups_data.json')
   return json.load(data_file)
 
 def update_info(report_id, other_id):    
@@ -81,5 +81,5 @@ def start_save_to_stack():
     
   print("DONE!")
 
-# start_single_file()
+start_single_file()
 start_save_to_stack()
