@@ -1,5 +1,6 @@
 from callstack import CallStackLoader
 from field import FieldLoader
+import math
 
 # 判断是否为包含关系，暂时判断为 item deep 全等，list size 可不同
 class FieldContain:
@@ -59,9 +60,36 @@ class FieldIndex:
 
 # 计算两个 callstack 调用链的相似度
 class CallStackIndex:
-  def calculate(self, callstack1, callstack2):
-    # print(callstack1)
+  def calculate(self, callstack1, callstack2, c=1, o=1):
     pc_list1 = CallStackIndex.generate_package_tuple(self, callstack1)
+    pc_list2 = CallStackIndex.generate_package_tuple(self, callstack2)
+    if pc_list1 < pc_list2:
+      short_list = pc_list1
+      long_list = pc_list2
+    else:
+      short_list = pc_list2
+      long_list = pc_list1
+    L = []
+    for i in range(len(short_list)):
+      s_iterm = short_list[i]
+      for j in range(len(long_list)):
+        l_iterm = long_list[j]
+        if s_iterm[0] == l_iterm[0] and s_iterm[1] == l_iterm[1]:
+          L.append((s_iterm, i, j))
+          break
+    Q = 0
+    for item in L:
+      # print("item", item)
+      Q += math.pow(math.e, -c*min(item[1], item[2]))*math.pow(math.e, -o*abs(item[1]-item[2]))
+    divider = sum(math.pow(math.e, -c * j) for j in range(min(len(callstack1), len(callstack2)) + 1))
+    sim = Q/divider
+    # print("Q", Q)
+    # print("D", divider)
+    return sim      
+
+  def calculate2(self, callstack1, callstack2):  
+    pc_list1 = CallStackIndex.generate_package_tuple(self, callstack1)
+    # print(pc_list1)
     # for i in range(0, len(pc_list)):
     #   print(pc_list[i])
     # return 1
@@ -183,14 +211,14 @@ class Starter:
 
 def main():
   starter = Starter()
-  result = starter.calculate(450135, 450134)
+  result = starter.calculate(100303, 538242)
   cal = CallStackIndex()
-  
-  call_stacks1 = starter.callStackLoader.load_call_stack(450135)
-  call_stacks2 = starter.callStackLoader.load_call_stack(450134)
+  call_stacks1 = starter.callStackLoader.load_call_stack(100937)
+  # print(call_stacks1)
+  call_stacks2 = starter.callStackLoader.load_call_stack(152468)
   # print(call_stacks1[0]['inner'])
   test = cal.calculate(call_stacks1[0]['inner'], call_stacks2[0]['inner'])
-  # print('test:', test)
+  print('test:', test)
   # print(result)
 
 main()
